@@ -1,0 +1,19 @@
+     {
+      "id"  : {{(cells["codice esercizio"].value)}},
+      "lat" : {{(cells["lat"].value)}},
+      "lon" : {{(cells["lng"].value)}},
+      "tags" : {              
+               "ref"   : {{jsonize(cells["codice esercizio"].value)}},
+               "name"  : {{jsonize(cells["name"].value)}},
+               "operator"  : {{jsonize(cells["operator"].value)}},
+               "email" : {{jsonize(cells["EMAIL"].value)}},
+               "website" : {{jsonize(cells["SITO"].value)}},
+               "beds" : {{jsonize(cells["N_POSTI_LETTO"].value)}},
+               "rooms" : {{jsonize(cells["N_CAMERE"].value)}},
+               "phone" : {{jsonize(cells["TELEFONO"].value)}},
+               "fax" : {{jsonize(cells["TELEFONO"].value)}},
+               "opening_hours" : {{jsonize(cells["oh"].value)}},
+               "address" : {{jsonize(cells["INDIRIZZO 1"].value+" "+cells["INDIRIZZO 2"].value+", "+cells["COMUNE"].value)}},
+               "tourism" : "guest_house"
+               }
+     }
