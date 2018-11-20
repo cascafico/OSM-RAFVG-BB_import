@@ -3,12 +3,12 @@ I've found a 600+ rows Bed&Breakfast dataset, available opendata by RAFVG w/o ge
 ## Data preparation
 ### Openrefine
 operations file has been applied to  > BBtogeocode.csv
-sed -i -e "s/'//" BB.csv 
+sed -i -e "s/'//g" BB.csv 
 csvgeocode BBtogeocode.csv BBgeocoded.csv--handler mapbox --delay 1000 --verbose --url "http://api.tiles.mapbox.com/v4/geocode/mapbox.places/{{INDIRIZZO}},{{CAP}} {{COMUNE}}.json?access_token=xxx"
 ### Exporting in json
 export file has been applied to BB.json
 ### checking and removing null elements
-cat BBgeocoded.json | grep null | sort -u
+cat BBgeocoded.json | grep null | sort -u   
 sed -i -e '/null/d' -e '/""/d' BBgeocoded.json
 ### Fix geocode errors
 Openrefine facet in bbox
