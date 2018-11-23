@@ -9,7 +9,8 @@ source = 'RAFVG'
 # aggiunge tag ref:<dataset_id>=<id del Mpaaf>
 # True -> relying only on geometric matching every time
 no_dataset_id = True
-dataset_id = 'rafvg'
+# anagrafe regionale delle strutture turistico-ricettive
+dataset_id = 'arstr'
 
 # Overpass query to use when searching OSM for data
 #overpass_timeout = 120 default
