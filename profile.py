@@ -18,7 +18,7 @@ overpass_timeout = 300
 #query = [('amenity', 'fuel')],[('waterway', 'fuel')]  or condition
 #query = [('amenity', 'fuel'),('disused:amenity','fuel')]  namespace disused and abandoned are implicit
 #query = [('amenity', 'fuel'),('ref:mise','.*')] 
-query = [('tourism', 'guest_house')] 
+query = [('tourism', 'guest_house')]
 
 # parameter --osm will use indipendently generated queries, ie:
 # http://overpass-turbo.eu/s/BZq
@@ -34,7 +34,7 @@ bbox = True
 #bbox = [35.28,6.62,47.1,18.79]
 
 # tags to replace on matched OSM objects
-master_tags = ('name','website','phone')
+master_tags = ('operator')
 
 delete_unmatched = False
 #tag_unmatched = { 'fixme':'questo albero può essere abbattuto/declassificato' }

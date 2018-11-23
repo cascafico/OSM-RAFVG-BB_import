@@ -1,0 +1,1 @@
+java -Xmx200M -jar /home/pi/apps/reconcile-csv-0.1.2.jar  fvg_highway_names_id.csv odonimo ID

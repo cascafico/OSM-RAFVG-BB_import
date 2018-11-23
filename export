@@ -10,10 +10,12 @@
                "website" : {{jsonize(cells["SITO"].value)}},
                "beds" : {{jsonize(cells["N_POSTI_LETTO"].value)}},
                "rooms" : {{jsonize(cells["N_CAMERE"].value)}},
-               "phone" : {{jsonize(cells["TELEFONO"].value)}},
+               "phone" : {{jsonize(cells["phone"].value)}},
                "fax" : {{jsonize(cells["TELEFONO"].value)}},
                "opening_hours" : {{jsonize(cells["oh"].value)}},
                "address" : {{jsonize(cells["INDIRIZZO 1"].value+" "+cells["INDIRIZZO 2"].value+", "+cells["COMUNE"].value)}},
-               "tourism" : "guest_house"
+               "tourism" : "guest_house",
+               "guest_house" : "bed_and_breakfast"
                }
      }
+

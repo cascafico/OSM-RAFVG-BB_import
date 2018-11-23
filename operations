@@ -740,5 +740,210 @@
       "facets": []
     },
     "columnName": "INDIRIZZO 1"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column COMUNE using expression grel:replace(value, \" D \", \" D\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "COMUNE",
+    "expression": "grel:replace(value, \" D \", \" D\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AIELLO DEL FRIULI",
+                "l": "AIELLO DEL FRIULI"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "COMUNE",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "COMUNE"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ARBA",
+                "l": "ARBA"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "COMUNE",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "COMUNE"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CAVASSO NUOVO",
+                "l": "CAVASSO NUOVO"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "COMUNE",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "COMUNE"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "FIUME VENETO",
+                "l": "FIUME VENETO"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "COMUNE",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "COMUNE"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "MOGGIO UDINESE",
+                "l": "MOGGIO UDINESE"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "COMUNE",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "COMUNE"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column TELEFONO using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "TELEFONO",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column phone at index 13 based on column TELEFONO using expression grel:cells[\"TELEFONO\"].value+\";\"+cells[\"CELLULARE\"].value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "phone",
+    "columnInsertIndex": 13,
+    "baseColumnName": "TELEFONO",
+    "expression": "grel:cells[\"TELEFONO\"].value+\";\"+cells[\"CELLULARE\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phone using expression grel:chomp(value,\";\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phone",
+    "expression": "grel:chomp(value,\";\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phone using expression grel:if ( value[0]==\";\",substring(value,1),value)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phone",
+    "expression": "grel:if ( value[0]==\";\",substring(value,1),value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
