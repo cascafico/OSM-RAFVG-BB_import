@@ -1,0 +1,685 @@
+codice esercizio,city,CATEGORIA,name,operator,INDIRIZZO 1,INDIRIZZO 2,CAP,phone,CELLULARE,FAX,EMAIL,SITO,N_CAMERE,oh,N_POSTI_LETTO,N_BAGNI
+48460,CORMONS,3S,B&B da Sandruta,Zanuttin Stefano,VIA GORIZIA,18/3,34071,+39 0481 630887;+39 328 1792456,+39 328 1792456,,dasandruta@yahoo.it,,1,"Jan 01 - Aug 11, Aug 13 - Dec 31",4,1
+40080,CORMONS,3S,B&B Morena,Picech Morena,VIA BANCARIA,17,34071,+39 0481 630370;+39 328 8690394,+39 328 8690394,+39 0481 630670,corradomorena@alice.it,,2,Jan 10 - Dec 20,4,2
+2455,CORMONS,3S,La Casa di Alice,Brandolin Anna,VIA ARA PACIS,22,34071,+39 335 377994,+39 335 377994,+39 0481 61743,annabrandolin@tiscali.it,www.wel.it/alice,4,Mar 15 - Dec 15,8,4
+34720,CORMONS,2,Al Piave,Mrmolja Zora,VIA PIAVE,29/3,34071,+39 0481 60250;+39 329 2128745,+39 329 2128745,+39 0481 60250,,,1,"Jan 01 - Aug 14, Sep 01 - Dec 14",4,1
+53582,CORMONS,3,B&B Kozovci,Sirk Adriano,VIA SUBIDA,67,34071,+39 0481 60531,,+39 0481 61616,info@lasubida.it,www.lasubida.it,1,Jan 01 - Feb 16,3,1
+66901,CORMONS,3,Sunny's House,Gaeta Ciro,VIA COLOMBICCHIO,4/TER,34071,+39 335 1590350  338 4577939,+39 335 1590350  338 4577939,,cirogaeta@alice.it,,1,Jan 01 - Dec 31,3,1
+43640,DOBERDÒ DEL LAGO,,Villa Al Bosco,Stepanovic Radmila,VIA PRIMO MAGGIO,3/A,34070,+39 333 7375197,+39 333 7375197,,villaalbosco@yahoo.it,www.villa-albosco.it,2,Jun 01 - Aug 31,4,2
+49461,DOLEGNA DEL COLLIO,2,Casale Santa Rita,Travaglio Rita,Località VENCO,16,34070,+39 048 1639145;+39 340 0753210,+39 340 0753210,+39 048 1629500,franco.giorgini@libero.it,,1,May 01 - Sep 30,2,1
+3340,DOLEGNA DEL COLLIO,,Casa Delle Rose,Culot Maurizia,Frazione RUTTARS,17,34070,+39 347 7515804,,+39 0481 33997,info@casadellerose.it,www.casadellerose.it,2,May 01 - Sep 30,5,1
+33840,DOLEGNA DEL COLLIO,,Il Girasole,Stafuzza Sabrina,Località VENCO,8,34070,+39 0481 61692;+39 338 8997339,+39 338 8997339,,bb-girasole@email.it,,3,Mar 01 - Jul 15,7,3
+70961,FARRA DISONZO,2,News'home,Brumat Valentina,VIA DANTE ALIGHIERI,42,34072,+39 340 4960722;+39 340 4960722,+39 340 4960722,,valebrumat@gmail.com,,2,Mar 01 - Nov 30,4,1
+44120,FARRA DISONZO,3,Al Gloriet,Brumat Marina,VIA GUIDO PELLIZZARI,4,34072,+39 340 5767398,+39 340 5767398,,info@algloriet.it,www.algloriet.it,1,"Jan 01 - Jan 30, Feb 16 - Sep 27, Oct 02 - Oct 05, Oct 09 - Dec 31",4,1
+2379,FOGLIANO REDIPUGLIA,,Xweek,Zonca Marco,VIA CAU DE SOTO,27/12,34070,+39 348 2868641,+39 348 2868641,,marco@xweek.it,www.xweek.it,2,"Jan 01 - Aug 31, Sep 16 - Dec 31",6,1
+3721,GORIZIA,3S,Al Castello,Devetag Francesco,VIA G. DANNUNZIO,36,34170,+39 340 3141672,+39 340 3141672,+39 0481 548066,alcastello.go@libero.it,www.alcastellogorizia.com,4,"Jan 01 - Jan 06, Feb 21 - Mar 20, Apr 19 - Jul 31, Aug 26 - Oct 31, Dec 01 - Dec 23, Dec 27 - Dec 31",8,4
+71283,GORIZIA,3S,"B&B  ""ai Confini Dell'impero""",Premier Roberto,CORSO ITALIA,178,34170,+39 0481 81366;+39 333 6171546,+39 333 6171546,+39 0481 81366,luzzattopremier@alice.it,,4,Jan 01 - Dec 31,7,4
+71282,GORIZIA,3S,B&B Teuffenbach,Orzan Francesca,Località Piuma,30,34170,+39 346 3010870,+39 346 3010870,,villateuffenbach@gmail.com,,2,Jan 01 - Dec 31,4,2
+38620,GORIZIA,3S,Flumen,Katja Klanjscek,VIA BRIGATA CUNEO,20,34170,+39 0481 391877;+39 347 1289944,+39 347 1289944,+39 0481 391877,info@bbflumen.it,www.bbflumen.it,3,"Jan 01 - Jan 09, Jan 21 - Jan 29, Feb 04 - Feb 26, Mar 04 - Jul 29, Aug 05 - Dec 11, Dec 16 - Dec 31",8,3
+42160,GORIZIA,3S,Lucciole Per Lanterne,Stanic Valentina,DEI LEONI,78,34170,+39 0481 390682;+39 347 0487300,+39 347 0487300,,casa@luccioleperlanterne.com,www.luccioleperlanterne.com,3,"Jan 01 - Jan 06, Jan 14 - Dec 31",6,3
+43245,GORIZIA,2,Al Vecchio Confine,Tomasi Donatella,VIA FOSCOLO,31,34170,+39 0481 535985;+39 349 2501004,+39 349 2501004,+39 0481 535985,donatella.tomasi@libero.it,,2,"May 01 - Sep 30, Dec 01 - Dec 31",3,1
+57760,GORIZIA,2,Attico da Betta,Pontoni Elisabetta,VIA ROMA,26,34170,+39 347 8520825,+39 347 8520825,,atticodabetta@gmail.com,,3,"Jan 10 - Feb 23, Mar 03 - Jul 22, Aug 22 - Aug 28, Sep 01 - Dec 22",6,1
+51260,GORIZIA,2,B&B Palazzo Lantieri,De Levetzow Lantieri Carolina,PIAZZA SANTANTONIO,6,34170,+39 340 5590155,+39 340 5590155,+39 0481 533284,contatto@palazzo-lantieri.com,www.palazzo-lantieri.com,4,"Jan 01 - Jan 06, Jan 21 - Jul 31, Aug 14 - Dec 19, Dec 27 - Dec 31",8,3
+42441,GORIZIA,3,B&B Lucia,Nanut Paolo,del San Michele,300/D,34170,+39 0481 522963;+39 340 3955606,+39 340 3955606,,paolo.nanut@libero.it,,3,"Jan 01 - Feb 17, Feb 23 - Dec 31",6,2
+3400,GORIZIA,,Casa Spina,Kischel Rita,VIA RASTELLO,37,34170,+39 0481 32729;+39 338 3971670,+39 338 3971670,+39 0481 32729,,,3,"Jan 01 - Feb 19, Mar 05 - Dec 31",4,1
+62820,GRADISCA DISONZO,2,Casa Josef, Bordon Ezio,VIA ROMA,61,34072,+39 388 5729449,+39 388 5729449,,,,3,Jan 01 - Dec 31,6,1
+65300,GRADISCA DISONZO,2,Eggenberg,Gaudiano Furio,VIALE TRIESTE,40,34072,+39 0481 99899;+39 346 3951465,+39 346 3951465,,furiogaudiano@yahoo.it,,2,"Jan 01 - Jan 31, Mar 01 - Dec 31",5,1
+48960,GRADISCA DISONZO,2,La Fortezza,Pugliese Assunta,VIALE TRIESTE,27,34072,+39 0481 483236;+39 338 6227497,+39 338 6227497,,assita46@libero.it,,1,"Jan 03 - Jan 15, Feb 01 - Sep 30, Nov 01 - Dec 31",2,1
+64603,GRADO,2,Al Bon Vento,Galante Brian,VIA  CITTANOVA,17,34073,+39 333 1070983,+39 333 1070983,,albonvento@gmail.com,,3,Mar 21 - Oct 21,6,1
+33400,GRADO,2,Alle Conchiglie,Benolich Maria,VIA ISONZO VECCHIO,21,34073,+39 0431 88157;+39 339 5393515,+39 339 5393515,+39 0431 88157,,,2,Apr 01 - Oct 31,3,1
+69100,GRADO,2,Casa di Mirea,Carmine Gianni,VIA DEL TINTORETTO,13,34073,+39 339 4326013,+39 339 4326013,,,,4,Jan 01 - Dec 31,7,4
+67682,GRADO,2,Friendly Home, Marchesan Antonella,VIA SANTAGATA,6,34073,+39 339 4008237,,,anto.m80@rgilio.it,,2,Apr 01 - Oct 31,3,1
+72221,GRADO,3,Al Sol Levante,Zeper Nereo,VIA VERTENEGLIO,7,34073,+39 0431 88169,,,nereozeper@gmail.com,,2,Jan 01 - Dec 31,5,2
+67221,MEDEA,2,Bed & Breakfast East Wind,Armone Patrizia,VIA    SCUOLE,5,,+39 339 4884613,+39 339 4884613,,,,2,"Mar 15 - Aug 30, Oct 01 - Dec 31",4,1
+54700,MONFALCONE,3S,Gasiso,Argiro' Silvio,VIA SORGENTE,6,34074,+39 348 9217017,+39 348 9217017,+39 0,argiro.silvio@libero.it,,3,Jan 01 - Dec 31,5,3
+63841,MONFALCONE,2,Angelo Rossi B&B,,VIALE SAN MARCO,60,34074,+39 320 4385525,+39 320 4385525,,b&b@angelorossi.it,,2,Jan 01 - Dec 31,3,2
+72300,MONFALCONE,2,B&B Il Ciliegio,Piazza Laura,AULO MANLIO,41,34074,+39 340 8320555,+39 340 8320555,,,,2,Jan 01 - Dec 31,2,1
+49961,MONFALCONE,2,B&B da Leo,Marchione Christian,VIA SAN NICOLO,11,34074,+39 0481 095770;+39 373 8684850,+39 373 8684850,+39 0481 1990230,christian.marchione@libero.it,www.bbdaleo.it,2,Feb 01 - Nov 30,3,1
+52800,MONFALCONE,2,L'ormeggio,Favretto Laura,SAN GABRIELE,2,34074,+39 320 8538875,+39 320 8538875,,bandb.lormeggio2013@tiscali.it,,4,"Jan 01 - Feb 15, Mar 01 - May 10, May 20 - Jul 31, Aug 01 - Nov 15, Dec 04 - Dec 31",7,3
+54000,MONFALCONE,2,La Casa Piccola ,Maggiore Maurizio,VIA TRIESTE,128,34074,+39 0481 484210;+39 348 2700815,+39 348 2700815,,lacasapiccola@libero.it,,2,Jan 01 - Dec 31,3,1
+55780,RONCHI DEI LEGIONARI,3S,B&B Borgo San Vito,Deiuri Ivana,VIA SAN VITO,8,34077,+39 340 2882561;+39 340 2882561,+39 340 2882561,,info.borgosanvito@gmail.com,www.borgosanvito.it,1,Jan 01 - Dec 31,2,1
+57720,RONCHI DEI LEGIONARI,2,Casa Ersilia, Beltrame Alessio,VIA MONTE COSICH,62,34077,+39 334 6060890,+39 334 6060890,,eziodona@gmail.com,,1,Jan 01 - Dec 31,2,1
+57700,RONCHI DEI LEGIONARI,3,Villa Wanda,,VIA DELLE LOARE,9,34077,+39 0039 347 8950101,+39 0039 347 8950101,,taniapetroni89@gmail.com,,1,Apr 01 - Dec 31,2,1
+44000,RONCHI DEI LEGIONARI,,Villa Anita,Marizza Paolo,PIAZZA SAN TOMMASO,10/B,34077,+39 0481 475244,,,anita@villanita-guesthouse.it,www.villanita-guesthouse.it,2,"Apr 01 - Sep 30, Oct 15 - Dec 31",4,1
+48920,SAGRADO,3S,B&B S. Martino,Fegino Renato,PIANTELLA,3,34078,+39 335 7866921,+39 335 7866921,,renatofegino@alice.it,,2,"Jan 01 - Jan 15, Mar 01 - Oct 15, Dec 15 - Dec 31",4,2
+61060,SAGRADO,2,Il Pellegrino , Cicutto Eduardo,VIA DANTE ALIGHIERI,33,34078,+39 380 6916345,+39 380 6916345,,cicutto3000@gmsil.com,,2,Jan 01 - Dec 31,4,2
+64920,SAGRADO,2,La Fojarola,Leghissa Giada,VIA VICENZA,23,34078,+39 0481 969812;+39 339 1547412,+39 339 1547412,,giadaleghissa@yahoo.it,,3,Jan 01 - Dec 31,6,2
+49101,SAN CANZIAN DISONZO,2,Casa Alla Stanga,Di Bert Gabriella,VIA PRINCIPALE,26,34075,+39 334 335 7425,+39 334 335 7425,,casallastanga@libero.it,WWW.CASALLASTANGA.ALTERVISTA.ORG,3,Feb 01 - Dec 15,5,2
+67060,SAN PIER DISONZO,2,Casa Sofia,Cossar Daniela,VIA MARCONI,34,34070,+39 331 1663606,+39 331 1663606,,,,3,Jan 01 - Dec 31,4,3
+63481,SAN PIER DISONZO,2,Happy Family,Lai Flavia,VIA SAN ZANUT,80,34070,+39 329 8583786,+39 329 8583786,,,,4,Jan 01 - Dec 31,6,2
+64849,SAVOGNA DISONZO,2,Belvedere,Kovic Igor,VIA Verdi,41,,+39 347 2101375,+39 347 2101375,,igor.kovic65@gmail.com,,3,Jan 01 - Jan 31,5,1
+50162,SAVOGNA DISONZO,3,B&B Al Vecchio Glicine,Sambo Edoardo,PIAZZA INDIPENDENZA,3,34070,+39 0481 882543;+39 338 7754821,+39 338 7754821,,edysambo@libero.it,,2,Mar 01 - Oct 31,4,1
+48040,STARANZANO,2,Trova Tempo,Stefanetto Lorenza,VIA  GRAPPETTA,28,34079,+39 338 630 5572,+39 338 630 5572,+39 0481 483116,lorenzastefanetto@gmail.com,,1,"Jan 01 - Jan 06, Jan 22 - Sep 07, Sep 22 - Dec 31",1,1
+46740,TURRIACO,2,B&B Isonzo, Tosorat Graziella,VIA SAN FRANCESCO DASSISI,5,34070,+39 0481 470364;+39 345 413 7231,+39 345 413 7231,+39 0481 470364,info@bbisonzo.it,www.bbisonzo.it,4,"Jan 01 - Jan 08, Mar 01 - Nov 06, Nov 26 - Dec 31",8,3
+54200,TURRIACO,2,B&B La Casetta,Bergamasco Tiziano,VIA SAN FRANCESCO DASSISI,7,34070,+39 342 1952099,+39 342 1952099,,info.bblacasetta@gmail.com,,1,Jun 10 - Dec 31,6,1
+40620,TURRIACO,2,Casa Paschi,Chittaro Caterina,VIA MARCONI,37,34070,+39 0481 767276;+39 347 4612447,+39 347 4612447,,casapaschi@libero.it,www.casapaschi.it,3,Feb 01 - Nov 30,8,2
+54980,VILLESSE,2,Da Marina,Marizza Marina,VIA ROMA,7,34070,+39 320 5340930,+39 320 5340930,,MARIZZAMARINA@PEC.IT,,2,Jan 01 - Dec 31,6,1
+64640,ARBA,2,B&B Laurfeld Kaisu,,VIA UMBERTO I,9,,+39 345 0233736,+39 345 0233736,,,,1,Jan 01 - Dec 31,2,2
+39640,AVIANO,3S,Casa Piazza,Bonomi Alessandra,VIA PADRE MARCO,10,33081,+39 331 3002725,+39 331 3002725,+39 0434 651158,bbcasapiazza@live.it,www.bbcasapiazza.it,3,"Jan 01 - Jan 06, Jan 16 - Apr 01, Apr 10 - Oct 07, Oct 17 - Dec 31",5,3
+53660,AVIANO,2,Al Ridovan,Biasutti Gianluigi,VIA WASSERMANN,38,33081,+39 348 0341121  e 349 7107990,+39 348 0341121  e 349 7107990,,info@bbalridovan.it,www.bbalridovan.it,3,"Jan 01 - May 14, Jun 01 - Nov 14, Dec 01 - Dec 31",7,1
+54860,AVIANO,2,Verde Selva,Cappelletti Nicola,VIA  U. SABA,55,33081,+39 0434/662934;+39 339 8563043,+39 339 8563043,,depaolisimonetta@gmail.com,www.verdeselva.it,1,"Jan 01 - Jan 07, Feb 01 - Oct 30, Dec 20 - Dec 31",4,1
+48801,AVIANO,2,Villa Orsolina,Safarikas Andrea,VIA COSTA,32,33081,+39 0434 660715;+39 320 3536641,+39 320 3536641,+39 0434 677278,nanakias@libero.it,,3,Feb 01 - Dec 01,7,2
+46380,AZZANO DECIMO,3S,Ca' Marsure,,VIA CHIESA ANTICA,6,33082,+39 0434 649165;+39 335 7049558,+39 335 7049558,+39 0434 648152,info@camarsure.com,www.camarsure.com,3,Mar 01 - Nov 30,6,3
+72222,AZZANO DECIMO,3S,La Barchessa, Campagnutta Elio,VIA SAN PIETRO IN PIAGNO,4,33082,+39 0434 646288;+39 366 176 2464,+39 366 176 2464,,acampagnutta@gmail.com,www.bblabarchessa.it,4,"Feb 01 - Jul 31, Sep 01 - Oct 31, Dec 01 - Dec 31",8,4
+49901,BRUGNERA,3,La Casa Rossa,Casetta Graziella,VIA CARRIADE,44,33070,+39 348 0354898,+39 348 0354898,+39 0434 606771,graziella_casetta@libero.it,,2,"Jan 01 - Jul 31, Aug 11 - Sep 20, Oct 01 - Dec 31",4,2
+41580,BUDOIA,2,Alla Cianisela,Fucile Laura,VIA A. CARDAZZO,41/A,33070,+39 0434 654659;+39 370 3268392,+39 370 3268392,,info@allacianisela.it,www.allacianisela.it,3,"Jan 02 - Jan 16, Feb 09 - Mar 22, Apr 04 - May 31, Jul 02 - Aug 25, Sep 01 - Dec 13",6,1
+2652,BUDOIA,2,Le Glicini,Pitton Armida,VIA FRIULI,19B,33070,+39 0434 653035;+39 349 5592385,+39 349 5592385,,leglicini@gmail.com,https://www.facebook.com/BedandBreakfastLeGlicini,2,Mar 08 - Dec 08,3,1
+58760,BUDOIA,2,Residence Maria,Menezes Maria Iracema Silva,VIA Pordenone,31,33070,+39 0434 653480;+39 334 8477122,+39 334 8477122,,tommaso.rosatella@gmail.com,www.mariabedandbreakfast.it,3,Jan 01 - Dec 31,6,1
+68341,CANEVA,3S,"B&B ""la Mola """,Posocco Stefania,DEI FIGHERAT,9,33070,+39 391 7115455,+39 391 7115455,,info@lamolacaneva.it,www.lamolacaneva.it,4,"Jun 28 - Nov 03, Nov 20 - Dec 31",8,4
+68340,CANEVA,3,Villa Carli,Dall'osta Graziella,PIAZZA CARMINE,6/A,33070,+39 331 1143121,+39 331 1143121,,,,2,"May 20 - Oct 20, Dec 01 - Dec 31",4,2
+51681,CASARSA DELLA DELIZIA,3S,Aganis,Pilosio Ester Maria,VIA MANARAS,12,33072,+39 0434 870931;+39 334 3589030,+39 334 3589030,,ester.pilosio@libero.it,,1,"Jan 01 - Jan 14, Mar 16 - Nov 14, Dec 16 - Dec 31",3,1
+2635,CASARSA DELLA DELIZIA,3S,The Cottage,Rocchi Canova Ileana,VIA SALVO DACQUISTO,11,33072,+39 0434 869651,,+39 0434 869651,thecottage@libero.it,www.thecottagebedandbreakfast.it,2,"Jan 01 - Jan 06, Feb 01 - Mar 31, Apr 25 - May 31, Jun 10 - Aug 31, Sep 09 - Sep 30, Oct 07 - Nov 03, Dec 02 - Dec 31",4,2
+47580,CASTELNOVO DEL FRIULI,,B&B Valli Pordenonesi Idi Trevisanutto Donatello,,Località ALMADIS,17,33090,+39 0427 97515;+39 335 7170808,+39 335 7170808,,donatello.trevisanutto@gmail.com,www.bedfriuli.it,2,"Jan 01 - Jan 08, Apr 01 - Sep 15, Dec 20 - Dec 31",6,1
+42320,CAVASSO NUOVO,,Al Vecchio Pero,Castellan Enrica Maria,VIA MEDUNA,1,33092,+39 0427 778452;+39 348 4469650,+39 348 4469650,+39 427778452,mariogasparini2006@libero.it,,3,Jan 01 - Dec 31,6,2
+2493,CAVASSO NUOVO,,Casa Maraldi,Pellegrino Enrico,VIA SPILIMBERGO,49,33092,+39 335 270638  340 3125565,+39 335 270638  340 3125565,,annapellegrino@lycos.it,www.utenti.lycos.it/casamaraldi,3,Jun 01 - Oct 31,6,2
+49060,CHIONS,2,La Cantina,Carraro Gianni,[SENZA VIA] VIA VILLALTA,33/B,33083,+39 349 6278838;+39 349 6278838,+39 349 6278838,,,,2,Jan 01 - Nov 30,6,1
+33380,CHIONS,,B&B Villa Sbrojavacca,Sbrojavacca Carlo,VIA DANTE,23,33083,+39 346 0396661,+39 346 0396661,,bbvilla@artinelbosco.org,www.artinelbosco.org\b&bvilla,3,Mar 21 - Dec 09,6,3
+64101,CLAUT,3,Il Cervo,Martini Marzia,VIA PINEDO,33/A,33080,+39 342 0201431,+39 342 0201431,,ilcervo.claut@gmail.com,ilcervo.org,2,Jul 16 - Sep 30,4,2
+36961,CORDENONS,3S,Kip ,Manzato Rebecca,VIA DELLE ACQUE,23,33084,+39 0434 41476;+39 333 2008771,+39 333 2008771,+39 0434 41476,info@bbkip.com,www.bbkip.com,3,"Jan 01 - Jan 11, Jan 16 - Apr 12, Apr 17 - Jul 05, Jul 11 - Oct 11, Oct 16 - Dec 31",6,3
+64624,ERTO E CASSO,2,B&B Rosina Angelo Paolo,,PRADA,6,33080,+39 329 0506340,+39 329 0506340,,autotrasportirosina@pec.it,,1,Jan 01 - Dec 31,4,1
+61801,FANNA,2,B&B Castellani,Mion Matteo,VIA CASTELLANI,38,33092,+39 333 1070799,+39 333 1070799,,bb.castellani@gmail.com,www.bedbreakfast-castellani.it,2,Jan 01 - Dec 31,4,1
+45920,FIUME VENETO,2,B&B Ca' Jole, Goz Silvia,VIA FRATTE DI PRATURLONE,56,33080,+39 0434 959871;+39 331 2998960,+39 331 2998960,+39 0434 936234,bbjole@libero.it,www.bbjole.it,3,"Jan 01 - Jan 13, Mar 01 - Aug 11, Sep 01 - Dec 31",5,3
+58840,FONTANAFREDDA,2,B &b Lo Schiaccianoci, Beltrame Cristina,VIA CASUT,163,33074,+39 380 5287012  349 3119981,+39 380 5287012  349 3119981,,bb.loschiaccianoci@gmail.com,,2,Jan 01 - Dec 31,4,1
+71840,FONTANAFREDDA,3,La Fonte,Tandura Alessandra,VIA G.G. Lirutti,108,33074,+39 335 6637851,+39 335 6637851,+39  320 6395676,,,,,4,8
+62560,FONTANAFREDDA,3,Villa Bedin,De Lucchi Clara,VIA L.GRAZIANI,10,33074,+39 3333705289,+39 3333705289,,claradelucchi@gmail.com,,2,Jan 01 - Dec 31,4,2
+71940,FONTANAFREDDA,3,Villa Mary,,L. GORTANI,3,33074,+39 346 2508632,+39 346 2508632,,,,2,"Jan 07 - Aug 15, Sep 01 - Dec 15",3,2
+2396,FONTANAFREDDA,,Vecchio Salice, Zanetti Viviana,VIA B. OSOPPO,149,33074,+39 0434 998854;+39 340 2755540,+39 340 2755540,+39 0434 998854,viviana.54@katamail.com,www.vecchiosalice.com,2,Mar 01 - Nov 28,4,2
+69580,FRISANCO,2,B&B In Fattoria,Simonetto Giulia,[VIA BORGO POLAZZA,,33080,+39 347 5286854,,,fattoriadimonte@gmail.com,,1,Jan 01 - Dec 31,3,1
+2492,FRISANCO,,Val di Frina,Marucci Andreana,BORGO VAL DI FRINA,10,33080,+39 0427 78182,,,valdifrina@libero.it,,2,Jun 01 - Sep 30,6,1
+37160,FRISANCO,,Villa Spluma,Pes Sabrina,VIA ROMAN,9,33080,+39 0427 78281;+39 338 8316910,+39 338 8316910,,sabri.pes@tiscali.it,,2,"Apr 20 - May 02, May 19 - Jun 18, Jun 29 - Sep 17",5,1
+2486,FRISANCO,,Voul,Rosa Brustolo Gianna,VIA VOUL,10/3,33080,+39 349 5109420,+39 349 5109420,,,,2,Jul 01 - Sep 30,4,1
+2596,MEDUNO,,B&B Alla Stazione,Del Bianco Arigo,VIA DELLA STAZIONE,39,33092,+39 0427 86548;+39 333 3989016,+39 333 3989016,+39 0427 86548,delbiancoarigo@gmail.com,,2,"Mar 17 - May 21, May 27 - Jul 19, Jul 24 - Oct 02, Oct 07 - Dec 26",6,2
+41880,MEDUNO,,La Piccola Venezia,Meneghin Paola,VIA MIZZERI,27,33093,+39 347 3904459,+39 347 3904459,,,www.friuli.net/paolameneghin,2,"Jan 15 - Mar 15, Apr 01 - May 31, Jun 15 - Aug 30, Sep 15 - Dec 31",4,2
+69421,PASIANO DI PORDENONE,3,La Casa di Lucia,Parcianello Lucia,VIA BROZZETTE DI POZZO,9,33087,+39 335 303178,,,,,2,Jan 01 - Dec 31,4,2
+2611,PINZANO AL TAGLIAMENTO,2,Alice,Mingolo Ombretta,VIA CIRCONVALLAZIONE,19,33094,+39 0432 950647;+39 333 3659335,+39 333 3659335,,,,2,"Jan 01 - Jan 30, Mar 01 - Apr 30, Jun 01 - Sep 30, Dec 01 - Dec 31",4,1
+38080,PINZANO AL TAGLIAMENTO,,B&B Le Muse,Pellegrini Ivo,VIA ROMA,65,33094,+39 0432 950706;+39 392 0353980,+39 392 0353980,,info@sinergypn.com,,2,Sep 22 - Oct 31,6,2
+47860,POLCENIGO,2,B&B Gorgazzo,Celant Vanda,VIA GIULIANA,32,33070,+39 0434 748959;+39 348 9195794,+39 348 9195794,,bbgorgazzo@gmail.com,,2,Feb 01 - Dec 31,4,1
+35120,POLCENIGO,,Lucia,Ivan Lucia,VIA NUOVA,5,33070,+39 339 7304898,+39 339 7304898,,lucia.ivan23@gmail.com,,2,"Mar 01 - Jun 30, Jul 10 - Sep 15, Oct 01 - Dec 30",4,1
+2541,POLCENIGO,,Palazzo Scolari,Salice Anna,VIA GORGAZZO,2,33070,+39 0434 74100;+39 320 0726080,+39 320 0726080,,palazzo.scolari@gmail.com,www.palazzoscolari.it,3,"Jan 01 - Jan 07, Mar 28 - Nov 04, Dec 20 - Dec 31",7,3
+63440,PORCIA,2,Ca Del Cuore,Pasut Franca,VIA MUZZILE,68,33080,+39 3473737207,+39 3473737207,,,,2,Jan 01 - Dec 31,4,1
+51400,PORCIA,2,Il Tubia',,PIAVE,2,33080,+39 0434 082243;+39 3471045306,+39 3471045306,,il.tubia.bb@gmail.com,www.iltubia.wordpress.com,2,Mar 01 - Nov 30,4,1
+52860,PORDENONE,3S,Casa di Mary,Rossit Mary Anne,VIA ADAMELLO,7/B,33170,+39 347 5451283 / 338 4686658,+39 347 5451283 / 338 4686658,,casadimary@gmail.com,www.casadimary.it,2,"Jan 01 - Feb 10, Mar 03 - Dec 31",4,2
+64540,PORDENONE,2,La Valada Bed & Breakfast,,VIA NUOVA DI CORVA,87,33170,+39 388 7888628,+39 388 7888628,,info@lavalada.it,www.lavalada.it,2,"Jan 01 - Jan 03, Mar 03 - Dec 31",4,1
+61760,PORDENONE,2,Bbnaon,Klugmann Maria Elena,VIA BRUGNERA,15,33170,+39 0434 578114;+39 334 3323156,+39 334 3323156,,marilena.klugmann@gmail.com,www.bbnaon.com,2,Jan 01 - Dec 31,3,2
+65480,PORDENONE,2,Bed & Breakfast Non Fumatori - No Smoking Bed & Breakfast,,BEATA DOMICILLA,17,33170,+39 347 4080072,+39 347 4080072,,santosh_sadeha@yahoo.it,,3,"Jan 10 - Jul 03, Jul 11 - Dec 30",4,1
+58960,PORDENONE,2,Il Campanile,Gabbana Maria Lisa,VIA DEL CAMPANILE,6,33170,"+39 3,93505E+11;+39 3,93505E+11","+39 3,93505E+11","+39 3,91782E+11",info@ilcampanile.eu,www.ilcampanile.eu,2,Jan 01 - Dec 31,4,2
+68500,PORDENONE,3,B&B Airis,Falomo Enrico,CORSO GARIBALDI,48,33170,+39 333 6695585,+39 333 6695585,,daria.moro22@gmail.com,,3,"Jan 07 - Jun 14, Aug 25 - Dec 21",5,3
+48381,PORDENONE,3,Casa Ai Gelsomini,Tius Silvano,VIA MOLINARI,14,33170,+39 347 3044566,+39 347 3044566,,lovisan@libero.it,casaaigelsomini.it,1,Feb 15 - Nov 14,2,1
+49380,PORDENONE,3,Donna Prassede,Zanatta Prassede,VIA  quarta GENOVA CAVALLERIA,19,,+39 0434 362150;+39 328  1720088,+39 328  1720088,,prassede27@libero.it,,2,Feb 15 - Nov 30,3,1
+48360,PORDENONE,3,Giardino In Citta',Da Re Enrichetta,VIA MONTEREALE,45,33170,+39 0434 366288;+39 347 9142498,+39 347 9142498,+39 0434 366288,info@giardinoincitta.it,www.giardinoincitta.it,3,"Jan 17 - Aug 12, Aug 27 - Dec 31",6,3
+52180,PORDENONE,3,Girasole,Rosset Tiziana,VIA DELLA RESISTENZA,10,33170,+39 349 2192209,+39 349 2192209,+39 0434 361923,bbpordenone@gmail.com,,3,Mar 01 - Dec 31,7,2
+50302,PORDENONE,3,La Gila,Guarini Roberto,VIA MONTEREALE,22,33170,+39 329 9264965,+39 329 9264965,,info@bblagila.it,www.bblagila.it,3,"Jan 01 - Jan 09, Feb 11 - Jul 31, Aug 31 - Nov 14, Dec 16 - Dec 31",6,2
+34740,PORDENONE,,Camera Doppia,Caiazzo Giusy,MONTEBELLUNA,16,33170,+39 392 9800975,+39 392 9800975,,info@cameradoppia.it,,3,"Jan 08 - Aug 05, Sep 05 - Dec 23",6,3
+44481,PORDENONE,,Civico 22, Pauletto Natalia,VIA ERACLEA,17,33170,+39 335 6791330,+39 335 6791330,,info@bbcivico22.it,www.bbcivico22.it,3,"Feb 01 - Jul 31, Sep 01 - Dec 31",6,3
+40584,PORDENONE,,E.B. Camere In Villa,Martin Bruno,VIA SAN QUIRINO,60,33170,+39 0434 364305,,,bedandbreakfast-pn@hotmail.it,,3,"Jan 01 - Sep 30, Nov 01 - Dec 31",6,2
+40582,PORDENONE,,Il Vicolo Camere In Villa,Martin Matteo,VIA ROGGIUZZOLE,5,33170,+39 345 6089089,+39 345 6089089,,bedandbreakfast-pn@hotmail.it,,1,"Jan 01 - Sep 30, Nov 01 - Dec 31",2,1
+40583,PORDENONE,,Roggiuzzole 5 Camere In Villa,Martin Gian Maria,VIA ROGGIUZZOLE,5,33170,+39 348 3001827,+39 348 3001827,,bedandbreakfast-pn@hotmail.it,,2,"Jan 01 - Sep 30, Nov 01 - Dec 31",4,1
+56800,SACILE,3S,Casa Carrer,Carrer Gilberto,STRADA VALLE BRUGNERA,7,,+39 0434 767927,,,info@casacarrer.it,,4,"Feb 04 - Feb 17, Mar 11 - Nov 07, Dec 07 - Dec 31",8,4
+35280,SACILE,2,Ca' Livenza,Vicenzot Carla,VIA RONCHE,72,33077,+39 0434 734853;+39 338 5032213  333 3127116,+39 338 5032213  333 3127116,,calivenza@libero.it,www.calivenza.it,3,"Jan 01 - Jan 03, Jan 11 - Mar 14, Mar 19 - Oct 03, Oct 08 - Dec 31",6,3
+64520,SAN GIORGIO DELLA RICHINVELDA,3S,Antico Borgo Leone,,BORGO LEONE,35/1,,+39 3404963701;+39 3404963701,+39 3404963701,+39 0427 94663,dbgiovanni@hotmail.it,,2,"Mar 01 - Sep 21, Oct 21 - Dec 21",4,2
+69620,SAN QUIRINO,3S,Ai Templari,Rosset Ivana,[VIA DEI TEMPLARI,16,33080,+39 0434 366464;+39 347 5830514,+39 347 5830514,,info@aitemplari.com,,1,Jan 01 - Dec 31,2,1
+52380,SAN QUIRINO,3S,Podere 35,Arca Graziella,VIA POLA,2,33080,+39 0434 919470;+39 334 7352045,+39 334 7352045,,regra1@virgilio.it,,1,Feb 12 - Nov 09,2,1
+66680,SAN VITO AL TAGLIAMENTO,3,Chiaro di Luna,Trevisan Alessandro,[ Località SANTA SABINA,10,33078,+39 338 8531926  334 2615271,+39 338 8531926  334 2615271,,info.bebchiarodiluna@gmail.com,,3,"Jan 01 - Jun 30, Sep 01 - Dec 31",4,3
+66841,SEQUALS,2,Bed And Breakfast da Paolo,Zara Paolo,VIA DEL CAPITEL,4,33090,+39 042 793587,,,sassodoto@pec.coldiretti.it,,2,Jan 01 - Dec 31,4,2
+2467,SEQUALS,,Casarin Lucia,,VIA E. CRISTOFOLI,10,33090,+39 042793795,,,luciaelleci@yahoo.it,,2,"Jan 01 - Jan 31, Mar 01 - Sep 30, Dec 01 - Dec 31",5,1
+59040,SESTO AL REGHENA,2,Allaolla,Nonis Misha,VIA MONTE SANTO,40B,33079,+39 0039 3289778321,+39 0039 3289778321,,info@allaolla.it,www.allaolla.it,1,Jan 08 - Dec 06,6,2
+33022,SESTO AL REGHENA,,Vignal,Scacco Roberta,VIA MIELMA,51,33078,+39 328 4067691,+39 328 4067691,,info@vignal.it,www.vignal.it,3,"Jan 04 - Feb 09, Feb 14 - Jul 31, Aug 25 - Dec 22",6,3
+63061,SPILIMBERGO,3S,Cuore di Lavanda,Micheli Stefania,VIA DAMIANO CHIESA,6,33097,+39 392 2115603,+39 392 2115603,,cuoredilavanda@gmail.com,www.cuoredilavanda.it,3,"Jan 01 - Jan 03, Feb 24 - Mar 06, Mar 24 - Dec 31",6,3
+57220,SPILIMBERGO,3S,Li Rivis Dal Tiliment,Londero Graziella,VIA C. PERCOTO,12,33097,+39 0427 40560;+39 347 1882569,+39 347 1882569,,lirivisinfo@gmail.com,,4,Apr 01 - Dec 31,8,4
+40621,SPILIMBERGO,3S,Relais La Torre,De Marchi Patrizia,CORSO ROMA,28,33097,+39 339 2697717,+39 339 2697717,,info@relaislatorre.com,www.relaislatorre.com,3,"Jan 01 - Jan 09, Jan 20 - Jan 24, Jan 30 - Feb 14, Feb 22 - Mar 02, Mar 12 - Mar 23, Mar 30 - Sep 19, Sep 28 - Oct 15",8,3
+45120,SPILIMBERGO,,B&B  Borgo Dala Mora,Chivilo' Damiano,VICOLO STRETTO,1,33097,+39 0427 950970;+39 339 1449410,+39 339 1449410,,borgomora@borgodalamora.it,www.borgodalamora.it,1,Apr 01 - Dec 31,3,1
+53801,TRAMONTI DI SOTTO,3,Ricami E Passioni,Vicentin Adriana,VIA CAMPONE,4,33090,+39 331 6744015,+39 331 6744015,+39 0434 362560,adrianavicentin@alice.it,,2,Mar 01 - Oct 01,6,2
+64601,TRAMONTI DI SOTTO,,Sogni E Ghiri,Mannucci Vincenzo,-,28/d,33090,+39 334 2007139,+39 334 2007139,,manuccivincenzo@gmail.com,,3,Jan 01 - Dec 31,6,3
+2397,TRAVESIO,,I Girasoli,Ballarin Tamara,VIA GARIBALDI,22,33090,+39 0427 90493;+39 334 3180668,+39 334 3180668,+39 0427 90493,info@igirasoli.org,www.igirasoli.org,3,"Jan 01 - Jan 07, Mar 23 - Dec 31",8,3
+66881,VALVASONE ARZENE,3S,B&B Maiaroff,Truant Adriano,VIA MAIAROFF,21,33098,+39 0434 898844;+39 337 545771,+39 337 545771,,adrianotruant@gmail.com,,2,Feb 01 - Sep 30,6,2
+66880,VALVASONE ARZENE,3S,Casa Menini B&B,Menini Umberto,VIA CESARE BATTISTI,4,33098,+39 0434 89021;+39 340 5993136,+39 340 5993136,+39 0434 899970,info@casamenini.it,www.casamenini.it,3,Apr 01 - Dec 31,8,3
+50361,VALVASONE ARZENE,3S,Giardino In Corte,Stoinoff Sofia,VIA BANDO,2,33098,+39 3385899420,+39 3385899420,,bbgiardinoincorte@gmail.com,www.bbgiardinoincorte.com,4,Apr 21 - Sep 30,7,3
+35920,VALVASONE ARZENE,3S,La Contrada,Paron Aldo,VICOLO MONTE SANTO,1,33098,+39 0434 89142;+39 339 3763747,+39 339 3763747,,aldovalv@alice.it,,3,Mar 01 - Nov 30,6,3
+2479,VALVASONE ARZENE,3,Rovere Dalla Riva,Rovere Ivano,VIA ALPI,30,33090,+39 0434 899401;+39 338 8003666,+39 338 8003666,+39 0434 899401,,,3,"Jan 01 - Jan 06, Apr 01 - Dec 31",6,3
+37240,VITO DASIO,,Dirce,Danieletto Elisabetta,VIA quattro NOVEMBRE,39,33090,+39 338 3945892,+39 338 3945892,,elisabetta.danieletto@poste.it,,2,Jun 01 - Sep 30,4,1
+35460,VIVARO,,All'alba Dei Magredi,Trevisanutto Gelindo,VIA SPILIMBERGO,2,33099,+39 335 7170805,+39 335 7170805,+39 0427 97515,gelindo.gelindo@libero.it,,2,"Jan 01 - Jan 30, Mar 01 - Apr 30, Jun 01 - Sep 30, Oct 01 - Dec 31",6,1
+41360,VIVARO,,Bepu Pegna,Trevisanutto Chiara,VITTORIO EMANUELE,64,33099,+39 335 7170807,+39 335 7170807,,chiara.trevisanutto@gmail.com,,1,"Jan 01 - Jan 07, Apr 01 - Apr 30, Jul 01 - Aug 30, Sep 01 - Sep 30, Oct 01 - Nov 09, Dec 15 - Dec 31",2,1
+67483,ZOPPOLA,2,B&B Il Vecchio Glicine,,SACILETTI,17,33080,+39 338 2293551,+39 338 2293551,,orianafavretti@alice.it,,2,Jan 01 - Dec 31,5,2
+67500,DUINO-AURISINA,3S,Burja B&B,Kobau Petra,-,12/A,34011,+39 333 6871026,,,pkobau@gmail.com,,2,Jan 01 - Dec 30,6,2
+40822,DUINO-AURISINA,3S,Canovella,Benci Furio,-,153/F1,34011,+39 335 6349945,+39 335 6349945,,bed4u@canovella.it,www.canovella.it,2,"Jan 01 - Jan 13, Mar 02 - Oct 27, Nov 23 - Dec 31",4,2
+42902,DUINO-AURISINA,3S,Castello,Lanz Veronique,DUINO,35/A,34011,+39 040 208120,,+39 040 2071398,visite@castellodiduino.it,,2,Mar 01 - Nov 24,5,2
+50120,DUINO-AURISINA,3S,Duino Stella Maris,Valenti Alba,DUINO,78/D,34011,+39 347 2311979,+39 347 2311979,,MIKIsub@gmail.com,www.duinostellamaris.it,3,"Jan 01 - Jan 10, Mar 05 - Nov 30, Dec 05 - Dec 31",5,3
+65860,DUINO-AURISINA,3S,Notti di Stelle,Carli Raimondo,-,60,34011,+39 040 291332;+39 347 0336195,+39 347 0336195,,info@nottidistelle.com,www.nottidistelle.com,3,Mar 01 - Oct 31,7,3
+38486,DUINO-AURISINA,3S,Solemare,Silvestrucci Gabriella,SISTIANA,230/B,34011,+39 040 2907143;+39 339 3259225,+39 339 3259225,+39 040 2907143,gabriellasil@alice.it,,1,"Jan 01 - Jan 15, Mar 15 - Sep 15, Oct 01 - Dec 30",3,1
+66540,DUINO-AURISINA,2,Al Pescatore Contento,Eramo Livio,-,91,34011,+39 334 1988080,+39 334 1988080,,alpescatorecontento@gmail.com,www.pescatorecontento.it,4,Jan 01 - Dec 30,8,2
+63241,DUINO-AURISINA,2,Casa Del Sale,Drioli Anna,-,74,34011,+39 348 3437048,+39 348 3437048,,,,2,Mar 15 - Dec 10,5,1
+50020,DUINO-AURISINA,2,Da Rosy,Mrvcic Nicholas,SISTIANA,59/L,34011,+39 333 3458435;+39 333 3458435,+39 333 3458435,+39 040 299176,darosybb@gmail.com,www.darosy.it,4,"Jan 01 - Jan 13, Jan 18 - Dec 31",8,2
+65840,DUINO-AURISINA,2,Flo',Zancola Elisa,-,37,34011,+39 340 1035514,+39 340 1035514,,elisazancola@gmail.com,,2,Jan 01 - Dec 30,3,1
+47340,DUINO-AURISINA,2,Le Falesie,Bosio Chiara,SISTIANA,29/A,34011,+39 380 7023047,+39 380 7023047,,bb@lefalesie.it,www.lefalesie.it,2,Jan 01 - Dec 31,4,1
+41900,DUINO-AURISINA,2,Oltremare,Jerman Walter,SISTIANA,34/E,34011,+39 338 9378246,+39 338 9378246,,info@oltremaresistiana.it,www.oltremaresistiana.it,3,"Jan 01 - Nov 01, Dec 01 - Dec 31",6,2
+40820,DUINO-AURISINA,2,Pane E Tulipani,Tavcar Goran,DUINO,75/Z,34011,+39 329 7213197,+39 329 7213197,,pantulipani@gmail.com,www.pantulipani.splinder.com,3,"Mar 01 - Mar 30, May 01 - May 30, Jun 01 - Jun 30, Jul 01 - Jul 31, Aug 01 - Aug 30, Sep 01 - Oct 30",6,2
+52460,DUINO-AURISINA,2,Porto Del Bivio,Marchesich Federica,DUINO,75/V,34011,+39 339 2864170,+39 339 2864170,,FEDERICA.MARCHESICH65@gmail.com,,2,Mar 21 - Dec 31,4,1
+40821,DUINO-AURISINA,2,Strupetou,Bernasconi Paola,MALCHINA,16,34011,+39 040 2907126;+39 347 7950723,+39 347 7950723,,info@strupetou.it,www.strupetou.it,2,Mar 27 - Nov 03,6,1
+63000,DUINO-AURISINA,3,Bonavia,Maver Elena,-,59/I3,34011,+39 338 8436342,+39 338 8436342,,bonaviabnb@gmail.com,,2,Mar 01 - Nov 30,4,2
+63240,DUINO-AURISINA,3,Casa Rosmar,Ferfoglia Ladislao,-,6,34011,+39 040 209887;+39 393 9229443,+39 393 9229443,,,,2,Jan 01 - Dec 30,5,2
+49820,MUGGIA,2,Ambrosia,Stoch Mauro,Località FONTANELLA,21,34015,+39 040 812348;+39 366 1089500,+39 366 1089500,+39 040 330707,,,2,Apr 01 - Dec 31,6,1
+63480,MUGGIA,2,B&B Alle Violette, Felice Maura,Località PISCIOLON,31,34015,+39 333 1652009,+39 333 1652009,,curetanona@gmail.com,,2,"Apr 01 - Jul 11, Jul 25 - Dec 01",5,1
+59800,MUGGIA,2,B&B Silvia,Leuz Silvia,VIA DARSELLA SAN BARTOLOMEO,22/F,34015,+39 335 1247805,+39 335 1247805,,silvialeuz@gmail.com,,4,"Jan 01 - Jan 14, Jan 23 - Oct 24, Nov 02 - Dec 31",8,2
+63160,MUGGIA,2,Uphill,Milic Olivera,SALITA MUGGIA VECCHIA,4,34015,+39 329 0634922,+39 329 0634922,,milic.olivera@gmail.com,,3,Mar 01 - Oct 31,7,1
+2445,MUGGIA,,A Giuditta,Trame Paolo,VIA DANNUNZIO,30,34015,+39 040 275271;+39 328 8433763,+39 328 8433763,,,,4,Apr 01 - Oct 31,8,3
+43882,MUGGIA,,B&B Le Vele,Zuppet Serafino,VIA LUNGOMARE VENEZIA,7,34015,+39 040 330747;+39 349 3999242,+39 349 3999242,,,www.inognidove.com,2,Apr 15 - Dec 15,5,2
+56360,SAN DORLIGO DELLA VALLE - DOLINA,3S,B&B In Valle,Benes Manuela,BAGNOLI,119,34018,+39 040227068;+39 338  8727177,+39 338  8727177,,invalle.beb@gmail.com,,1,"Jan 01 - Jan 31, Feb 10 - Dec 31",3,1
+64441,SAN DORLIGO DELLA VALLE - DOLINA,3S,B&B L'ideale,Tommasini Matteo,VIA SANTANTONIO IN BOSCO,150,34018,+39 3929868950,+39 3929868950,,idealebeb@gmail.com,,1,Feb 01 - Dec 31,3,1
+64440,SAN DORLIGO DELLA VALLE - DOLINA,3S,B&B Sotto Il Volto,Zannier Ruggero,VIA BAGNOLI DELLA ROSANDRA,114,34018,+39 3389077539;+39 3480060824,+39 3480060824,,alexiapillepich@gmail.com,,1,Feb 01 - Oct 30,4,1
+58900,SAN DORLIGO DELLA VALLE - DOLINA,3S,B&B Torrente Rosandra,Pozzer Andrea,BAGNOLI SUPERIORE,152,34018,+39 040 8327132;+39 3661460868,+39 3661460868,,andreapozzer@hotmail.com,,2,"Jan 01 - Jan 11, Feb 14 - May 18, May 30 - Dec 31",5,2
+47200,SAN DORLIGO DELLA VALLE - DOLINA,2,Bellavista,Bozzi Maria Luisa,SAN GIUSEPPE ESTERNO,154,34018,+39 377 1542562,+39 377 1542562,,marisa.bozzi@libero.it,www.triestebellavista.it,2,Mar 01 - Nov 30,4,2
+55621,SAN DORLIGO DELLA VALLE - DOLINA,2,Rosandra, Codaglio Michele,BAGNOLI DELLA ROSANDRA,135,34018,+39 040 281954;+39 328 1749827,+39 328 1749827,,BBROSANDRA@GMAIL.COM,,1,"Jan 01 - Jan 15, Jan 30 - Dec 31",3,1
+64023,SAN DORLIGO DELLA VALLE - DOLINA,3,B&B Mikeze E Jakeze, Cavalli Cinzia,VIA Francovez,388,34018,+39 3274582281,+39 3274582281,,bbmikezejakeze@hotmail.com,www.bbmikezejakeze.it,2,Mar 01 - Dec 31,5,2
+70900,SAN DORLIGO DELLA VALLE - DOLINA,3,Bnbpesek67,,-,67,34018,+39 340 8524905,+39 340 8524905,,bnbpesek67@libero.it,,3,Feb 15 - Nov 15,4,1
+71266,SAN DORLIGO DELLA VALLE - DOLINA,3,Green Mind,Falciano Vincenzo,Località,267/A,34018,+39 338 6856653,,,vincenzofalciano@yahoo.it,,1,Jan 01 - Dec 31,2,1
+65461,SGONICO,3S,B&B Sgonico - Zgonik,Riolino Mitja,-,68,34010,+39 348 8512625,+39 348 8512625,+39 040 229469,enoteca.sgonico@hotmail.it,,3,Jan 15 - Dec 25,6,3
+66100,SGONICO,3S,B&B Barbara,Bauducco Barbara,-,17,34010,+39 340 5586905,+39 340 5586905,,babi0002bb@gmail.com,www.bbbarbaratrieste.it,3,"Jan 01 - Jan 08, Jan 30 - Mar 11, Mar 18 - Jun 16, Jun 25 - Sep 17, Sep 25 - Dec 17, Dec 27 - Dec 31",8,3
+46921,SGONICO,2,B E B Alla Cinciarella,Knaflich Cristiana,GABROVIZZA - GABROVEC,113,34010,+39 040 2296650;+39 333 6254835,+39 333 6254835,,info@allacinciarella.it,www.allacinciarella.it,2,"Jan 01 - Jan 22, Oct 21 - Nov 25",4,1
+69060,TRIESTE,3S,Addicted To Paradise,Elena Allegranti,VIA B. CELLINI,2,34132,+39 339 6426799;+39 339 6426799,+39 339 6426799,,eleenuccia@hotmail.it,,1,Nov 23 - Dec 31,2,1
+56760,TRIESTE,3S,Al Ciclamino ,Maria Luisa Viezzoli,VIA COSTALUNGA,69,34149,+39 040 814668;+39 333 9491595,+39 333 9491595,,luisaviezzoli@yahoo.it,,1,"Jan 11 - Jan 29, Feb 08 - Dec 31",3,1
+49080,TRIESTE,3S,Al Tramonto,Giambirtone Rosalba,SALITA DI CONTOVELLO,69/2,,+39 040 412086;+39 334 3672222,+39 334 3672222,,info@triestealtramonto.it,WWW.TRIESTEALTRAMONTO.IT,2,"Mar 15 - Jun 11, Jun 21 - Nov 05, Dec 07 - Dec 31",5,2
+47742,TRIESTE,3S,All'ancora Blu',Olivo Dorina,VIA COMMERCIALE,148/5,,+39 33 16319594,+39 33 16319594,+39 040 43136,gavazzisa@tin.it,www.bebancorablu.it,1,Sep 01 - Dec 31,3,1
+71220,TRIESTE,3S,Alla Casa Sconta, Alberto Liviani,VIA DEI MORERI,86,34135,+39 334 3327148;+39 334 3327148,+39 334 3327148,,info@casasconta.it,WWW.CASASCONTA.IT,4,Jun 15 - Dec 31,8,4
+52240,TRIESTE,3S,Alla Casetta,Pietrobelli Elisabetta,Località TREBICIANO,217,34149,+39 040 214651;+39 333 2942744,+39 333 2942744,,info@allacasetta.it,www.allacasetta.it,2,"Jan 01 - Oct 15, Dec 01 - Dec 31",7,2
+51721,TRIESTE,3S,Amelie,Bufo Leonardo,VIA SAN FRANCESCO,23,34133,+39 345 2973930,+39 345 2973930,,info@amelietrieste.it,www.amelietrieste.it,3,"Jan 01 - Jan 03, Jan 11 - Jan 31, Feb 08 - Dec 31",7,3
+51720,TRIESTE,3S,Atelier Lidia Polla,Bilucaglia Laura,VIA DEL CORONEO,1,34100,+39 334 7150231,+39 334 7150231,+39 40633650,atelierlidiapolla@gmail.com,www.atelierlidiapolla.com,2,"Jan 01 - Jan 17, Jan 25 - Feb 07, Feb 15 - Dec 31",7,2
+70721,TRIESTE,3S,Bellavista di Conconello,Barbara Ferluga,VIA BELLAVISTA,25/2,34151,+39 334 5782965,+39 334 5782965,,barbara.ferluga@gmail.com,,2,"Apr 15 - Nov 10, Dec 01 - Dec 31",5,2
+54843,TRIESTE,3S,Casa Dodic,Lorenzi Viviana,STRADA PER BASOVIZZA,20,34128,+39 040 567489;+39 331 1272029,+39 331 1272029,,casadodic@yahoo.it,,3,"Jan 01 - Jan 17, Jan 25 - Oct 16, Dec 30 - Dec 31",7,3
+55281,TRIESTE,3S,Cats,Rossella Bagnardi,VIA MAZZINI,13,34121,+39 339 8169899;+39 339 8169899,+39 339 8169899,,rossella.bagnardi@gmail.com,,1,"Jan 01 - Feb 07, Mar 01 - Dec 11, Dec 28 - Dec 31",3,1
+62076,TRIESTE,3S,Chip And Chop,Marussi Flavia,VIA DEL BOTRO,19,34100,+39 040 814331;+39 329 6727241,+39 329 6727241,+39 040 814331,chipandchopbnb@gmail.com,,1,"Jan 01 - Mar 30, Apr 09 - Aug 30, Sep 10 - Nov 03",4,1
+37960,TRIESTE,3S,Crispi,Bianco Iolanda,VIA CRISPI,43,34100,+39 040 3721128;+39 346 9665499,+39 346 9665499,+39 040 3721128,bbcrispitrieste@live.it,,2,"Jan 01 - Jan 15, Feb 01 - May 15, May 25 - Dec 31",7,2
+64201,TRIESTE,3S,Da Lella, Yodit Zorzenon,VICOLO OSPEDALE MILITARE,23/1,34127,+39 335 6591860;+39 335 6591860,+39 335 6591860,,silvanozorzenon@gmail.com,,3,"Jan 01 - Jan 07, Feb 13 - Feb 15, Mar 28 - Nov 07, Dec 02 - Dec 08, Dec 24 - Dec 31",6,3
+60220,TRIESTE,3S,Elisabetta,Elisabetta Acampora,VIA VETTOR CARPACCIO,8,34143,+39 040 306226;+39 347 1886574,+39 347 1886574,,bettinamail@yahoo.it,,1,"Jan 01 - Feb 13, Mar 02 - Dec 31",2,1
+67683,TRIESTE,3S,Golden Rooms,,VIALE MIRAMARE,27,34135,+39 040 411620;+39 380 3121665,+39 380 3121665,,goldenrooms.ts@gmail.com,https://www.facebook.com/goldenroomsts/,3,"Jul 01 - Nov 28, Dec 05 - Dec 31",8,3
+56920,TRIESTE,3S,House 5,Valentina Ruspio,VIA GIULIA,5,34126,+39 040 0644872;+39 3429024030,+39 3429024030,,info@house5.it,www.house5.it,4,"Jan 01 - Jan 22, Jan 25 - Feb 26, Mar 01 - Dec 24, Dec 26 - Dec 31",8,4
+44500,TRIESTE,3S,La Casa Dei Bassotti,Rondini Marina,VIA LAZZARETTO VECCHIO,12,,+39 040 3220618;+39 340 5706930,+39 340 5706930,,marina.peppino@hotmail.it,,1,"Mar 01 - Nov 02, Dec 07 - Dec 31",2,1
+63800,TRIESTE,3S,La Cascina Nel Frutteto, Ursula Nussdorfer,VIA   GIORGIO NICOLICH,4,34149,+39 333 2072876;+39 333 2072876,+39 333 2072876,,unussdorfer@gmail.com,,2,"Jan 01 - Feb 04, Feb 07 - Nov 06, Nov 16 - Dec 31",4,2
+42541,TRIESTE,3S,La Culla di Trieste,Giannotta Alida,VIA DE MARCHESETTI,12/8,34100,+39 040 910579;+39 392 9649688,+39 392 9649688,,daisy.2008@libero.it,www.laculladitrieste.it,3,"Jan 07 - Jul 01, Jul 15 - Dec 30",6,3
+49404,TRIESTE,3S,La Nuvola Bianca,Zotti Monica,VIA DEI BIDISCHINI,2/3,34100,+39 348 3064809;+39 348 3064809,+39 348 3064809,+39 040 574335,lanuvola@istrieste.it,www.lanuvolabianca.it,1,"Jan 01 - Jun 15, Jul 01 - Nov 10, Dec 01 - Dec 31",5,1
+71760,TRIESTE,3S,La Stanza Mansarda Delle Meraviglie,Susanna Salvador,VIA TOLMEZZO,5,34100,+39 040 417838;+39 331 8975704,+39 331 8975704,,susannasalvador2016@gmail.com,,1,May 16 - Dec 11,4,1
+66980,TRIESTE,3S,Le Cupole di Trieste,Sarah Rosani,PIAZZA S. ANTONIO,6,34100,+39 328 9040130;+39 328 9040130,+39 328 9040130,,sarah.rosani@gmail.com,,3,May 16 - Dec 31,8,3
+71121,TRIESTE,3S,Magnolia,Renato Ressa,VIALE MIRAMARE,229/1,34136,+39 040 44718;+39 335 6034551,+39 335 6034551,,renato.ressa@libero.it,,2,May 02 - Dec 31,3,2
+69643,TRIESTE,3S,Orme di Bora, Daniela Frisori,VIA ULDERICO MORO,4/1,,+39 040 421301;+39 334 8402942,+39 334 8402942,,info@ormedibora.com,www.ormedibora.com,1,Jan 01 - Dec 31,3,1
+69980,TRIESTE,3S,Pepeu,Andrea Milio,VIA MADONNA DEL MARE,2,34124,+39 040 4702814;+39 348 7191990,+39 348 7191990,,andreamilio@yahoo.it,,1,"Mar 04 - May 12, May 22 - Jun 01, Jun 19 - Sep 15, Oct 02 - Dec 31",2,1
+39360,TRIESTE,3S,Petra,Minca Giorgio,VIA MAZZINI,44,34122,+39 333 5753017,+39 333 5753017,,bbpetra.trieste@yahoo.it,www.bedandbreakfastpetra.com,3,"Jan 01 - Jan 06, Jan 22 - Feb 14, Mar 05 - Mar 28, Apr 10 - Oct 09, Oct 29 - Nov 20, Dec 01 - Dec 31",5,3
+52921,TRIESTE,3S,Roses & Berries,Van Der Salm Cecile,Località TREBICIANO,38,34100,+39 346 0389838,+39 346 0389838,,cecilevandersalm@gmail.com,www.randbtrieste.wordpress.com,1,"Jan 01 - Feb 23, Feb 28 - Nov 20, Nov 28 - Dec 31",2,1
+55280,TRIESTE,3S,Sotto Il Faro, Stjepan Babic,VIA DEL BOVETO,18,34136,+39 040 412586;+39 331 8144979,+39 331 8144979,,sottoilfaro@gmail.com,www.sottoilfaro.com,3,"Jan 01 - Feb 24, Mar 17 - Nov 06, Nov 18 - Dec 31",6,3
+59320,TRIESTE,3S,Suite 45,Veronese Manilla,VIA COMMERCIALE,45,34135,+39 040 415282;+39 347 7892455,+39 347 7892455,,suite45trieste@libero.it,,1,"Jan 01 - Jan 06, Jan 15 - Nov 06, Nov 18 - Dec 31",2,1
+46180,TRIESTE,3S,Tre Rose,Battelini Aisha,VIA TOMMASO GROSSI,16,,+39 040 302564;+39 3466215453,+39 3466215453,,info@trerosetrieste.it,www.trerosetrieste.it,1,"Jan 01 - Jan 10, Jan 15 - Jan 18, Jan 22 - Jan 24, Jan 29 - Jan 31, Feb 05 - Feb 07, Feb 11 - Dec 31",4,1
+51420,TRIESTE,3S,Trieste Plus,Savanelli Stefano,VIA UDINE,12,34132,+39 340 2360894;+39 340 2360894,+39 340 2360894,,info@triesteplus.com,WWW.TRIESTEPLUS.COM,4,"Jan 01 - Feb 15, Feb 22 - Nov 20, Nov 28 - Dec 31",7,4
+47260,TRIESTE,3S,Villa Albori,Piazzi Martina,VIA NAZIONALE,41,34151,+39 040 420341;+39 393 9876562,+39 393 9876562,,info@villalbori.it,www.villaalbori.it,3,"Jan 01 - Jan 09, Jan 16 - Feb 10, Feb 17 - Oct 11, Oct 18 - Dec 31",7,3
+44180,TRIESTE,3S,Villa Fausta,Tracanelli Sergio,SALITA DI GRETTA,5,34136,+39 040 415252,,+39 040 415252,mail@villafausta-trieste.com,www.villafausta-trieste.com,3,"Jan 01 - Jan 10, Jan 15 - Dec 21, Dec 28 - Dec 31",8,3
+67040,TRIESTE,3S,Villa Laly, Rachele Mase',VIA  DI CONCONELLO,67,34151,+39 349 28888708;+39 389 5733125,+39 389 5733125,,l.cicia@icloud.com,,2,"May 09 - Nov 29, Dec 07 - Dec 31",5,2
+71643,TRIESTE,3S,Villa Moore,Marta Finzi,VIA R. BAZZONI,15,34124,+39 338 5640049;+39 338 5640049,+39 338 5640049,,martafinzi@yahoo.it,,1,Jul 21 - Dec 31,4,1
+62680,TRIESTE,3S,Villa Sisko,Ngrid Siskovic,VIA BOVETO,41,34136,+39 040 2608572;+39 331 6793456,+39 331 6793456,+39 040 300298,villasisko@libero.it,,1,"Jan 01 - Feb 21, Feb 29 - Nov 20, Nov 28 - Dec 31",5,1
+52640,TRIESTE,3S,Zenzero&cannella,M. Asuncion Gonzalez Herrera,LARGO BARRIERA  VECCHIA,15,34100,+39 345 5673624,,,info@zenzerocannella.it,www.zenzerocannella.it,3,"Jan 01 - Jan 09, Feb 08 - Dec 31",6,3
+46440,TRIESTE,3S,?tirenca,Palcich Anna,-,,34100,+39 040 226554;+39 335 8354806,+39 335 8354806,,info@stirenca.it,www.stirenca.it,3,Mar 18 - Dec 01,7,2
+68200,TRIESTE,2,03.Stanze, Giovanna Marson,VIALE MIRAMARE,27,34135,+39 349 5871633;+39 349 871633,+39 349 871633,,ggiuliam@gmail.com,,2,Jul 26 - Dec 31,4,2
+68800,TRIESTE,2,A Casa di Fra,Francesca Gandolfo,VIA CIAMICIAN,20,34124,+39 3396009054;+39 339 6009054,+39 339 6009054,,francescagandolfo@hotmail.it,,1,"Jan 01 - Jul 14, Aug 01 - Dec 23",1,1
+70120,TRIESTE,2,Ai Pucci,Corrado Russignani,STRADA DI FIUME,382,34100,+39 327 8346125,+39 327 8346125,,daisy.2008@libero.it,,1,"Mar 20 - Jun 30, Jul 10 - Dec 31",2,1
+47741,TRIESTE,2,Al Cedas,De Lindegg Maria,VIALE MIRAMARE,281/2,,+39 040 410936;+39 347 9461621,+39 347 9461621,+39 040 410396,mitta13@virgilio.it,,2,Apr 10 - Oct 31,3,2
+53880,TRIESTE,2,Al Cucherle,Bonelli Daniela,VIA TORREBIANCA,21,34100,+39 348 4302556;+39 348 4302556,+39 348 4302556,,alcucherle@gmail.com,www.bedandbreakfast-alcucherle-trieste.com,3,"Jan 01 - Feb 15, Feb 23 - Nov 20, Nov 27 - Dec 31",8,1
+69680,TRIESTE,2,Al Giardino Leonor,Francesca Zuzek,VIA G. BOCCACCIO,19,34135,+39 338 8052208,+39 338 8052208,,bnb.algiardinoleonor@gmail.com,,3,"Feb 20 - Nov 26, Dec 04 - Dec 31",8,2
+62502,TRIESTE,2,Al Giardino Pubblico,Claudio Puja,VIA COLOGNA,2,34100,+39 331 7544936,+39 331 7544936,,sunclaud@yahoo.it,,3,"Jan 09 - Jan 30, Feb 20 - Dec 22",5,2
+46400,TRIESTE,2,Al Laghetto,Carli Vaslij,VIA BASOVIZZA,20,,+39 338 9043445  339 8184619,+39 338 9043445  339 8184619,,info@beblaghetto.it,www.beblaghetto.it,3,Mar 01 - Dec 31,6,1
+63741,TRIESTE,2,Al Mitico Eremita,Sira Purini,VIA FRA PACE DA VEDANO,8,34142,+39 338 5967362;+39 338 5967362,+39 338 5967362,,mitico.eremita@gmail.com,,2,"Jan 01 - Jan 25, Jan 31 - Feb 29, Mar 06 - Dec 31",4,1
+72101,TRIESTE,2,Al Torzolon,Alessandro Zambon,VIA CARBONARA,4,34100,+39 349 8357784;+39 349 8357784,+39 349 8357784,,cipled82@gmail.com,,1,"Aug 01 - Nov 10, Dec 01 - Dec 31",2,1
+60460,TRIESTE,2,Al Tram,Vidman Natalia,VIA trenta OTTOBRE,13,34122,+39 347 6491495,+39 347 6491495,,bbaltram@gmail.com,,3,"Jan 01 - Jan 31, Feb 15 - Feb 29, Mar 15 - Dec 31",4,1
+57180,TRIESTE,2,All'acquedotto,Gabriele Brandolisio,VIA NORDIO,4,34125,+39 3356141303;+39 3356141303,+39 3356141303,,info@camereacquedotto.it,www.camereacquedotto.it,3,"Jan 01 - Jan 07, Feb 13 - Mar 02, Mar 16 - Nov 01, Nov 25 - Dec 31",7,2
+51080,TRIESTE,2,Ametista,Parise Gouvea Princy,PIAZZA LIBERTA,6,34132,+39 345 3152686,+39 345 3152686,,ametistatrieste@hotmail.com,,3,"Jan 01 - Jan 05, Feb 04 - Feb 16, Mar 15 - Mar 30, Apr 15 - Oct 23, Nov 15 - Dec 31",8,1
+54500,TRIESTE,2,Angelo,Angelo Gaiangos,VIA CESARE BATTISTI,23,34125,+39 040 2464982;+39 347 5710205,+39 347 5710205,,bbangelotrieste@gmail.com,,3,"Jan 01 - Jan 06, Jan 21 - Jan 31, Feb 16 - Dec 31",7,1
+58260,TRIESTE,2,Antico Borgo Teresiano, Alessandro Conte,VIA SAN LAZZARO,20,34100,+39 340 2361780;+39 340 2361780,+39 340 2361780,,info@anticoborgoteresiano.it,WWW.ANTICOBORGOTERESIANO.IT,3,"Jan 01 - Jan 11, Feb 02 - Feb 20, Mar 01 - Dec 31",8,2
+66520,TRIESTE,2,Apartment Elisabeth,Frizzi Ingrid,VICOLO DEI GATTORNO,2,34100,+39 338 9270803,+39 338 9270803,,elisabethf116@gmail.com,,2,Mar 18 - Dec 31,5,1
+67482,TRIESTE,2,Art&breakfast Atelier,Giorgio Schumann,SALITA MADONNA DI GRETTA,19,,+39 040 416243;+39 339 6379366,+39 339 6379366,,giorgio.schumann@alice.it,,2,Jul 15 - Nov 15,3,1
+65200,TRIESTE,2,Atema,Manuela Tommasini,VIA AMERIGO VESPUCCI,4/1,34100,+39 346 3025822;+39 346 3025822,+39 346 3025822,,tommasinimanuela@live.com,,1,"Jan 01 - Feb 07, Feb 15 - Jun 25, Jul 02 - Dec 31",2,1
+52600,TRIESTE,2,Barcolana Gold,Viva Donatella,VIA ARMANDO DIAZ,19,34100,+39 338 1584365,+39 338 1584365,,barcolanagold@gmail.com,,2,"Jan 01 - Jan 30, Feb 02 - Feb 28, Mar 03 - Mar 28, Apr 01 - Apr 30, May 01 - May 23, May 26 - Jun 30, Jul 01 - Jul 30",6,1
+72067,TRIESTE,2,Bloom's Room, Mariangela Vella,VIA PAOLO DIACONO,5,34137,+39 388 8690423;+39 388 8690423,+39 388 8690423,,bloomsroom2017@gmail.com,,1,"Aug 11 - Nov 12, Nov 20 - Dec 31",2,1
+63900,TRIESTE,2,Blu&blu,Alessandra Prinz,VIA GIULIA,5,34126,+39 349 3448631;+39 349 3448631,+39 349 3448631,,prinzalessandra@gmail.com,,4,"Jan 01 - Jan 23, Feb 01 - Feb 20, Mar 01 - Nov 19, Nov 26 - Dec 31",8,2
+47080,TRIESTE,2,Brass,Romich Giovanni,VIA SAN MAURIZIO,5,34100,+39 040 639517;+39 366 4068685,+39 366 4068685,,brass@bedandbreakfast-trieste.com,www.bedandbreakfast-trieste.com,4,"Jan 01 - Jan 08, Jan 09 - Feb 22, Mar 02 - Nov 22, Nov 23 - Dec 31",8,2
+71803,TRIESTE,2,Caccia,Iulia Daniela Negrui,VIA A. CACCIA,10,34129,+39 327 3696434;+39 327 3696434,+39 327 3696434,,daniela.negrui@gmail.com,,1,"Jul 01 - Nov 05, Dec 01 - Dec 31",2,1
+66800,TRIESTE,2,Carsia B&B,Zef Gurasiu,VIA  CARSIA,34/7,34151,+39 348 3145904;+39 348 3145904,+39 348 3145904,,guraziuzef@gmail.com,,3,"May 02 - Nov 15, Dec 01 - Dec 31",4,1
+69644,TRIESTE,2,Casa Liberty,Franca Stefani,VIA COMMERCIALE,40,34135,+39 040 2410211;+39 339 5466652,+39 339 5466652,,franca.natur@gmail.com,,1,"Jan 21 - Feb 10, Feb 27 - Jul 03, Jul 16 - Dec 15",2,1
+68620,TRIESTE,2,Casa Murat,Dante Grassi,VIA G. MURAT,6,34023,+39 340 0645810;+39 340 0645810,+39 340 0645810,,dantecostante45@gmail.com,,1,"Sep 27 - Oct 19, Nov 18 - Dec 31",2,1
+60861,TRIESTE,2,Casa Piccola,Gherbassi Franco,VIA ROVETTA,12,34145,+39 346 7894064;+39 346 7894064,+39 346 7894064,,fran.gherbaz@gmail.com,,2,"Jan 11 - Jun 30, Sep 01 - Dec 22",5,1
+71642,TRIESTE,2,Casaldina,Alessandro Gilardoni,VIA M.R. IMBRIANI,1,34122,+39 347 2529617;+39 347 2529617,+39 347 2529617,,agilar61@gmail.com,,1,Jul 17 - Dec 31,3,1
+62260,TRIESTE,2,Cassio,Beatrice Vecchiet,VIA DELLEREMO,241/3,34142,+39 347 9257093;+39 347 9257093,+39 347 9257093,,cassioinfo@bebcassio.com,,2,"Jan 01 - Jan 14, Jan 18 - Jan 21, Jan 25 - Jan 28, Feb 01 - Apr 13, Apr 18 - Nov 17, Nov 21 - Dec 31",4,1
+41481,TRIESTE,2,Cattinara,Sav Marjanca,STRADA DI FIUME,555,34100,+39 040 910557;+39 338 1509385,+39 338 1509385,,,,3,"Jan 01 - Aug 20, Sep 01 - Dec 20",6,1
+66280,TRIESTE,2,Cerino,Silvia Cerino,VIA FILIPPO CORRIDONI,12,34131,+39 347 7309629,+39 347 7309629,,cerisil@libero.it,,2,Mar 01 - Dec 31,6,1
+52560,TRIESTE,2,Chiara,Lorenzo Meula,VIA AL CISTERNONE,9,34100,+39 339 6801149,+39 339 6801149,,chiarabeb@libero.it,,3,Jan 11 - Dec 22,6,2
+56840,TRIESTE,2,Colors,Michela Coslan,VIA VITTORIA COLONNA,4,34124,+39 040 311716;+39 347 9827914,+39 347 9827914,,marco.nordio@gmail.com,,2,Jan 15 - Dec 15,4,1
+71641,TRIESTE,2,Cristina Melis,,VIALE venti SETTEMBRE,32,34125,+39 393 1113676;+39 393 1113676,+39 393 1113676,,cristina.melis@gmail.com,,1,"Apr 05 - Oct 31, Dec 01 - Dec 31",2,1
+72420,TRIESTE,2,Da Noi,Margherita Fonda,VIA CADORNA,13,34124,+39 348 2423988;+39 348 2423988,+39 348 2423988,,punticinzia@libero.it,,3,Aug 01 - Dec 31,8,1
+70622,TRIESTE,2,Da Selene,Selene Simonic,SCALA MONTICELLO,4,34126,+39 346 9566860;+39 346 9566860,+39 346 9566860,,,,1,"Apr 30 - Aug 31, Oct 01 - Dec 31",2,1
+72102,TRIESTE,2,Da Thais Un Piacevole Relax,Thais Virginia Castellanos Escandon,VIA CARLO ANTONI,24,34128,+39 040 572932;+39 331 3150125,+39 331 3150125,,virginia777.tc@gmail.com,,3,Aug 02 - Dec 20,5,1
+69982,TRIESTE,2,Dai Muli,Alessandra Chiurco,VIA TRENTO,15,34132,+39 331 1257035,+39 331 1257035,,alessandrachiurco@gmail.com,,4,"Mar 13 - Dec 11, Dec 20 - Dec 31",8,2
+49400,TRIESTE,2,Dell'acqua 23,Mahne Matteo,VIA CESARE DELLACQUA,23,34148,+39 338 6605418,+39 338 6605418,,dellacqua23@gmail.com,,2,"Mar 01 - Dec 02, Dec 20 - Dec 31",5,1
+67360,TRIESTE,2,Dream 22,Elvio Tonsi,VIA SAN PRIMO,24,34126,+39 040 569946;+39 345 4143530,+39 345 4143530,,elvio.tonsi@gmail.com,,2,"Jun 15 - Oct 31, Nov 15 - Dec 31",6,1
+65680,TRIESTE,2,Empire 1970,,TORREBIANCA,21,34121,+39 3314681848;+39 3314681848,+39 3314681848,,giulia_deperis@libero.it,,4,"Jan 01 - Feb 14, Feb 22 - Oct 23, Oct 28 - Dec 31",8,2
+69642,TRIESTE,2,Esperia,Stefania Trevisan,VIA STRADA DEL FRIULI,177,34136,+39 349 0895717,+39 349 0895717,,stefania1928@hotmail.it,,2,"Jan 01 - Jan 14, Feb 01 - Feb 12, Mar 01 - Oct 14, Oct 26 - Nov 04, Nov 26 - Dec 31",4,2
+48641,TRIESTE,2,Family Life,De Feno Marina,LARGO A ROIANO,3/4,34135,+39 393 7035235,+39 393 7035235,,mdf@familylifetrieste.it,www.familylifetrieste.it,1,"Jan 01 - Jan 11, Jan 29 - Feb 15, Mar 04 - Dec 31",2,1
+71644,TRIESTE,2,Gatteri,Graziella Vocca,VIA GATTERI,13,34129,+39 040 368113;+39 320 3456297,+39 320 3456297,,graziella.vocca@gmail.com,,2,"Jul 22 - Oct 29, Nov 19 - Dec 31",6,1
+71222,TRIESTE,2,Gelsomina,Jasmin Lamprecht,VIA SANTAPOLLINARE,2,34131,+39 348 2744530;+39 348 2744530,+39 348 2744530,,jasmin.lamprecht@hotmail.it,,1,Jul 15 - Dec 31,1,1
+55821,TRIESTE,2,Gens Julia,Davide Dell'agata,VIA SAN  MICHELE,7,34124,+39 340 6056039,+39 340 6056039,,gensjuliats@virgilio.it,,3,"Jan 01 - Jan 17, Jan 24 - Feb 24, Mar 03 - Dec 31",6,2
+61640,TRIESTE,2,Giardini,Gregoris Carla,VIA DEI GIARDINI,21/1,34100,+39 333 7575533,+39 333 7575533,,gregoris.carla@tiscali.it,,2,"Jan 01 - Jan 10, Mar 01 - Dec 31",5,1
+62701,TRIESTE,2,Grignetti Bed,Marco Grignetti,VIA ROSSETTI,7/1,34126,+39 347 2526570;+39 347 2526570,+39 347 2526570,,marco.grignetti@libero.it,,2,"Jan 01 - Feb 05, Feb 14 - Nov 06, Nov 14 - Dec 31",5,2
+45100,TRIESTE,2,Grim,Zamarin Giuliano,VIA REVOLTELLA,87,34100,+39 040 0642236;+39 349 4181357,+39 349 4181357,,info@bedandbreakfastgrim.it,www.bedandbreakfastgrim.it,4,"Jan 10 - Jul 31, Aug 15 - Dec 25",7,3
+62501,TRIESTE,2,Guerrero,Marcela Esther De Bernardis,LARGO SIDNEY SONNINO,9,34139,+39 040 2415605;+39 329 0427035,+39 329 0427035,,debernardisme@hotmail.com,,2,"Jan 01 - Feb 14, Feb 29 - Dec 31",5,1
+68060,TRIESTE,2,Il Sogno di Joyce, Stefania Emma Sbaiz,VIA BRAMANTE,4,34131,+39 338 4269189,+39 338 4269189,,stesba64@virgilio.it,,1,Sep 22 - Dec 31,2,1
+62740,TRIESTE,2,International,Gabriele Vassilich,LARGO BARRIERA,15,34129,+39 347 5011444;+39 347 5011444,+39 347 5011444,,internationaltrieste@gmail.com,,3,"Jan 01 - Feb 21, Feb 26 - Mar 13, Mar 17 - Jun 05, Jun 10 - Nov 20, Nov 25 - Dec 31",7,1
+72068,TRIESTE,2,L'arcobaleno,Alberto Coretti,VIA CADORNA,13,34121,+39 339 2080189;+39 339 2080189,+39 339 2080189,,albertocoretti@virgilio.it,,2,Sep 27 - Dec 31,6,2
+67684,TRIESTE,2,La Cogoma,Eleonora Callipo,VIALE MIRAMARE,29,34135,+39 3461392966,,,lacogoma29@gmail.com,,3,Jul 05 - Dec 31,8,3
+56460,TRIESTE,2,Le Ortensie di Via Rossetti,Federica Paliaga,VIA ROSSETTI,83/1,34100,+39 320 5743826;+39 040 9498104,+39 040 9498104,+39 3205743826,info@leortensiediviarossetti.it,www.leortensiediviarossetti.it,3,"Jan 01 - Jan 16, Jan 27 - Mar 20, Mar 27 - Apr 07, Apr 13 - Sep 22, Sep 29 - Oct 16, Oct 20 - Dec 31",6,2
+70243,TRIESTE,2,Le Rose,Franca Boico,VICOLO DELLE ROSE,45,34134,+39 333 6041002,+39 333 6041002,,,,1,"Apr 01 - Oct 30, Dec 01 - Dec 31",2,1
+58720,TRIESTE,2,Le Stanze di Miramare,Tiziana Finzi,VIALE MIRAMARE,27,34135,+39 342 9662480;+39 349 5871633,+39 349 5871633,+39 040 420271,info@lestanzedimiramare.com,www.lestanzedimiramare.com,3,"Jan 01 - Feb 15, Mar 01 - Oct 31, Dec 01 - Dec 31",7,2
+60280,TRIESTE,2,Lorenzo,Katerina Koti,VIA ROSSETTI,8,34100,+39 328 8119561,+39 328 8119561,,info@bandblorenzo.it,,3,"Jan 01 - Jan 09, Feb 20 - Mar 05, Mar 10 - Jun 10, Jun 15 - Sep 12, Sep 15 - Nov 04, Nov 07 - Dec 31",7,2
+54842,TRIESTE,2,Mary Poppins's House,Lampi Lorena,VIA DAMIANO CHIESA,98,34128,+39 377 4546235,+39 377 4546235,,marypoppinshouse6@gmail.com,,3,"Jan 01 - Jan 05, Jan 10 - Nov 16, Nov 22 - Dec 31",6,2
+48780,TRIESTE,2,Mimosa,Franzinelli Gabriela,VIA CARLO  SCHMIDL,5,34147,+39 333 5059214,+39 333 5059214,,bb-mimosa@libero.it,www.bb-mimosa-trieste.weebly.com,2,"Jan 25 - Mar 24, Apr 04 - Jun 16, Jun 27 - Jul 07, Jul 18 - Aug 12, Aug 29 - Sep 16, Sep 26 - Oct 27, Nov 07 - Dec 22",4,2
+49520,TRIESTE,2,Miramare,Paola Cantarutti,VIALE MIRAMARE,55,34135,+39 347 8408555,+39 347 8408555,,paola.cantarutti6@gmail.com,,1,"Jan 01 - Feb 02, Feb 10 - Sep 07, Sep 15 - Dec 31",3,1
+69981,TRIESTE,2,Old Town Rooms, Salvatore Amato,VIA  DEI FABBRI,3,34124,+39 328 7043021,+39 328 7043021,,totoottobre@hotmail.it,,2,"Feb 18 - Dec 11, Dec 16 - Dec 31",4,1
+52580,TRIESTE,2,Palazzo Brigido,Ricci Raffaella,VIA POZZO DEL MARE,1,34121,+39 331 1865930,+39 331 1865930,,info@palazzobrigido.com,www.palazzobrigido.com,3,"Jan 01 - Jan 06, Jan 13 - Jan 20, Jan 27 - Feb 03, Feb 10 - Feb 17, Feb 24 - Mar 03, Mar 10 - Dec 31",8,1
+68822,TRIESTE,2,Peggy,Paola Viano,VIA SAN LAZZARO,1,,+39 347 2792580,+39 347 2792580,,bnbpeggytrieste@gmail.com,,4,Oct 26 - Dec 31,8,3
+66260,TRIESTE,2,Piazza Goldoni,Jacopo Ciampalini,VIA CARDUCCI,31,34100,+39 328 3535274,+39 328 3535274,,ciampaj87@hotmail.com,,4,Mar 03 - Dec 31,8,2
+68821,TRIESTE,2,Porporella,Nataliya Rachkova,VIA CADORNA,13,34124,+39 329 0146105;+39 329 0146105,+39 329 0146105,,kseniya80rachkova@gmail.com,,3,Oct 27 - Dec 31,6,2
+54501,TRIESTE,2,Rebecca,Korosec Ingeborg Klara,VIA GIULIA,53,34100,+39 333 5068576;+39 333 5068576,+39 333 5068576,,lampo68@teletu.it,,2,"Feb 01 - Mar 21, Apr 01 - Dec 31",5,1
+72103,TRIESTE,2,Rio Farneto,Emanuela Giorgia Brianti,STRADA PER LONGERA,215,34128,+39 040 576213;+39 339 8850817,+39 339 8850817,,emanuelabrianti@tiscali.it,,1,Aug 01 - Dec 31,2,1
+51580,TRIESTE,2,Rosetta-art,Rosa Maria Peternelli,VIA ERTA SANTANNA,110/1,34149,+39 333 5930594;+39 333 5930594,+39 333 5930594,,rosetta-art@libero.it,,2,"Jan 01 - Feb 02, Feb 17 - Nov 16, Nov 24 - Dec 31",5,1
+71647,TRIESTE,2,San Giusto,Goran Pajc,VIA DELLA FORNACE,7,34131,+39 320 2922696,+39 320 2922696,,goran_paic@yahoo.it,,1,"Jun 01 - Oct 31, Dec 01 - Dec 31",2,1
+69820,TRIESTE,2,Shabby Lullaby,Elisabeth Antonaglia,VIA GHIRLANDAIO,22/2,34138,+39 346 4783350,+39 346 4783350,,eli.antonaglia@gmail.com,,1,"Feb 01 - Feb 12, Feb 17 - Mar 05, Mar 10 - Apr 02, Apr 07 - May 07, May 12 - Oct 22, Oct 27 - Nov 05, Nov 11 - Dec 10",2,1
+55241,TRIESTE,2,St. Jack,Antonini Erminia,VIA FRAUSIN,19,34137,+39 328 6894017;+39 342 7836002,+39 342 7836002,,st.jackts@gmail.com,,3,"Jan 01 - Jan 24, Feb 19 - Nov 13, Dec 16 - Dec 31",7,2
+70380,TRIESTE,2,Starbene,Daniele Planine,VIA APIARI,27,34135,+39 3249018482;+39 324 9018482,+39 324 9018482,,dplanine@gmail.com,,2,"Apr 26 - Oct 15, Oct 29 - Nov 15, Nov 29 - Dec 31",4,1
+64760,TRIESTE,2,Stella Marina,Silva Roveretto,VIA  NEGRELLI,2,34100,+39 334 3366036;+39 334 3366036,+39 334 3366036,,,,1,"Jan 01 - Mar 01, Mar 08 - Aug 07, Aug 14 - Dec 31",2,1
+70381,TRIESTE,2,Sunflower,Laura Sbrizzi,VIA RONCHETO,42,34145,+39 347 8292670,+39 347 8292670,,laurisb9900@yahoo.it,,2,Apr 11 - Dec 20,4,1
+62077,TRIESTE,2,The Smiling Home,Gelletti Giulia,VIA RUGGERO MANNA,20,34134,+39 339 1800253,+39 339 1800253,,casadipenny@gmail.com,,2,"Jan 01 - Jan 10, Jan 18 - Jan 24, Feb 01 - Dec 31",3,1
+68880,TRIESTE,2,Torrebianca,Stefano Canato,VIA POZZO DEL MARE,1,34121,+39 040 2606497;+39 329 1431701,+39 329 1431701,,torrebinacaitalia@gmail.com,,2,Nov 10 - Dec 31,5,2
+66061,TRIESTE,2,Tra I Rivi,,PIAZZA TRA I RIVI,5,34100,+39 3939000143;+39 3939000143,+39 3939000143,,trairivi@gmail.com,,3,"Jan 01 - Jan 10, Jan 17 - Jul 31, Aug 08 - Dec 31",4,1
+63840,TRIESTE,2,Tra I Tetti,Luca Veuer,VIA IMBRIANI,10,34122,+39 349 544114;+39 349 544114,+39 349 544114,,lucaveue@gmail.com,,2,"Jan 01 - Sep 11, Oct 01 - Oct 15, Nov 01 - Nov 06, Dec 01 - Dec 11, Dec 19 - Dec 31",4,1
+70620,TRIESTE,2,Tram De Opcina,Paolo Marra,VIA A.ALEARDI,2,34134,+39 328 4561761;+39 328 4561761,+39 328 4561761,,paolo.marra1985@gmail.com,,1,"Apr 22 - Jul 21, Jul 31 - Sep 01, Sep 11 - Dec 31",2,1
+62800,TRIESTE,2,Trieste 59,Camilla Gombani,VIA CESARE CANTU,59,34134,+39 333 8674678;+39 333 8674678,+39 333 8674678,,trieste59bb@gmail.com,,4,"Jan 01 - Jan 10, Mar 04 - Jun 04, Jun 13 - Nov 06, Dec 01 - Dec 31",6,3
+71221,TRIESTE,2,Ugo Foscolo,Gian Luigi Gugliermetto,VIA U.FOSCOLO,20,34129,+39 334 8165595;+39 334 8165595,+39 334 8165595,,gugliermetto65@gmail.com,,2,"Jun 01 - Nov 05, Dec 06 - Dec 31",5,1
+70241,TRIESTE,2,Valentina,Valentina Botter,VICOLO DELLE ROSE,49,34134,+39 347 0978150;+39 347 0978150,+39 347 0978150,,,,1,"Apr 14 - May 18, May 25 - Jun 19, Jun 23 - Jul 08, Jul 13 - Sep 30, Oct 05 - Oct 18, Oct 27 - Nov 08, Dec 01 - Dec 12",2,1
+47081,TRIESTE,2,Ventodibora,Blasizza Federica,VIA BARTOLETTI,4,,+39 333 3592541,+39 333 3592541,,info@ventodibora.it,www.ventodibora.it,1,"Jan 01 - Jan 10, Jan 22 - Oct 10, Oct 21 - Dec 31",4,1
+69645,TRIESTE,2,Villa Giulia, Franco Floriddia,VIA MURATORI,8,34100,+39 3488135510;+39 348 8135510,+39 348 8135510,,franco.floriddia@super2000.it,,3,"Feb 01 - May 31, Jun 20 - Aug 20, Sep 15 - Dec 31",6,1
+68000,TRIESTE,2,Villa Inn,Guido Samsa,VIA ULDERICO MORO,1,34136,+39 040 414625;+39 333 8023075,+39 333 8023075,,,,4,Aug 02 - Dec 31,8,3
+54841,TRIESTE,2,Villa Quiete,Gavranic Nadal Nela,STRADA PER BASOVIZZA,50,34128,+39 392 3241222  333 1130704,+39 392 3241222  333 1130704,,alessio.giannella@yahoo.it,,3,"Jan 01 - Jan 31, Mar 01 - Oct 30, Dec 01 - Dec 31",6,2
+55240,TRIESTE,2,Z1 - Zudecche 1,Riosa Michela,VIA DELLE ZUDECCHE,1,34100,+39 345 0424433,+39 345 0424433,,michela.riosa@gmail.com,,4,"Jan 01 - Jan 31, Feb 05 - May 15, May 20 - Oct 02, Oct 07 - Dec 31",8,2
+49920,TRIESTE,3,Al Parco,Esmeralda Abruzzese,VIA GIULIA,6,34100,+39 392 2941592;+39 392 2941592,+39 392 2941592,,esmeab@virgilio.it,,2,"Jan 01 - Feb 14, Feb 29 - Nov 14, Dec 01 - Dec 31",5,1
+67361,TRIESTE,3,Area 39,Diego Duratorre,VIA GIULIA,39,,+39 347 3905000,+39 347 3905000,,diego1512@icloud.com,,2,Jun 01 - Dec 31,5,2
+47620,TRIESTE,3,Belcinque,Lombardi Rachele,VIA BELPOGGIO,5,34100,+39 335 6894545,+39 335 6894545,,,www.belcinque.it,2,"Jan 01 - Feb 01, Feb 08 - Aug 02, Aug 09 - Dec 31",4,2
+53480,TRIESTE,3,Better,Doratti Alessandra,VIA UDINE,20,34132,+39 040 2452935;+39 335 6602822,+39 335 6602822,,alessandra.doratti@gmail.com,www.bettertrieste.it,3,"Jan 01 - Jan 31, Mar 01 - Nov 20, Nov 30 - Dec 31",5,3
+70800,TRIESTE,3,Contovello 536, Maurizio Bobini,Località CONTOVELLO,536,34125,+39 333 3277212,+39 333 3277212,,mauriziobobini@gmail.com,,1,Apr 01 - Dec 31,2,1
+68140,TRIESTE,3,Felicia,Felicia Simeoli,VIA FABIO SEVERO,90/1,34127,+39 328 1551487;+39 3385337232,+39 3385337232,,danielmiccu@gmail.com,,1,"Aug 25 - Nov 20, Nov 28 - Dec 31",3,1
+67100,TRIESTE,3,House 28,Licia Caterina Cinello,VIA NAVALI,28,34143,+39 040 309067;+39 329 8794591,+39 329 8794591,,licia.davanzo@gmail.com,,1,Jun 01 - Oct 30,2,1
+67301,TRIESTE,3,L'isola Che Non C'e,Lisabetta Loy De Leichenfeld,VIA GIUSTO DE GIRARDI,7,34141,+39 040 944553;+39 342 6694977,+39 342 6694977,,elloy@tin.it,,2,"Jun 01 - Aug 31, Sep 15 - Oct 15, Dec 01 - Dec 31",4,2
+62020,TRIESTE,3,La Rampla,Rudella M. Margherita,STRADA PER LONGERA,46,34128,+39 338 1903078,+39 338 1903078,,margherita.rudella@libero.it,,2,"Jan 01 - Jan 15, Feb 04 - Feb 28, Mar 08 - Nov 11, Dec 01 - Dec 31",5,2
+54844,TRIESTE,3,Le 5 Muse,Roscioli Valeria,VIA DEL PUCINO,12,34151,+39 347 6928439,+39 347 6928439,,le5muse@email.it,,2,"Jan 01 - Jan 24, Feb 01 - Nov 20, Nov 28 - Dec 31",5,2
+66781,TRIESTE,3,Lo Studio di Joyce,Andrea Gargano,VIA ROMA,20,34132,+39 347 4449936;+39 347 4449936,+39 347 4449936,,andreagargano@libero.it,www.lostudiodijoyce.it,3,"Apr 14 - May 02, May 06 - Nov 10, Nov 14 - Dec 31",7,3
+60980,TRIESTE,3,Nebojsega,Svab Luka,Località S. CROCE,34,,+39 348 5861205,+39 348 5861205,+39 040 220197,info@nebojsega.com,www.nebojsega.com,1,"Jan 01 - Feb 01, Feb 12 - Nov 06, Nov 14 - Dec 31",4,1
+65002,TRIESTE,3,Porto Vecchio, Radovancev Jelena,VIA CARLO GHEGA,3,34132,+39 040 2601625;+39 342 8983401,+39 342 8983401,,info@66trieste.com,,3,"Feb 01 - Feb 15, Mar 01 - Dec 31",8,3
+49405,TRIESTE,3,Rive - Cittavecchia,Merandino Rosario,VIA CADORNA,25,34121,+39 338 7751300,+39 338 7751300,,merandino@libero.it,,1,Apr 01 - Oct 15,2,1
+70621,TRIESTE,3,Traveller Jack,Claudia Diano,VIA E.S. PICCOLOMINI,3,34126,+39 349 7786032;+39 349 7786032,+39 349 7786032,,claudia.diano81@gmail.com,,1,Mar 27 - Dec 15,1,1
+47941,TRIESTE,3,Vastu Vidya,Gotti Pamela,VIA MUZIO,11,34100,+39 338 3155841,+39 338 3155841,,info@triestebbvastu.it,www.triestebbvastu.it,1,"Jan 01 - Jan 29, Mar 01 - Dec 31",2,1
+39280,TRIESTE,,Aachen-furlan,Bocanegra Vidal Jhaira,VIA BATTISTI,24,34100,+39 338 2287085,+39 338 2287085,,info@triestebedandbreakfast.it,www.triestebedandbreakfast.it,3,"Jan 01 - Jan 10, Mar 04 - Aug 20, Aug 28 - Dec 31",6,3
+2642,TRIESTE,,Ad Hoc,Zocchi Vida,VIA PADUINA,4,34125,+39 347 8310930,+39 347 8310930,+39 040 4528661,zocchi-ts@libero.it,,2,"Jan 01 - Jan 20, Feb 01 - Feb 15, Mar 01 - Jun 15, Jun 18 - Dec 20",8,2
+3901,TRIESTE,,Ai 7 Olivi,Cimenti Annalisa,SALITA DI CONTOVELLO,74,34136,+39 040 421086;+39 339 6054204,+39 339 6054204,,annalisa.cimenti@email.it,www.bedandbreakfastai7olivitrieste.it,2,"Feb 06 - Feb 28, Mar 05 - Nov 16",4,1
+37841,TRIESTE,,Ai Moretti,Moretti Marcello,PIAZZA VENEZIA,1,34100,+39 040 2602063;+39 328 7692696,+39 328 7692696,,info@aimoretti.it,www.aimoretti.it,3,"Jan 01 - Jan 07, Jan 25 - Jan 31, Feb 08 - Dec 31",6,2
+42040,TRIESTE,,Al Borgo,Arangio Maria,VIA FORTI,2,34148,+39 346 2117931,+39 346 2117931,,info@al-borgo.it,www.al-borgo.it,3,"Feb 01 - Mar 31, Apr 06 - Dec 09",6,3
+2399,TRIESTE,,Al Ferdinandeo,Bon Marzia,VIA DELLEREMO,231,34100,+39 040 912547;+39 340 6437734  338 1333522,+39 340 6437734  338 1333522,,info@alferdinandeo.it,www.alferdinandeo.it,3,"Jan 01 - Jan 03, Mar 04 - Aug 25, Sep 02 - Dec 12, Dec 27 - Dec 31",6,3
+36060,TRIESTE,,Al Ponterosso,Boschin Andrea,PIAZZA DEL PONTEROSSO,3,34121,+39 040 2600312;+39 349 0925955,+39 349 0925955,,alponterosso@hotmail.com,www.alponterosso.it,2,"Jan 01 - Jan 10, Jan 26 - Feb 15, Mar 10 - Mar 28, Apr 12 - Oct 14, Nov 01 - Nov 07, Nov 25 - Dec 31",5,2
+39481,TRIESTE,,Alla Scuderia,Schiavone Grazia,VIA MONTE SAN GABRIELE,42,34100,+39 040 568304;+39 334 7028973,+39 334 7028973,,graziapaticchio@libero.it,,2,Apr 01 - Nov 15,4,1
+45200,TRIESTE,,Allo Scoglio,Grieco Ruggero,VIA DELLO SCOGLIO,51,,+39 040 2032367;+39 337 538750,+39 337 538750,+39 40575273,alloscoglio@libero.it,,3,"Jan 01 - Nov 06, Dec 05 - Dec 31",6,1
+34640,TRIESTE,,Battisti,Rizzitelli Andrea,VIA BATTISTI,18,34100,+39 040 3498350;+39 340 7069970,+39 340 7069970,+39 040 9772039,info@bb-battisti.it,www.bb-battisti.it,3,"Jan 01 - Jan 04, Jan 11 - Feb 10, Feb 18 - Mar 15, Mar 20 - May 02, May 20 - Dec 31",6,2
+43720,TRIESTE,,Bbtrieste,Patrizia Garbassi,VIA  GALLERIA,3,34100,+39 347 0394312,+39 347 0394312,,bedandbreakfasttrieste@gmail.com,www.bb-trieste.it,3,"Jan 01 - Jan 09, Jan 16 - Jan 31, Feb 06 - Dec 31",5,3
+40241,TRIESTE,,Bora di Trieste,Scherl Loredana,VIA RAFFINERIA,8,34100,+39 040 661988;+39 349 3511655,+39 349 3511655,,boraditrieste@hotmail.com,www.boraditrieste.freshcreator.com,2,"Jan 01 - Jan 12, Jan 15 - Jan 25, Jan 29 - Feb 29, Mar 04 - Dec 31",5,1
+3240,TRIESTE,,Bramasole,Giacometti Chiara,VIA DEI CALDANA,3,34148,+39 338 3014621,+39 338 3014621,,info@bramasoletrieste.it,www.bramasoletrieste.it,2,"Jan 01 - Jan 31, Feb 14 - Dec 31",4,2
+2366,TRIESTE,,Decò,Torregiani Davide,VIA SCALA BELVEDERE,2,34100,+39 040 411593;+39 329 2080021,+39 329 2080021,,decobbtrieste@virgilio.it,www.decobbtrieste.tk,2,"Jan 01 - Jan 20, Feb 20 - Feb 27, Feb 28 - Dec 31",6,1
+44980,TRIESTE,,Diana,Marchesich Diana,VIA DI CONCONELLO,19,34100,+39 040 211380;+39 349 5070323,+39 349 5070323,,diana@bb-trieste.com,www.bb-trieste.com,2,"Jan 01 - Jan 09, Jan 16 - Nov 17, Nov 25 - Dec 31",3,1
+40060,TRIESTE,,Giulia,Gega Valentina,VIA GIULIA,53,34100,+39 040 2413249;+39 339 2525103,+39 339 2525103,,giuliabeb@gmail.com,www.bbgiulia.it,2,"Jan 01 - Feb 08, Feb 15 - Nov 07, Nov 14 - Dec 31",4,2
+34220,TRIESTE,,Il Melograno,Zamma Gallarati Fabio,VIA DEL GHIRLANDAIO,13,34138,+39 333 6268291   333 3592541,+39 333 6268291   333 3592541,+39 040 393641,info@ilmelogranotrieste.it,www.ilmelogranotrieste.it,3,"Jan 01 - Jan 11, Jan 18 - Feb 10, Feb 12 - Feb 25, Mar 01 - Mar 09, Mar 14 - Jun 21, Jun 27 - Sep 21, Sep 26 - Dec 22",6,2
+2601,TRIESTE,,Katinando,Pugliatti Ferdinando,VIA COMBI,14,34100,+39 040 3220973;+39 338 9794455,+39 338 9794455,+39 040 3220973,katinando@libero.it,,1,"Jan 01 - Jan 24, Feb 01 - Feb 23, Mar 01 - May 31, Jun 01 - Sep 30, Oct 01 - Dec 31",2,1
+2582,TRIESTE,,Le Casite, Cannavo' Alessandro,Località TREBICIANO,100,34012,+39 339 8464540,+39 339 8464540,,info@lecasite.com,www.lecasite.com,4,"Jan 01 - Jan 25, Feb 05 - Nov 06, Nov 11 - Dec 31",8,4
+42580,TRIESTE,,Palazzo Panfilli,Lincetto Silvana,VIA DELLA GEPPA,2,34100,+39 335 434587,+39 335 434587,,info@palazzopanfilli.it,www.palazzopanfilli.it,3,"Jan 01 - Jan 10, Jan 29 - Feb 14, Mar 01 - Dec 31",8,1
+2440,TRIESTE,,Panorama,Villa Liana,VIA DELLA BELLAVISTA,77,34151,+39 040 414956;+39 348 3800475,+39 348 3800475,,bruno.cavicchioli@alice.it,www.bbpanorama.eu,2,"Jan 01 - Jan 17, Feb 22 - Nov 12, Nov 19 - Dec 31",4,1
+2419,TRIESTE,,Priscilla,Kravanja Maria,VIA REVOLTELLA,6,34138,+39 040 395941;+39 3497776298,+39 3497776298,,kravanja.maria@libero.it,,1,"Jan 01 - Jan 10, Jan 20 - Feb 20, Mar 01 - May 08, May 12 - Oct 18, Oct 23 - Dec 31",3,1
+34940,TRIESTE,,Santa Caterina,Vassilich Roberta,VIA SANTA CATERINA,9,34100,+39 335 6868099,+39 335 6868099,,BBS.CATERINA@YAHOO.IT,,3,"Jan 01 - Jan 31, Feb 02 - Feb 22, Feb 26 - Dec 23, Dec 26 - Dec 31",5,1
+68560,AIELLO DEL FRIULI,3S,La di Cesar,Padovani Patrizia,VIA G.MAZZINI,15,33041,+39 348 7676580,+39 348 7676580,,bb.ladicesar@gmail.com,,2,"Jan 01 - Jan 15, Feb 11 - Oct 04, Oct 27 - Dec 31",2,2
+48160,AIELLO DEL FRIULI,3,La Meridiana,Cristin Claudia,VIA PETRARCA,1/a,33041,+39 0431 999818,,,cristinclaudia@libero.it,,2,Mar 01 - Nov 30,4,2
+42560,AIELLO DEL FRIULI,,B&B Casa Medievale Del Mugnaio (1300),,Località NOVACCO,7,33041,+39 0431 973831;+39 347 2603838,+39 347 2603838,+39 0431 973831,antoniocastellaneta@teletu.it,casadelmugnaio.wix.com/B&B,2,Mar 01 - Nov 30,3,2
+47680,AQUILEIA,3S,Casa di Giulia,Comelli Giuliamaria,VIA GIULIA AUGUSTA,21,33051,+39 0431 918742;+39 349 8429796,+39 349 8429796,,info@casadigiulia.it,www.casadigiulia.it,3,"Mar 16 - Oct 31, Nov 01 - Nov 06, Nov 23 - Dec 31",8,3
+2471,AQUILEIA,3S,Casa Gioconda,Sfiligoi Rosanna,VIA BOLIVIA,8,33051,+39 0431 91208;+39 339 7868037  340 8541485,+39 339 7868037  340 8541485,,info@casagioconda.it,www.casagioconda.it,1,"Mar 01 - Oct 31, Dec 01 - Dec 31",2,1
+63520,AQUILEIA,3S,Il Giardino di Beleno,Tullio Altan Silvia,Località BELIGNA,38,33051,+39 0431 919219,,,staltan@teletu.it,,2,"Jan 01 - Jan 15, Mar 15 - Oct 15, Nov 15 - Dec 31",4,2
+39320,AQUILEIA,2,Al Ramo Rosso,Dovier Gabriele,VIA LIVIA,3,33051,+39 338 9502215  380 5246103,+39 338 9502215  380 5246103,+39 0431 917495,ramorosso@libero.it,,2,"Jan 01 - Jan 07, Feb 17 - Apr 11, Apr 24 - Nov 01, Dec 01 - Dec 31",3,2
+45280,AQUILEIA,2,Casa Disma,Mian Giovanni,VIA ROSA ROSEMBERG,1,33051,+39 0431 918659;+39 338 8270804,+39 338 8270804,,,,3,"Mar 01 - May 20, May 25 - Jun 30, Jul 05 - Aug 20, Aug 25 - Oct 30",6,1
+46940,AQUILEIA,2,Casa Maria,Bertogna Maria,VIA ROSA ROSEMBERG,7,33051,+39 0431 918659,,,,,4,"Jan 10 - Jan 15, Feb 10 - Mar 15, Mar 28 - May 05, May 10 - Jun 30, Jul 05 - Aug 25, Aug 30 - Sep 30, Oct 10 - Nov 15",8,4
+46941,AQUILEIA,2,Casa Norma,Lorenzut Norma,VIA ROSA ROSEMBERG,19,33051,+39 0431 918664,,,,,4,"Mar 01 - Mar 28, Apr 01 - Apr 28, May 01 - Jun 28, Jul 01 - Aug 26, Sep 01 - Oct 30",8,4
+47380,AQUILEIA,2,Il Quadrifoglio,D'alta Vincenzo,VIA F.LLI ROSSELLI,17,33051,+39 347 1801221,+39 347 1801221,,,,2,,5,1
+40400,AQUILEIA,2,La Magnolia,Hughes Margaret Lee,RUGGERO GRIECO,5,33051,+39 366 1431406,+39 366 1431406,,lamagnoliabeb@libero.it,,1,"Jan 01 - Jan 15, Mar 15 - May 15, Jun 01 - Sep 30, Dec 01 - Dec 31",2,1
+46942,AQUILEIA,2,Tomat Luciano,,VIA GIULIA AUGUSTA,81,33051,+39 0431 91452,,,,,4,Mar 20 - Sep 20,8,3
+49220,AQUILEIA,3,B&B Bassilla,Colpo Giuseppe,VIA TONELLI,4,33051,+39 0431 919101;+39 348 4056767,+39 348 4056767,,bassilla@alice.it,bassilla.altervista.org,2,"Mar 05 - Oct 16, Dec 05 - Dec 31",4,2
+63344,AQUILEIA,3,Fata Morgana,Polizzi Adele,CORSO ANTONIO GRAMSCI,8,33051,+39 333 3414018,+39 333 3414018,,bbfatamorgana@gmail.com,,2,Apr 25 - Dec 31,4,2
+3001,AQUILEIA,3,Immersi Nella Storia E Nella Natura,Stabile Denisa,VIA GIUSEPPE LIRUTI,12,33051,+39 0431 919368;+39 336 422719,+39 336 422719,+39 0431 919368,info@storiaenatura.com,www.storiaenatura.com,2,Apr 01 - Oct 31,6,2
+48280,ARTA TERME,3S,L'asinello Rampante,,-,,33022,+39 333 2909376,+39 333 2909376,,GUIDO58@GMAIL.COM,,2,"Jan 01 - Jan 31, Jun 01 - Oct 31, Dec 01 - Dec 31",5,2
+56200,ARTA TERME,3S,Profum di Bosc,Pesamosca Maria Cristina,VIA PERESSON,56,33022,+39 0433 92528,,,cristina.pesamosca@gmail.com,,2,"Feb 08 - Feb 10, Feb 15 - Feb 17, Feb 22 - Feb 24, Mar 01 - Mar 17, Mar 29 - Oct 27, Nov 01 - Nov 03, Nov 29 - Dec 31",4,2
+35500,ARTA TERME,,Sot I Volz,Di Ronco Daniela,VIA PERESSON,36,33022,+39 0433 928796;+39 348 0659019,+39 348 0659019,+39 0433 468615,info@sotivolz.it,www.sotivolz.it,1,"Jan 01 - Jan 06, Jan 12 - Jan 14, Jan 19 - Jan 21, Jan 26 - Mar 03, Mar 09 - Mar 11, Mar 16 - Mar 18, Mar 23 - Apr 07",3,1
+68300,ATTIMIS,2,Agane,Cericco Christian,VIA BORGO CANCELLIER,25,33040,+39 4321847986;+39 3388835582,+39 3388835582,,christian.cericco@hotmail.it,,3,"Mar 21 - May 22, Jun 03 - Jun 16, Jun 20 - Sep 11, Sep 26 - Oct 30",5,1
+42440,ATTIMIS,,Al Pettirosso,Martinuzzi Cristina,piazza della Chiesa,1,33040,+39 432789038,,+39 432789757,,,3,"Jan 01 - Jan 31, Feb 16 - Dec 31",5,3
+2511,ATTIMIS,,Casa Giuly,Braidotti Giuliana,VIA CANALUTTO,33,33040,+39 0432 789294;+39 333 7245729,+39 333 7245729,+39 0432 789294,,,2,Apr 01 - Oct 30,3,2
+40040,ATTIMIS,,Casa Tiziana,Longato Alessandro,VIA CAMPOLONGO,30,33040,+39 340 2415962,,,,,2,"Apr 01 - Oct 01, Dec 01 - Dec 31",3,2
+39400,BASILIANO,2,Villa Anita,Ferrazzutti Anita,Damiano Chiesa,107,33031,+39 0432 848745;+39 320 0218972,+39 320 0218972,+39 0432 848745,villanita.08@libero.it,www.villanita.com,3,Mar 01 - Nov 30,6,2
+48500,BERTIOLO,2,B&B Gil D'o,D'olivo Ermenegildo,VIA MARGHERITA,12,33032,+39 339 4361865,+39 339 4361865,,info@bebgildo.it,www.bebgildo.it,4,Jan 15 - Dec 15,8,2
+44660,BERTIOLO,,Salvia E Rosmarino,Brisotto Claudia,PIAZZA MERCATO,7,33032,+39 348 3042180,+39 348 3042180,,snowleagle@yahoo.it,,3,"Jan 01 - Jan 09, Mar 01 - Nov 09, Dec 20 - Dec 31",7,3
+2362,BUJA,,Al Campo di Sotto,,VIA CAMPO DI SOTTO,1,33030,+39 334 8118428,+39 334 8118428,,info@alcampodisotto.it,www.alcampodisotto.it,3,"Jan 01 - Mar 30, Apr 08 - Jun 30, Jul 02 - Sep 30, Oct 18 - Dec 31",6,1
+36340,BUJA,,Cip & Ciop,Calligaro Davide,VIA SOPRAMONTE,89,33030,+39 0432 961351,,,bedandbreakfastcipeciop@hotmail.it,www.bedandbreakfastcipeciop.it,2,"Jan 01 - Jan 15, Mar 01 - Nov 01, Dec 15 - Dec 31",6,2
+62922,BUTTRIO,3S,Antica Liscivaia,Todone Francesca,VIA TOMASONI,3,33042,+39 0432 674022,,+39 0432 683270,francesca.todone@gmail.com,,1,Jan 01 - Dec 31,3,1
+62923,BUTTRIO,3S,Antica Scuderia, Todone Francesca,VIA TOMASONI,3,33042,+39 0432 674022,,+39 0432 683270,francesca.todone@gmail.com,,2,Jan 01 - Dec 31,5,1
+70500,BUTTRIO,3S,B&B,Tondolo Raffaella,VIA RIEPPI,29/3,33042,+39 348 4402818,+39 348 4402818,,raffy.sun@yahoo.it,,1,"Jan 01 - Oct 31, Dec 01 - Dec 31",2,1
+2571,CAMINO AL TAGLIAMENTO,,Diamante,Diamante Giuseppe,VIA CANEVA,1,33030,+39 0432 919084;+39 338 1726193,+39 338 1726193,,fam.diamante@libero.it,www.bedandbreakfastdiamante.it,2,"Mar 01 - Nov 05, Dec 03 - Dec 31",4,2
+2517,CAMINO AL TAGLIAMENTO,,Villa Francesca,Casaril Francesca,VIA TAGLIAMENTO,34,33030,+39 0432 919369;+39 339 1550310,+39 339 1550310,+39 0432 919482,info@villafrancesca.org,,3,"Apr 05 - Apr 10, Apr 20 - Nov 05",6,2
+52260,CAMPOFORMIDO,2,Benvenuti,Venuti Giancarlo,VIA CORMOR,81,33030,+39 0432 237059,,,ciaolaurav27@libero.it,,2,"Jan 01 - Jan 15, Mar 16 - Jun 16, Jul 01 - Aug 24, Sep 01 - Nov 20, Dec 01 - Dec 31",4,2
+65381,CARLINO,2,B&B da Simon,Canciani Simonetta,VIA NIMIS,9,33050,+39 0431 67607;+39 338 12340856,+39 338 12340856,,simon.canciani@gmail.com,www.bb-dasimon.flazio.com,2,"Jan 01 - Jan 31, Apr 01 - Oct 31, Dec 01 - Dec 31",4,1
+38860,CARLINO,,B&B da Manu,Zanutta Emanuela Angela,VIA M. GRIGOLETTI,13,33050,+39 0431 68068,,+39 0431 68068,info@bbmanuemichi.it,www.bbmanuemichi.it,3,"Jan 01 - Jan 05, Feb 11 - Jun 30, Aug 05 - Dec 14",6,3
+38861,CARLINO,,B&B da Michi,Zanutta Michelina,VIA M. GRIGOLETTI,13/A,30050,+39 0431 687131,,+39 0431 687131,info@bbmanuemichi.it,www.bbmanuemichi.it,3,"Jan 01 - Feb 09, Mar 11 - Mar 29, Apr 08 - May 25, Jul 01 - Dec 31",6,3
+64140,CASSACCO,2,Casa Petris,Ortolan Luisa Cristina,[PALAMAZI],11,33010,+39 340 3475828,+39 340 3475828,,luisacris@virgilio.it,,2,"Jan 01 - Aug 10, Aug 20 - Oct 31, Dec 01 - Dec 31",5,2
+64141,CASSACCO,3,Argagnis, Baiutti Laura,[BORTOLUZZI],10,33010,+39 0432 881615;+39 349 3293494,+39 349 3293494,+39 0432 881615,laurabaiutti@libero.it,,2,"Mar 01 - Nov 01, Dec 15 - Dec 31",4,2
+35360,CASSACCO,3,Casa Gamberini Vista Castello,Gamberini Gilberto,VIA ELLERO,14,33010,+39 0432 852273;+39 3479665627,+39 3479665627,+39 432881617,info@gilbertogamberini.it,,4,"Jan 21 - Jan 28, Mar 10 - Mar 20, May 06 - May 20, Jul 08 - Jul 19, Sep 09 - Sep 15, Nov 11 - Nov 28",8,4
+47320,CASSACCO,3,Cjase Paola,Floreani Paola,1°MAGGIO,10,33010,+39 0432 853627;+39 347 5017201,+39 347 5017201,,cjasepaola@libero.it,,3,"Jan 01 - Jan 31, Mar 01 - Oct 31, Dec 01 - Dec 31",8,3
+42642,CASSACCO,,Villa Gallici Deciani,Deciani Luigi,GALLICI,27,33010,+39 0432851487,,+39 0432851487,info@deciani.it,www.deciani.it,3,Jan 15 - Dec 15,6,3
+2377,CASTIONS DI STRADA,3S,Bed&breakfast Basello,Basello Silviano,VICOLO CORNELIO GALLO,7/B,33050,+39 0432 768743;+39 349 5643223,+39 349 5643223,,basello.e@tiscali.it,www.basellosilviano.it,3,"Jan 01 - Sep 30, Oct 26 - Dec 31",6,2
+50360,CAVAZZO CARNICO,2,A Li' Dal Cuac,Rulli Mattia,VIA S. ROCCO,30,33020,+39 347 4327750     388 7623189,+39 347 4327750     388 7623189,,rullimattia@libero.it,,4,"Jan 01 - Jan 15, Apr 01 - Nov 15, Dec 15 - Dec 31",5,1
+48080,CAVAZZO CARNICO,2,Casa Cappello,Madotto Paolina,VIA quattro NOVEMBRE,19,33020,+39 0433 93316;+39 320 8416844,+39 320 8416844,,madottop60@yahoo.it,,2,"Apr 01 - May 31, Jun 15 - Aug 09, Aug 24 - Dec 19",4,1
+60540,CAVAZZO CARNICO,2,Cjase Me,Ceretti Barbara,VILLAGGIO NAVALASCIA n.4,,,+39 3477726918,+39 3477726918,,bbcjaseme@gmail.com,,2,Aug 20 - Dec 31,4,1
+33760,CERCIVENTO,,In Plait,De Stales William,VIA DI SOT,51,33020,+39 329 6636487  346 5982771,+39 329 6636487  346 5982771,,inplait@yahoo.it,www.inplait.com,3,"Jan 01 - Mar 20, Apr 01 - Apr 25, May 01 - May 25, Jun 01 - Jun 30, Jul 08 - Sep 15, Oct 01 - Oct 20, Nov 01 - Nov 15",6,3
+62520,CERVIGNANO DEL FRIULI,3S,Al Vecchio Confine,Bertossi Giorgio,VIA PALMANOVA,11,33052,+39 335 5424330,+39 335 5424330,,beb@alvecchioconfine.it,www.alvecchioconfine.it,3,"Feb 06 - Feb 09, Mar 23 - Apr 12, May 01 - May 18, Jun 05 - Sep 07, Oct 25 - Nov 09, Dec 03 - Dec 08",6,3
+2413,CERVIGNANO DEL FRIULI,3S,Casa Breta,Versolatto Rita,VIA CARNIA,15,33052,+39 0431 31803;+39 347 3391362,+39 347 3391362,+39 0431 382320,casabreta@tiscali.it,,4,Mar 01 - Dec 31,8,4
+38720,CERVIGNANO DEL FRIULI,3S,Villa Vitas,Vitas Elisabetta,VIA SAN MARCO,3,33052,+39 0431 93083;+39 393 9254294,+39 393 9254294,+39 0431 93101,elisabetta.vitas@libero.it,www.villavitas.it,2,"Jan 01 - Jan 15, Apr 01 - Oct 30, Dec 15 - Dec 31",6,2
+35940,CERVIGNANO DEL FRIULI,2,A Casa Azzurra di Alice,Salvador Giuliana,VIA TRIESTE,94,33052,+39 0431 30552;+39 338 7469658,+39 338 7469658,,salvador.giuliana@gmail.com,,2,"Jan 01 - Feb 15, Mar 01 - Oct 15, Nov 01 - Dec 31",3,1
+34020,CERVIGNANO DEL FRIULI,2,A Casa di Rossana,Felicetti Rosanna,VIA DANTE ALIGHIERI,13,33052,+39 0431 32540;+39 329 2670741,+39 329 2670741,,rosanna.felicetti@libero.it,www.bbfriuli.it,2,"May 10 - Sep 20, Oct 30 - Dec 10",4,2
+72081,CERVIGNANO DEL FRIULI,2,Tortul Patrizia,,VIA LUNGAUSA,16,33052,+39 340 9249124,+39 340 9249124,,,,1,Jan 01 - Dec 31,2,1
+50900,CERVIGNANO DEL FRIULI,,Ai Glicini, Buttignon Sandra,VIA CHIOZZA,43,33052,+39 0431 909983;+39 346 4310890,+39 346 4310890,,sandrabuttignon@tiscali.it,,2,Mar 01 - Oct 10,6,2
+72082,CERVIGNANO DEL FRIULI,,Casa Giacinta,Zorzenon Alessandra,VIA Dei Campi,18,33052,+39 349 2165695,+39 349 2165695,,alessandrasorsenon@gmail.com,,1,Jan 01 - Dec 31,2,1
+49221,CERVIGNANO DEL FRIULI,,Pileria Del Riso,,VIA DEI CASTELLI,21,33052,+39 388 9255212,+39 388 9255212,+39 0431 19892056,info@castellodistrassoldo.it,www.castellodistrassoldo.it,4,Mar 15 - Nov 15,4,4
+2525,CIVIDALE DEL FRIULI,3S,Casa Elisa,Fornasaro Stefano,VIA CAVOUR,5,33043,+39 0432 700991;+39 328 3720841,+39 328 3720841,+39 0432 731264,casaelisa@gmail.com,,2,"Jan 01 - Jan 14, Feb 02 - Feb 25, Mar 08 - Mar 12, Apr 17 - Apr 25, May 01 - Jun 14, Jun 27 - Aug 09, Aug 24 - Sep 10",6,2
+33881,CIVIDALE DEL FRIULI,3S,Da Gilberto,Pavan Gilberto,GAGLIANO,40/3,33043,+39 0432 730107;+39 334 9158540,+39 334 9158540,,info@locandadagilberto.it,www.locandadagilberto.it,3,"Jan 01 - Jan 08, Feb 15 - Dec 31",8,3
+51540,CIVIDALE DEL FRIULI,3S,Domus Iulii,Paiani Francesca,L.GO BOIANI,8,33043,+39 333 6737042  347 7776179 dopo ore 12.00,+39 333 6737042  347 7776179 dopo ore 12.00,,domusiulii@alice.it,,4,"Jan 01 - Feb 03, Feb 09 - Nov 05, Nov 15 - Dec 31",8,4
+2567,CIVIDALE DEL FRIULI,3S,La Piccola Fattoria,Pugliese Nadalut Claudia,VIA PREMARIACCO,81/83,33043,+39 0432 731605;+39 349 0980657,+39 349 0980657,+39 0432 731605,lapiccolafattoria@alice.it,www.lapiccolafattoria.eu,2,"Jan 01 - Jan 31, Feb 10 - Dec 31",4,2
+59880,CIVIDALE DEL FRIULI,3S,Piccola Corte di Cividale,Zamparo Anna Maria,PIAZZA SAN GIOVANNI,22/3,33043,+39 335 7071898,+39 335 7071898,,Piccola.Corte.Cividale@gmail.com,,2,"Jul 07 - Nov 15, Dec 01 - Dec 31",3,2
+58020,CIVIDALE DEL FRIULI,3S,Sot La Mont di Zanutto Valnea,,S.DA DI GRADOIS,60,33043,+39 328 7117259,+39 328 7117259,,,,3,,7,3
+55720,CIVIDALE DEL FRIULI,2,Aurora di Scubla Elisa,,P.ZZA SAN NICOLO,11,33043,+39 388 1272741,+39 388 1272741,,info@bedandbreakfastcividale.it,www.bedandbreakfastcividale.it,2,Jan 01 - Dec 31,4,1
+62160,CIVIDALE DEL FRIULI,2,B. & B. Milena,Aviani Fulvio Mario,VIA DE GASPERI,7,33043,+39 0432 733459;+39 347 2313594,+39 347 2313594,+39 0432 733459,marioavifu@libero.it,,3,Nov 21 - Dec 31,5,2
+71524,CIVIDALE DEL FRIULI,2,Ca'neva,Armellini Gianna,VIA SAN GIORGIO,21/1,,+39 348 7145178   340 2614461,+39 348 7145178   340 2614461,,gianna.armellini@gmail.com,,4,Apr 01 - Oct 31,8,2
+2557,CIVIDALE DEL FRIULI,2,Casa Ivana,Maion Gino,VIA RONCUZ,6,33043,+39 0432 730036,,,,,2,Mar 01 - Nov 30,4,1
+33421,CIVIDALE DEL FRIULI,2,Da Renza,Rossi Bruno,VIA MATTIONI,26,33043,+39 0432 733203;+39 339 4206518,+39 339 4206518,,renzabruno@libero.it,,2,"Apr 01 - May 30, Jul 01 - Jul 30, Aug 18 - Oct 30",5,1
+2654,CIVIDALE DEL FRIULI,2,Il Gelsomino,Dominissini Francesca,VIA STRETTA MATTEOTTI,11/2,33043,+39 0432 731962,,,,,2,"Mar 01 - Jun 30, Jul 10 - Aug 25, Sep 15 - Dec 30",4,1
+2503,CIVIDALE DEL FRIULI,2,Le Azalee,Pecorari Danilo,VIA DEI MIANI,18,33043,+39 347 5509280,+39 347 5509280,,,,2,"Jan 01 - Jan 10, Mar 01 - Oct 31, Nov 30 - Dec 31",5,1
+2634,CIVIDALE DEL FRIULI,2,Le Margherite,Vogrig Rosina,VIA M.LEICHT,19,33043,+39 0432 733172,,+39 0432 733172,rosinavogrig@gmail.com,,2,"Mar 26 - Aug 12, Aug 26 - Dec 23",4,1
+2415,CIVIDALE DEL FRIULI,2,Marisa,Canzutti Marisa,VIA PURGESSIMO,40/1,33043,+39 348 9205741,+39 348 9205741,+39 0432 700119,ccmarisa@libero.it,,3,Jan 07 - Dec 24,6,1
+33880,CIVIDALE DEL FRIULI,2,Villa Ester,Simonitti Dea,VIA ANTON GIULIO CAVARZERANI,39,33043,+39 0432 733324;+39 333 9830787,+39 333 9830787,,villa.ester@alice.it,,2,"Mar 15 - Oct 31, Dec 01 - Dec 31",4,1
+2430,CIVIDALE DEL FRIULI,3,Al Nid,Boscutti Carlo,VIA PREMARIACCO,89/4,33043,+39 346 2363950,+39 346 2363950,,al-nid@libero.it,,3,"Jan 01 - Feb 15, Mar 01 - Dec 31",6,3
+71561,CIVIDALE DEL FRIULI,3,B&B Ergira, Rucli Manuela,VIA GAGLIANO,30/B,,+39 347 9972696,+39 347 9972696,,bandbergira@gmail.com,,3,Jan 01 - Dec 31,8,3
+34700,CIVIDALE DEL FRIULI,3,Casa Carbonara,Alvarez Remesal Rafael Angel,BORGO SAN DOMENICO,3/2,33043,+39 0432 732594;+39 339 2181841,+39 339 2181841,+39 0432 732594,casacarbonara@gmail.com,www.casacarbonara.com,2,"Jan 01 - Jan 03, Jan 05 - Dec 31",6,2
+41740,CIVIDALE DEL FRIULI,3,Da Patty,Vogrig Silvana,VIA MONTE MATAJUR,8,33043,+39 0432 701084;+39 340 9548411,+39 340 9548411,+39 0432 701084,bebpatty@libero.it,,2,"Jan 01 - Jan 10, Apr 01 - Dec 31",3,2
+62920,CODROIPO,2,Fiori di Maggio,Zoffi Maria Rosa,VIA ROVEREDO,4,33033,+39 0432 909713;+39 347 3105216,+39 347 3105216,,beb.fioridimaggio@gmail.com,,3,"Apr 21 - Sep 27, Oct 29 - Nov 08, Dec 02 - Dec 31",6,2
+47821,CODROIPO,3,Abbastanza,Scanferlato Chiara,VICOLO CHIUSO,23,33033,+39 432900100;+39 3498197512,+39 3498197512,,c.scanferlato@gmail.com,,1,Sep 01 - Sep 30,2,1
+63341,CODROIPO,3,Rossella,Tosatto Rossella,VIA FERROVIA,6,33033,+39 0432 907815;+39 338 6618732,+39 338 6618732,,rossella.tosatto@gmail.com,,1,Jan 01 - Nov 30,2,1
+41860,CODROIPO,,Al Picchio Rosso,,VIA PIAVE,38,33033,+39 0432 904350;+39 348 8295875  348 4084016,+39 348 8295875  348 4084016,+39 0432 904350,giuli.danieli@email.it,www.alpicchiorosso.it,2,"Jan 01 - Feb 01, Feb 20 - Dec 31",4,2
+64680,COLLOREDO DI MONTE ALBANO,3,Casa E Natura,Mercogliano Gilda,S. ELLERO,51,33010,+39 0432 889783;+39 339 2496244,+39 339 2496244,,amministrazione@praticabenessere.it,,1,"Mar 15 - Aug 16, Sep 01 - Dec 10",4,1
+66080,COLLOREDO DI MONTE ALBANO,3,Nella Terra di Mezzo,Presello Marco,VIA SAN DANIELE,7,33010,+39 335 6791572,+39 335 6791572,,marco_pisi@pec.it,www.nellaterradimezzo.com,2,Mar 01 - Dec 31,7,2
+57120,COLLOREDO DI MONTE ALBANO,,B&B Dora,Lodolo Clara,VIA LAUZZANA,56,33010,+39 339 3979449,+39 339 3979449,,bedbreakfastdora@gmail.com,,3,"Jan 01 - Sep 20, Dec 20 - Dec 31",5,2
+51360,CORNO DI ROSAZZO,2,B&B La Casa Del Pozzo, Arrigoni Laura,Località GRAMOGLIANO,13/B,33040,+39 333 9788898,+39 333 9788898,,bblacasadelpozzo@gmail.com,,2,Apr 01 - Oct 15,4,1
+50481,CORNO DI ROSAZZO,2,B&B La Salette,,VIA GIOVANNI ventitreesimo,12,33040,+39 0432 759655;+39 348 7155211,+39 348 7155211,,laura.crucil@libero.it,,2,Apr 01 - Oct 31,4,1
+65901,CORNO DI ROSAZZO,3,Al Gjal di Pezzano Patrizia,,VIA CASALI GALLO,3,33040,+39 0432 753513,,+39 0432 753513,,,3,Apr 01 - Oct 31,6,3
+2424,CORNO DI ROSAZZO,,Casa 2 Tigli,Carpenetti Umberto,VIA SAN MARTINO,4,33040,+39 0432 753263;+39 320 6314851,+39 320 6314851,+39 0432 753263,casaduetigli@yahoo.it,www.casaduetigli.it,3,"Mar 20 - Jul 05, Jul 20 - Dec 31",6,2
+2588,CORNO DI ROSAZZO,,Nascig Ivan,,-,,33040,+39 0432 753333 347 9040243,,+39 0432 755886,info@nascigvini.com,www.aziendaagricolanascig.com,3,"Mar 01 - Aug 31, Nov 01 - Dec 31",6,2
+34000,CORNO DI ROSAZZO,,Vendramin Silvana,,VIA JUDRIO,14,33040,+39 432759090;+39 3381503163,+39 3381503163,,,,3,Feb 01 - Dec 31,6,1
+36380,COSEANO,,Ai Profumi di Campagna,Peloso Plinio E Andreutti Anna Maria,VIA DEL VARMO,54,33030,+39 0432 862012;+39 340 8682502,+39 340 8682502,+39 0432 862012,haiprofumidicampagna@alice.it,,2,Jan 01 - Oct 31,4,1
+40000,COSEANO,,Antica Casa Mattiussi,Mattiussi Nadea,PLACE DAL SUEI,16,33030,+39 0432 297969;+39 338 6267475,+39 338 6267475,,nadea_mattiussi@yahoo.it,,2,Jul 01 - Aug 31,4,2
+39500,COSEANO,,Borc di Sore,Baldassi Michela,VIA MAGGIORE,28,33030,+39 328 0275561,+39 328 0275561,,kismo@tiscali.it,www.alcacciatore.it,3,"Jan 01 - Jan 31, Mar 01 - Sep 30, Dec 01 - Dec 31",5,3
+2623,DIGNANO,,Casa Pirona,Bortolan Maria,VIA GARIBALDI,25,33030,+39 0432 951215;+39 339 6813452,+39 339 6813452,+39 0432 200875,emanuelecojutti@libero.it,,3,Apr 15 - Oct 15,6,3
+38980,DIGNANO,,Casa Regina,Orlando Ludovico,VIA CAVOUR,11,33030,+39 0432 956478;+39 334 6844944,+39 334 6844944,+39 0432 956478,or.amelio@alice.it,,2,"Jan 01 - Jan 15, Mar 01 - Nov 01, Dec 01 - Dec 31",4,2
+2496,DRENCHIA,,Arcobaleno,Cicigoi Diego,Località DRENCHIA INFERIORE,14,33040,+39 3928129640,+39 3928129640,,,,1,Jun 01 - Sep 30,2,1
+2497,DRENCHIA,,Le Ortensie,Tomasetig Luigia,Località PACIUCH,5,33040,+39 0432 721055,,+39 0432 721055,le_ortensie@libero.it,,3,Jun 01 - Sep 30,6,2
+2465,FAEDIS,,Ai Nove Castelli,Depetris Matteo,VIA UDINE,63,33040,+39 0432 728959,,+39 0432 718728,matteode@libero.it,,2,"Mar 01 - May 15, May 30 - Jul 10, Aug 01 - Oct 30, Nov 15 - Dec 31",2,1
+34681,FAEDIS,,Alla Corte Dei Molini,Ronchi Angela,VIA DEI MOLINI,59,33040,+39 0432 728606;+39 338 3985059,+39 338 3985059,+39 0432 728606,cortedeimolini@libero.it,www.cortedeimolini.it,2,"Apr 01 - May 25, Jun 15 - Sep 30, Dec 01 - Dec 31",5,2
+42960,FAEDIS,,La Rugiada,Bertolutti Bruna,VIA SANTANTONIO,47,3040,+39 348 0090368,+39 348 0090368,,LarugiadaBB@hotmail.it,,3,"Jan 01 - Jan 03, Mar 01 - Oct 30, Dec 20 - Dec 31",4,1
+2382,FAEDIS,,Uma,Tusini Luigina,VIA CANALETTO,36,33040,+39 0432 711338;+39 349 2335831,+39 349 2335831,,luiginatusini@yahoo.it,www.casauma.com,1,"Nov 03 - Nov 20, Dec 20 - Dec 31",4,1
+66180,FAGAGNA,3S,Portaferrea,Bergonzi Luisa,VIA PORTAFERREA,74/2,33034,+39 0432 801320;+39 331 4682272,+39 331 4682272,+39 0432 801320,portaferrea@libero.it,,3,"Mar 01 - Oct 31, Dec 01 - Dec 31",8,3
+59080,FAGAGNA,3S,Stop & Sleep On The Hills Fagagna, Zanor Loris,VIA UMBERTO I,74,33034,+39 0432 800639;+39 338 3574328,+39 338 3574328,,loriszanor@gmail.com,,2,Feb 01 - Dec 31,4,2
+43800,FAGAGNA,2,Da Zemi E Lino,,VIA UDINE,63,33034,+39 0432 800172,,,zemiralino@yahoo.it,,3,Apr 01 - Oct 31,5,1
+65701,FIUMICELLO,3S,Villa Madi, Timpano Manuela,VIA DON CARMELO WEFFORT,10,33050,+39 347 1062668 / 348 9202615,+39 347 1062668 / 348 9202615,,madi2008@alice.it,www.villamadi.com,1,"Feb 01 - Feb 14, Mar 06 - Mar 13, Mar 19 - Oct 16, Oct 29 - Nov 06",4,1
+66861,FIUMICELLO,2,Tibu',Salvini Cristina,VIA GIACOMO MATTEOTTI,36,33050,+39 340 7756824,+39 340 7756824,,alecrisara@gmail.com,bbtibu.it,3,"Jan 01 - Jan 10, Apr 01 - Jun 12, Jun 19 - Sep 04, Sep 11 - Nov 06, Dec 01 - Dec 31",6,2
+55500,FLAIBANO,3S,Da Luisa,Tosoratti Maria Luisa,VIA DIVISIONE JULIA,12,33030,+39 0432 869269;+39 349 5407517,+39 349 5407517,,massimiliano.fabbro@gmail.com,,1,Mar 01 - Dec 30,3,1
+55680,FORGARIA NEL FRIULI,2,Da Gi & Jo,Ortali Giovanni,VIA BELVEDERE,1,33030,+39 0427 808314;+39 339 2717999,+39 339 2717999,+39 0427 808314,giuliamondolo@libero.it,,2,"Jan 01 - Jan 31, Jul 10 - Dec 31",6,1
+70580,FORGARIA NEL FRIULI,2,La Casetta In Canadá,Coletti Bruno,Via Villaggio Canada,13,33030,+39 329 7229228,+39 329 7229228,,150366@gmail.com,www.dormireinfvg.it,2,"Jan 01 - Jan 08, Jan 21 - Nov 08, Nov 21 - Dec 31",4,1
+36482,FORGARIA NEL FRIULI,,Bundi' E Buinanot,Zuliani Massimiliano,VIA COLETTI,7,33030,+39 0427 808013;+39 347 0737298,+39 347 0737298,,emax.em@libero.it,,2,"Jan 01 - Jan 15, Mar 15 - May 02, May 15 - Jun 10, Jun 15 - Aug 31, Sep 05 - Nov 05, Dec 05 - Dec 31",3,1
+2481,FORNI AVOLTRI,,Campo Dei Fiori,Del Fabbro Umberto,CORSO ITALIA,35,33020,+39 0433 727478;+39 331 1304537,+39 331 1304537,,campodeifiori@bbcarnia.it,www.bbcarnia.it,2,"Jan 01 - Mar 15, Jun 01 - Aug 11, Dec 26 - Dec 31",6,2
+71722,FORNI AVOLTRI,,Durmi E Insumiasci,Del Fabbro Maddalena,VIA tre NOVEMBRE,2,33020,+39 320 5638966,+39 320 5638966,,,,2,Jan 01 - Dec 31,4,1
+2363,FORNI AVOLTRI,,La Casa Delle Streghe,Michel Annalisa,VIA TORS,20,33020,+39 349 2326637,+39 349 2326637,,annalisa.michel@gmail.com,,3,"Jan 01 - Apr 01, May 01 - Sep 30, Dec 01 - Dec 31",6,2
+2614,FORNI AVOLTRI,,Le Genziane,Agostinis Felicita,VIA BELLUNO,19,33020,+39 0433 72195;+39 338 4945690,+39 338 4945690,,legenziane@bbcarnia.it,www.bbcarnia.it,1,"Jan 01 - Mar 31, Jun 01 - Sep 01, Dec 01 - Dec 31",4,1
+56380,GEMONA DEL FRIULI,2,Centro Storico di Gollino Magda,,VIA FOSSALE,5,33013,+39 0432983215;+39 3478266001,+39 3478266001,,magdagollino@gmail.com,,1,"Jan 01 - Jan 09, Feb 10 - Dec 31",2,1
+60820,GEMONA DEL FRIULI,3,B. & B. Al Ciclista,Guerra Antonio,VIA DELLANNUNZIATA,10,33013,+39 331 2303344,+39 331 2303344,,allesandra.contessi@gmail.com,,1,Feb 01 - Dec 15,5,1
+2371,GRIMACCO,,Al Museo,Ruttar Mario,Frazione CLODIG,26,33040,+39 0432 725003,,,,,1,"Jan 01 - Jan 15, Mar 01 - Sep 30, Dec 01 - Dec 31",4,1
+2507,GRIMACCO,,Casa Josul,Feletig Alessandra,VIA CLODIG,28,33040,+39 0432 725034,,,,,2,Feb 01 - Nov 30,4,1
+2372,GRIMACCO,,Vogrig Ugo,,Frazione CLODIG,39,33040,+39 432725221;+39 338 6976841,+39 338 6976841,,,,1,May 01 - Sep 30,3,1
+47780,LATISANA,2,4 Chiacchiere,Pez Albina,DAMIANO CHIESA,46,33053,+39 346 8724006,+39 346 8724006,+39 0431 510622,dasabrina@hotmail.it,,2,Jun 01 - Aug 29,3,1
+46780,LATISANA,2,B&B Al Ponte,Grando Claudia,DEL CAPRICORNO,6,33053,+39 0431 096082;+39 348 8071643,+39 348 8071643,,claudiagrando@libero.it,,3,"Jan 01 - Jan 10, Mar 01 - Oct 31, Dec 20 - Dec 31",6,2
+63360,LATISANA,2,Casa Volton,Monica D'angelo,VIA VOLTON,13,33053,+39 347 0164607;+39 347 0164607,+39 347 0164607,,,,3,Apr 23 - Oct 30,6,2
+53860,LATISANA,3,Da Miranda,,VIA LA ROTTA,21,,+39 328 3717927,+39 328 3717927,,SIMONIN@ALICEPOSTA.IT,,2,May 18 - Nov 30,6,2
+2631,LATISANA,,Casa Adriana,Lazzarini Adriana,VIA LIGNANO SUD,72,33053,+39 0431 53310;+39 335 5471265,+39 335 5471265,+39 0431 53310,adriana.lazzarini@virgilio.it,,2,Mar 15 - Nov 15,3,2
+48180,LATISANA,,La Casa di Sara,,VIA MARCONI,167,33053,+39 333 3974989,+39 333 3974989,,r.vaglia@alice.it,,4,"Jan 01 - Apr 30, Jun 01 - Oct 30, Dec 01 - Dec 31",7,4
+2483,LAUCO,2,Alla Stella Alpina,Adami Emma,Località FUESSA,1,33029,+39 0433 748200,,,,,3,"Jun 14 - Jun 25, Jul 09 - Jul 23, Jul 27 - Aug 06, Aug 10 - Aug 20, Aug 24 - Sep 03, Sep 07 - Sep 17, Sep 21 - Sep 30",6,1
+2491,LAUCO,,Al Cramar,Gressani Simone,VIA CAPOLUOGO,71,33029,+39 0433 74122 0433 74291,,,frascaverde@libero.it,,3,"Jan 01 - Jan 10, Mar 21 - Apr 22, Apr 26 - May 10, Jun 01 - Jun 14, Jul 01 - Jul 31, Aug 01 - Aug 31, Oct 05 - Oct 25",6,3
+71401,LIGNANO SABBIADORO,3,B&B Bilal,Cotic Vera,VIA GOETHE,16,33054,+39 349 1738773,+39 349 1738773,,bnbilal.lignano@gmail.com,,2,Jan 01 - Dec 31,4,2
+2387,LUSEVERA,2,Alloggio Luciana,Noacco Claudio,VIA PRADIELIS,9,33010,+39 0432 787342;+39 339 4676599,+39 339 4676599,+39 0432 787342,info@alloggioluciana.it,www.alloggioluciana.it,1,"Jan 01 - Feb 28, Mar 15 - Apr 30, May 15 - Oct 15, Oct 31 - Dec 31",4,1
+34945,LUSEVERA,2,Bruolen,Sgrazzutti Stefano,Frazione PRADIELIS,136,33010,+39 339 1870593,+39 339 1870593,,info@bruolen.it,www.bruolen.it,3,"Mar 28 - May 05, Jun 01 - Sep 30",5,2
+2594,MAJANO,2,Lui - De Paulis Daniela,,VIA MONDOVI,11,33030,+39 0432 958119;+39 340 7141290,+39 340 7141290,,b.b_lui@libero.it,www.bed-and-breakfast.it,2,"Jan 01 - Jan 31, Mar 01 - Oct 31, Dec 01 - Dec 31",3,2
+2474,MAJANO,,Casa Bertoni,Pilutti Luca,VIA SAN ZENONE,108,33030,+39 3343262086;+39 331 3531780,+39 331 3531780,,casabertoni@virgilio.it,www.casabertoni.it,1,Mar 01 - Oct 30,2,1
+42800,MALBORGHETTO VALBRUNA,3S,Le Genziane,Errath Natascia,VIA DEI CAMPI,9,33010,+39 333 7700365,+39 333 7700365,,emyfive@live.it,,3,"Jan 01 - Mar 15, Jul 01 - Sep 30, Dec 15 - Dec 31",6,3
+70240,MALBORGHETTO VALBRUNA,2,A Casa di Fuchs,Giovanna Liuzzo,VIA ALPI GIULIE,4,33010,+39 338 8424756;+39 338 8424756,+39 338 8424756,,edel.b@libero.it,,4,Jan 01 - Dec 31,7,2
+2437,MALBORGHETTO VALBRUNA,2,Casa Al Salice,Gelbmann Geltrude,VIA NAZIONALE,5,33010,+39 0428 60079;+39 338 3051858,+39 338 3051858,+39 0428 60079,,,2,"Jan 01 - Apr 30, Jun 01 - Sep 30, Dec 01 - Dec 31",4,1
+58440,MALBORGHETTO VALBRUNA,2,La Casetta Rosa,Buzzi August,VIA  SORGENTI SOLFOROSE,4,33015,,,,miro62@live.it,,3,Jan 01 - Dec 31,5,1
+2609,MALBORGHETTO VALBRUNA,2,Schinz,Wedam Monica,VIA E. COMICI,10,33010,+39 0428 60086,,,,,3,"Jan 01 - Mar 30, Apr 01 - May 03, Jun 01 - Oct 15, Dec 01 - Dec 31",6,1
+39001,MALBORGHETTO VALBRUNA,,All'ombra Delle Alpi Giulie,Zanon Serena,VIA ROMANA,15,33010,+39 0428 60323;+39 347 0701105,+39 347 0701105,,robycecon@tiscali.it,,2,"Jan 01 - Mar 31, May 01 - Sep 30, Nov 01 - Dec 31",4,1
+35980,MALBORGHETTO VALBRUNA,,Da Julia,Zelloth Riccardo,VIA OISTERNIG,1,33010,+39 334 3212318,+39 334 3212318,,rickyzelloth@libero.it,,3,"Jan 01 - Jan 31, Jul 15 - Aug 31, Dec 01 - Dec 31",6,1
+54120,MANZANO,2,Casa Forte Nussi Deciani,Zamo' Francesca,VIA DEI RONCHI,12,33044,+39 0432 751061,,,,,4,Jan 01 - Dec 31,8,3
+42700,MANZANO,3,La Casa Del Sole,,SAN TOMMASO,21,33044,+39 0432 740657;+39 347 7940318,+39 347 7940318,,francesco.sapia@alice.it,,4,"Jan 10 - Mar 20, Apr 21 - Jun 20, Jul 18 - Jul 31, Sep 01 - Dec 15",8,4
+33482,MANZANO,,Centro,Cencig Luigi,VIA DELLA STAZIONE,9/a,33044,+39 328 8234841;+39 328 8234841,+39 328 8234841,+39 178 2204233,badandbreakfast.ctr@libero.it,,3,"Jan 10 - Jul 31, Aug 25 - Dec 15",6,3
+69200,MARTIGNACCO,2,Brunives,Pittolo Dolores,VIA PLAINO,13,,+39 348 3704725,,,,,3,Sep 20 - Nov 30,5,1
+4120,MARTIGNACCO,3,"Bed & Breakfast ""casa Veneta""",,VIA CIVIDINA,14,33035,+39 0432 677820;+39 348 7561976,+39 348 7561976,,,,3,"Jan 01 - Jul 31, Sep 01 - Dec 31",6,2
+56126,MARTIGNACCO,3,Villa Cantarutti di Bettio Manuela,,PIAZZA SAN TOMMASO,2,33035,+39 0432 678155,,,lino@villacantarutti.it,,3,"Jan 01 - Jul 31, Sep 01 - Dec 31",6,2
+38920,MARTIGNACCO,,Vivere In Campagna,Passarino Gabriella,VIA ALNICCO,4,33035,+39 0432 678919;+39 329 2117711,+39 329 2117711,,,,1,"Jan 10 - Jul 31, Aug 17 - Dec 19",4,1
+51181,MOGGIO UDINESE,3S,Residence, Giovanni D'avino,VIA VALSASSINA,15,33015,+39 347 2556958,+39 347 2556958,,residencebedandbike@mail.com,,1,"Jan 01 - Jan 06, Apr 01 - Oct 30, Dec 24 - Dec 31",3,1
+42421,MOGGIO UDINESE,2,Rosa Dei Venti,Comis Ronchin Celestino,-,68,33015,+39 340 7811178,+39 340 7811178,,comiscelestino@libero.it,,4,"Jan 01 - Jan 16, Mar 29 - May 01, Jun 01 - Sep 30, Dec 20 - Dec 31",8,2
+52900,MONTENARS,3,Oriza,Hrast Martha,VIA FLAIPANO,37,33010,+39 0432 972943;+39 368 3914511,+39 368 3914511,,,,3,Apr 01 - Dec 31,5,3
+36521,MORTEGLIANO,3S,Alfier Andrea,Bernardis Andrea,VIA MORTEGLIANO,20/2,33050,+39 0432 767028;+39 349 7585900,+39 349 7585900,+39 0432 767028,INFO@CORTEALFIER.COM,WWW.CORTEALFIER.COM,3,"Jan 01 - Jan 16, Jan 31 - Mar 15, Apr 01 - Oct 31, Dec 01 - Dec 31",8,3
+36520,MORTEGLIANO,3S,Alfier Francesco,Bernardis Francesco,VIA MORTEGLIANO,20/4,33050,+39 348 4078364,+39 348 4078364,+39 0432 767028,INFO@CORTEALFIER.COM,www.cortealfier.com,3,"Jan 01 - Jan 31, Feb 28 - Apr 17, May 01 - Oct 16, Nov 01 - Dec 31",8,3
+37380,MORTEGLIANO,2,Garbin,Desinano Vinicio,VIA POZZUOLO,22,33050,+39 0432 767326;+39 347 1237329,+39 347 1237329,,vinicio.desinano@alice.it,www.casagarbin.com,3,Mar 01 - Dec 31,6,2
+36560,MORTEGLIANO,3,Al Batifiar,Sbuelz Filippo,VIA BATTIFERRO,41/1,33050,+39 339 3795339,+39 339 3795339,+39 0432 510876,filippo.sbuelz@gmail.com,,3,"Jan 16 - May 27, Jul 02 - Dec 16",6,3
+70053,MORUZZO,3S,A Cjase di Sandra,Canciani Lisa,VIA DEL CRISTO,1,33030,+39 329 3566897,+39 329 3566897,+39 0432 672799,,,2,Jan 01 - Dec 31,4,1
+67520,MUZZANA DEL TURGNANO,2,Al To Doman B&B,,VIA,43,33055,+39 3289114372,+39 3289114372,,aldomanbb@gmail.com,,1,Apr 20 - Sep 20,2,1
+2626,NIMIS,,Casa Nongruella,Barbei Ornella,VIA NONGRUELLA,7,33045,+39 0432 797194;+39 333 2668108,+39 333 2668108,+39 0432 400950,,www.nongruella.com,3,"Apr 01 - Jun 20, Jul 01 - Sep 30",6,3
+67180,OSOPPO,2,Al Vecchio Glicine,Pittino Nadja,VIA GRAVATE,2,33010,+39 0432 986224;+39 347 9392136,+39 347 9392136,,nadja.pittino@pec.it,,2,Jun 01 - Oct 01,5,1
+40180,OSOPPO,,Da Rita,Buiatti Enzo,VIA BUIA,16,33010,+39 0432 975428;+39 347 5638054,+39 347 5638054,,,,2,Apr 01 - Oct 31,4,1
+43740,OVARO,,Mandi Mandi,Maria Nagostinis,VIA otto OTTOBRE DI MIONE,43,33025,+39 0433 747650;+39 338 4005934,+39 338 4005934,,,www.mandimandi.it,3,"Jan 01 - Nov 04, Dec 05 - Dec 31",6,3
+49641,PAGNACCO,3,Green Time,Ganzini Mauro,VIA PLAINO,17/4,33010,+39 0432 661194;+39 339 4188098,+39 339 4188098,,mauro.ganzini@gmail.com,,1,Mar 01 - Oct 31,2,1
+45960,PALMANOVA,3S,Piazza Grande,,PIAZZA GRANDE,14,33057,+39 0432 923774,,,LUCIA@CREDRA.COM,,1,"Feb 01 - Feb 28, Apr 01 - Jun 30, Aug 01 - Aug 30, Sep 15 - Sep 30",4,1
+38000,PALMANOVA,,Casa Dei Tori,Gori Elena,VIA OBERDAN,12/A,33057,+39 0432 928100;+39 338 5336396,+39 338 5336396,+39 0432 920789,silvia.savi@tiscali.it,www.casadeitori.it,3,Apr 01 - Dec 31,6,2
+2548,PALMANOVA,,Loretta,Dal Ponte Maria,VIA MANZONI,5,33057,+39 0432 928757;+39 338 1805702,+39 338 1805702,,loretta.dalponte@gmail.com,,2,"Jan 01 - Feb 28, Apr 01 - Oct 31, Dec 01 - Dec 31",5,2
+55160,PALUZZA,3S,Casadicenta,Di Centa Manuela,VIA PRINCIPALE,12,33026,+39 335 5495289,+39 335 5495289,,casadicenta@manueladicenta.it,www.casadicenta.it,1,"Jan 01 - Mar 15, Mar 25 - May 15, Jun 01 - Sep 25, Oct 29 - Nov 15, Dec 01 - Dec 31",5,1
+36960,PALUZZA,,Da Carletto,Bellina Carlo,VITTORIO VENETO,10,33026,+39 0433 779151,,,,,3,Jul 15 - Sep 15,6,3
+57500,PASIAN DI PRATO,2,B&B Colloredo, Blasutig Gianalberto,VIA DEI FAGGI,5,33037,+39 3336457528,+39 3336457528,,nuovosanpaolo@yahoo.it,,1,Jan 01 - Dec 31,2,1
+2395,PAULARO,,Ravinis,Maion Endrio,VIA MONTE PIZZUL,17,33027,+39 0433 70643;+39 333 5207000,+39 333 5207000,,ileniafabiani@libero.it,www.bedandbreakfastravinis.it,3,"Jan 01 - Jan 15, Mar 20 - Apr 20, Jun 15 - Sep 15, Dec 15 - Dec 31",6,1
+51820,PAVIA DI UDINE,3S,B.& B. Il Borghetto,Grinovero Elena,VIA PRE ZANETO,34,33050,+39 0432676386 0432676340,,+39 0432 676240,elena@lapein.it,,1,"Mar 01 - May 15, Jun 01 - Aug 15, Sep 01 - Dec 30",3,1
+53481,POCENIA,3,Angolo di Paradiso,,VIA CROSARIS,2,33050,+39 346 8660347,+39 346 8660347,+39 0432 777299,f.tonizzo@gmail.com,www.facebook.com/pages/BB-Angolo-di-Paradiso,2,Apr 01 - Oct 31,3,1
+2529,PONTEBBA,2,Alte Schule,Fortin Luciano,VIA DELLA CHIESA,7,33016,+39 0428 90483;+39 347 1662012,+39 347 1662012,+39 0428 90483,,,2,"Jan 01 - Apr 15, Jul 01 - Aug 31, Dec 15 - Dec 31",6,1
+2364,PONTEBBA,2,Ta Famée,Buzzi Fulvia,VIA DELLA CHIESA,22,33016,+39 340 5621350,+39 340 5621350,+39 0428 991307,tafamee@libero.it,www.tafamee.it,3,"Jan 01 - Apr 02, Apr 29 - Aug 18, Sep 18 - Dec 05, Dec 24 - Dec 31",6,2
+2535,PONTEBBA,3,Al Ghiro,Buzzi Luisa,VIA ZARDINI,32,33016,+39 0428 90727;+39 335 7020598,+39 335 7020598,,marziadigas@libero.it,,2,"Jan 01 - Mar 15, Jul 01 - Sep 15, Dec 01 - Dec 31",4,1
+2534,PONTEBBA,3,Pontafel,Degano Maria Elisabetta,VIA MAZZINI,46,33016,+39 0428 90626,,,b.b.pontafel@tiscali.it,,2,"Jan 01 - Mar 10, Mar 20 - Apr 02, Apr 20 - May 20, May 24 - Jun 03, Jun 14 - Sep 15, Sep 28 - Oct 15, Nov 23 - Dec 31",6,1
+2426,PONTEBBA,,B&B,Monica E Mauro,VIA PACE,3,33016,+39 0428 90960,,,monicaf65@aliceposta.it,,3,"Jan 15 - Mar 15, Oct 01 - Dec 15",6,3
+42140,PORPETTO,2,Casa Del Lauro,,G. Verdi,8,33050,+39 3389377736,+39 3389377736,,casadellauroporpetto@gmail.com,www.casadellauro.com,4,"Jan 01 - Nov 15, Dec 01 - Dec 31",8,2
+65080,POVOLETTO,3S,Cjampa',Brezzi Francesco,VIA DEI MONTI,4,,+39 3484761045  3342813680,+39 3484761045  3342813680,,brezzi.francesco@gmail.com,,3,"Jan 01 - Jan 31, Mar 01 - Oct 30, Dec 01 - Dec 31",5,3
+41005,POVOLETTO,3S,Le Rondini,Salvador Edi,MONTE CANIN,1,33040,+39 0432 664485;+39 347 3216207,+39 347 3216207,,prenotazioni@allerondini.it,www.allerondini.it,2,Mar 01 - Nov 30,4,2
+56880,POZZUOLO DEL FRIULI,2,Apricot,Migliore Annunziata,VIA venticinque aprile,7/b,33050,+39 0432 690965;+39 392 8800503,+39 392 8800503,+39 0432 690965,b.e.b.a@live.it,,2,Jan 01 - Dec 31,4,1
+54260,POZZUOLO DEL FRIULI,3,Rose,Starc Ondina,VIA quarta GENOVA,55,33050,+39 0432 635002;+39 348 2660910,+39 348 2660910,+39 0432 665568,b2b.rose.udine@gmail.com,,1,Jan 01 - Dec 31,2,1
+44160,POZZUOLO DEL FRIULI,,Alla Luna,Gori Nadia,VIA SAN GIORGIO,27,33050,+39 0432 560205;+39 3313813506,+39 3313813506,+39 0432 3061279,bebluna@alice.it,,3,"Jan 01 - Apr 30, May 16 - Jul 31, Sep 01 - Oct 31, Dec 01 - Dec 15",6,2
+2361,PRADAMANO,3S,B&B di Villa Ottelio,Miani Mercede,VIA TORRICELLE,20,33040,+39 0432 670459,,,bbottelio@libero.it,www.bbottelio.eu,3,"Jan 01 - Jan 20, Feb 22 - Dec 31",8,3
+44440,PRADAMANO,2,Italia,Tami Roberto,VIA LOVARIA,26,33040,+39 0432 670174;+39 339 7612524,+39 339 7612524,+39 0432 670174,vinitami@libero.it,www.vinitami.it,3,Jan 15 - Dec 15,6,2
+68381,PRADAMANO,3,Robinie,Canciani Iole,VIA ORSARIA,14,33040,+39 349 25086,+39 349 25086,,info.robinie@libero.it,,2,Jan 01 - Jan 14,4,2
+48560,PRATO CARNICO,2,Dal Nuf,,FRAZIONE PESARIIS,117,33020,+39 348 5431964,+39 348 5431964,,teresadalnuf@yahoo.it,,2,Mar 20 - Oct 25,3,1
+65940,PRECENICCO,2,B&B Virginia Ranch,,VIA CANEDO,2,33050,+39 3484441464;+39 3484441464,+39 3484441464,,virginiaranch@yahoo.it,,3,Feb 01 - Nov 30,6,1
+40760,PRECENICCO,,Villa Pinella,De Minicis Giovanni,VIA PRA DELLA NARDA,2,33050,+39 0431 589781;+39 335 5426838,+39 335 5426838,,g.deminicis@cheapnet.it,www.villapinella.it,3,Mar 01 - Nov 30,6,3
+52780,PREMARIACCO,3S,D'orsaria B. E B. And Wine,De Nipoti Maria Flavia,VIA BUTTRIO,8,33040,+39 0432 720563;+39 340 9368222,+39 340 9368222,+39 0432 720563,info@dorsaria.it,www.dorsariabedandbreakfast.it,2,Mar 01 - Nov 30,6,2
+52940,PREPOTTO,3,Il Petelin,,VIA BERDA,27/A,33040,+39 339 6100424,+39 339 6100424,,INFO.PETELIN@BERDA.IT,WWW.BERDA.IT,1,Apr 01 - Nov 30,2,1
+2617,PREPOTTO,,Casa Caterina da Centa,,VIA CENTA,76,33040,+39 0432 713237;+39 347 7056472,+39 347 7056472,,caterinadacenta@yahoo.it,,3,Mar 01 - Dec 30,6,2
+2485,PREPOTTO,,Casale Don Giovanni,De Pasquale Giuseppina,Località FRAGELLIS,131,33040,+39 0432 713252;+39 3487080550,+39 3487080550,+39 432737723,info@casaledongiovanni.it,www.casaledongiovanni.it,3,Jan 01 - Dec 31,3,2
+2373,PULFERO,,Chiabudini,Chiabudini Tullio,Frazione BRISCHIS,106,33046,+39 0432 726245,,,,,2,Mar 01 - Sep 30,4,2
+67900,RAGOGNA,3S,Armonie,Sivilotti Micaela,VIA MURIS,37,33030,+39 334 7028983,+39 334 7028983,,micaela.sivi@gmail.com,,1,"Jan 01 - Jan 31, Apr 01 - Oct 30, Dec 01 - Dec 31",3,1
+49640,RAGOGNA,3,B&B Marina,Marini Marina,VIA OSOPPO,41,33030,,,+39 0432 955333,info@bebmarina.com,www.bebmarina.com,2,Mar 01 - Nov 30,6,2
+2515,RAGOGNA,,Tabine,Piccoli Maria Assunta,VIA due GIUGNO,17,33030,+39 0432 954213,,+39 0432 954213,info@alvecjotraghet.it,www.alvecjotraghet.it,3,"Jan 01 - Jan 31, Mar 15 - Oct 30, Dec 01 - Dec 31",6,3
+36040,RAVASCLETTO,,Il Ranuncolo,De Crignis Flavia,VIA VALCALDA,10,33020,+39 338 1689291,+39 338 1689291,,ilranuncolo@bbcarnia.it,www.bbcarnia.it,2,"Jan 01 - May 20, Jun 01 - Sep 30, Dec 20 - Dec 31",7,2
+42380,RAVASCLETTO,,Infiore,Ramon Ines,VIA STALIVIERI,24/BIS,33020,+39 0433 66371;+39 335 441300,+39 335 441300,+39 0433 66371,inesramon@libero.it,,3,"Jan 01 - Jan 06, Feb 01 - Mar 31, Jun 15 - Sep 15, Dec 27 - Dec 31",5,3
+50161,RAVEO,2,Fra Luci E Misteli,Cordovado Stefano,VIA MACILLES,13,33029,+39 0433 746212;+39 347 0573046,+39 347 0573046,,stefanocordovado@alice.it,www.fraluciemisteli.it,3,"Jun 01 - Jul 02, Jul 03 - Jul 31, Aug 01 - Aug 31, Sep 01 - Sep 30",6,1
+2547,REANA DEL ROJALE,,I Fruz,Caporale Monica,VIA CARBONARIA,5,33010,+39 0432 857767;+39 333 4486073,+39 333 4486073,,bb.ifruz@libero.it,,3,"Jan 06 - Feb 18, Mar 02 - Apr 30, May 13 - Aug 19, Sep 02 - Oct 07, Oct 12 - Nov 18, Nov 25 - Dec 31",5,2
+44421,REANA DEL ROJALE,,Ma.Ma., Chiandetti Flavia,SAN PELAGIO,20/1,,+39 0432 854337;+39 339 1071308,+39 339 1071308,,,,2,"Jan 01 - Jan 10, Mar 01 - May 20, Jun 01 - Jun 20, Jul 01 - Aug 31, Sep 15 - Nov 10, Dec 01 - Dec 31",4,1
+44943,REMANZACCO,2,Alle Margherite,Benedetti Tiziana,VIA MARZUTTINI,2,33047,+39 0432 671634;+39 333 4940267,+39 333 4940267,,allemargherite@yahoo.it,,2,"Jan 07 - Apr 17, May 05 - Jul 15, Aug 21 - Dec 21",4,1
+34621,REMANZACCO,2,Casa Del Ginko,Nerone Maria,VIA A. PICCO,37,33047,"+39 0432 667600;+39 3,93479E+11","+39 3,93479E+11",+39 0432 667600,info@casadelginko.it,www.casadelginko.it,3,"Jan 03 - Feb 16, Feb 23 - May 10, May 18 - Jul 30, Aug 22 - Oct 18, Oct 24 - Dec 31",5,2
+2592,REMANZACCO,2,I Ciclamini,Morandi Clotilde,VIA CASALI BATTIFERRO,40,33047,+39 0432 667809,,,,,3,"Jan 01 - Jan 31, Feb 16 - Dec 31",6,2
+2550,RIVE DARCANO,,Il Castelliere,Della Vedova Germano,FRAZIONE ARCANO INFERIORE,1/A,33030,+39 0432 809171,,+39 0432 809171,bbilcastelliere@alice.it,www.bedandbreakfastfvg.com,4,"Jan 01 - Jan 31, Mar 01 - Oct 31, Dec 01 - Dec 31",8,3
+43520,RIVE DARCANO,,Nel Cuore Del Friuli,Giacomini Franco,VIA DELLA STAZIONE,6,33030,+39 0432 809291;+39 335 7031140,+39 335 7031140,,giacomini.franco@gmail.com,www.locandanelcuoredelfriuli.it,3,Feb 01 - Dec 31,6,1
+57820,RIVIGNANO TEOR,3S,B&B Casa Mia, Pitton Piera,VIA PAOLO SOLIMBERGO,19,33061,+39 340 5039329,+39 340 5039329,,beb.casamia@libero.it,www.bebcasamia.it,4,Jan 03 - Nov 03,8,4
+62480,RIVIGNANO TEOR,3S,Casa Filaferro,Feruglio Anna,[SENZA VIA]VICOLO MOLINO,3,33061,+39 349 3699536,+39 349 3699536,,anna.feruglio@casafilaferro.it,,2,Apr 05 - Oct 31,5,2
+42021,RIVIGNANO TEOR,3S,Palazzo Strassoldo,Del Mestre Renzo,VIA SAN MARCO,3,33050,+39 0432 771039;+39 348 1619337,+39 348 1619337,,redeme@hotmail.com,,2,Feb 01 - Nov 30,8,2
+41500,RIVIGNANO TEOR,2,Il Tempo Del Giardino,Pertoldeo Maria Laura,VIA UMBERTO I,2/A,33050,+39 327 7470194,+39 327 7470194,,info@iltempodelgiardino.it,www.iltempodelgiardino.it,4,Mar 10 - Nov 08,7,4
+50083,RUDA,3,Villa Rita,Marconato Patrizia,VIA CORTONA,21,33050,+39 338 9536765,+39 338 9536765,+39 0432 524173,bbvillaritaruda@gmail.com,,3,Apr 01 - Sep 30,6,3
+54360,SAN DANIELE DEL FRIULI,3S,Bed And Breakfast Antico Borgo,Clarini Elvia,Località AONEDIS,20,33038,+39 334 7164203,+39 334 7164203,,a.lenarduzzi@hotmail.it,,2,"Jan 01 - Jan 12, Feb 24 - Mar 02, Apr 03 - Sep 14, Oct 01 - Oct 19, Oct 31 - Dec 31",3,2
+71740,SAN DANIELE DEL FRIULI,2,B&B Cuore,Pigat Fabiola,VIA MONS. EGIDIO FANT,44,33038,+39 0427 808873,,+39 0427 808874,fabi.pigat@gmail.com,,2,Jan 01 - Dec 31,4,1
+68660,SAN DANIELE DEL FRIULI,2,Bed And Breakfast Villanova,De Cecco Monica,VIA NAZIONALE,37-39,33038,+39 0432 956262,,,monica.dececco@tiscali.it,,3,Jan 01 - Dec 31,6,2
+47760,SAN DANIELE DEL FRIULI,2,Casa di Maddalena,Casano Maddalena,VIA MONTEGRAPPA,42,33038,+39 432941516;+39 347 0497825,+39 347 0497825,+39 432941516,maddalenacasano@libero.it,www.casadimaddalena.it,3,"Jan 01 - Oct 31, Dec 01 - Dec 31",5,2
+49580,SAN DANIELE DEL FRIULI,2,La Casa Sul Fiume,Caprara Giuseppe,-,120,33038,+39 0432 956564;+39 392 9080084,+39 392 9080084,+39 0432 956564,lacasasulfiume@hotmail.com,,3,"Mar 01 - Oct 31, Dec 01 - Dec 31",6,2
+54460,SAN DANIELE DEL FRIULI,2,The Green Corner's Hangout,Bulligan Mariano,VIA ALESSANDRO MANZONI,18,33038,+39 328 9626086,+39 328 9626086,,hangout.thegreencorners@gmail.com,,2,May 16 - Dec 31,6,1
+42600,SAN DANIELE DEL FRIULI,3,Mezza Mela,Molinaro Maria,VIA Udine,20,33038,+39 389 8160207,+39 389 8160207,,fast.mela@gmail.com,www.mezzamela.eu,3,"Jan 01 - Jan 15, Feb 15 - Oct 31, Dec 01 - Dec 31",7,3
+2412,SAN DANIELE DEL FRIULI,,Cjase di Roc,Toppazzini Attilio,VIA MONTEGRAPPA,15,33038,+39 0432 954997;+39 333 9315516,+39 333 9315516,,toppgann@hotmail.com,,3,May 01 - Oct 31,6,1
+2598,SAN DANIELE DEL FRIULI,,Clarini Jole,,VIA OSOPPO,44,33038,+39 0432 955397;+39 348 0008647   334 3209205,+39 348 0008647   334 3209205,,jolli@email.it,,2,"Jan 01 - Feb 15, Feb 16 - Sep 01, Sep 02 - Oct 15, Nov 16 - Dec 31",5,2
+2418,SAN DANIELE DEL FRIULI,,Facchin Silvana,,VIA OSOPPO,111,33038,+39 0432 941044,,+39 0432 941044,,,2,Mar 01 - Oct 31,5,2
+2632,SAN DANIELE DEL FRIULI,,Rossi Carlo,,VIA DELLE QUERCE,28,33038,+39 0432 955879,,,rossi-bellomo@alice.it,,1,"Mar 01 - May 15, Jul 01 - Sep 15, Dec 01 - Dec 31",3,1
+40420,SAN DANIELE DEL FRIULI,,Sottocolle Fontana,Ursella Ivan,VIA SOPRAPALUDO,4,33038,,,,federica.nonino@gmail.com,www.sottocollefontana.it,3,Jan 01 - Dec 31,6,1
+2633,SAN DANIELE DEL FRIULI,,Villa Jasmin,Pischiutta Alba,VIA NAZIONALE,76,33030,+39 0432 956013;+39 338 9938105,+39 338 9938105,+39 0432 956013,,,3,Mar 01 - Dec 31,6,1
+52880,SAN GIOVANNI AL NATISONE,2,Casa De Marco,De Marco Franca,VIA RONCHI,13,33048,+39 0432 756691;+39 340 3997346,+39 340 3997346,,casa-demarco@virgilio.it,,4,Mar 01 - Nov 30,8,2
+4100,SAN LEONARDO,,Ada,Sibau Ada,Frazione MERSO DI SOPRA,15,33040,+39 0432 723457;+39 340 2968519,+39 340 2968519,,,,2,May 01 - Aug 31,5,1
+2429,SAN LEONARDO,,Casa Emilia,Sibau Giuseppina,VIA CRAVERO,80,33040,+39 0432 723148,,+39 0432 723148,,,2,Jun 01 - Sep 30,3,2
+2520,SAN LEONARDO,,Casa Qualizza,Coceani Giulia,Frazione MERSO DI SOPRA,44,33040,+39 0432 723212,,,giuliacoceani@gmail.com,,3,Jun 01 - Aug 31,6,1
+2519,SAN LEONARDO,,Dorgnach,Dorgnach Rino,Frazione IAINICH,13/A,33040,+39 0432 723296;+39 349 8808239,+39 349 8808239,+39 0432 640480,,,2,Apr 01 - Sep 30,4,2
+2427,SAN LEONARDO,,La Casa Sul Fiume,Chiabai Paola,Frazione COSIZZA,22,33040,+39 0432 723068;+39 380/2980970,+39 380/2980970,,p.tomasetig@libero.it,,2,May 01 - Sep 30,3,2
+34520,SAN LEONARDO,,Sul Fiume,Podrecca Anna,Frazione SCRUTTO,2/5,33040,+39 0432 723383 328 0185390,,,annapodrecca@libero.it,,4,May 01 - Sep 30,6,2
+2428,SAN LEONARDO,,Zanutto Lorenzo,,VIA M.L.FAIDUTTI,8,33040,+39 0432 723205,,,,,2,"Jan 01 - Mar 31, Sep 01 - Nov 30",4,2
+49680,SAN PIETRO AL NATISONE,3S,Casa Rosalba,Cedarmas Marco,Frazione MEZZANA,8,33049,+39 0432 727258;+39 349 1646711,+39 349 1646711,+39 0432 727258,bbcasarosalba@yahoo.it,,2,May 15 - Dec 31,6,2
+2380,SAN PIETRO AL NATISONE,,Casa Venica,Venica Gino Bruno,Frazione VERNASSO,8,33049,+39 0432 727390;+39 348 4818291,+39 348 4818291,,guidovenica@tele2.it,,2,Apr 01 - Sep 30,3,2
+2490,SAN PIETRO AL NATISONE,,Corte Dei Suanovi,Spagnut Ave,Frazione SORZENTO,21,33049,+39 0432 727384;+39 335 7050955  334 3185668,+39 335 7050955  334 3185668,+39 0432 727556,,,1,Apr 01 - Dec 31,2,1
+53900,SAN VITO AL TORRE,3S,Casa Della Fornace,Qualizza Eleonora,VIA VENEZIA,7,33050,+39 333 7772770,+39 333 7772770,+39 0432 1632018,info@casadellafornace.it,www.casadellafornace.it,4,"Jan 01 - Jan 31, Mar 01 - Oct 31, Dec 01 - Dec 31",8,4
+54740,SAN VITO AL TORRE,2,B&B 23,Rossi Paola,VIA JULIA,23,33041,+39 349 1435331,+39 349 1435331,,bedandbreakfast23@libero.it,,3,Apr 01 - Dec 31,6,1
+57420,SAN VITO AL TORRE,2,Il Cammino,Simeon Daniele,V IA JULIA,19,33050,+39 340 1095416,+39 340 1095416,,marinella.cordiglia@alice.it,,2,Jan 15 - Jul 31,4,2
+57580,SAN VITO AL TORRE,2,Palazzo Roncato,Rossana Roncato,VIA VENEZIA,1/a,33050,+39 333 5278542,+39 333 5278542,,,,2,"Jan 01 - Jan 07, Mar 01 - Oct 30, Dec 12 - Dec 31",6,2
+41741,SAN VITO AL TORRE,,Villa Steffaneo,Roncato Roberto,VIA AQUILEIA,36,33050,+39 0432 999528;+39 339 6273057,+39 339 6273057,+39 0432 998021,villa.steffaneo@virgilio.it,,3,Apr 01 - Oct 31,6,3
+2414,SAURIS,3S,Sant'antonio di Modepoudn,Marzari Laura,SAURIS DI SOTTO,85/A,33020,+39 339 8582777,+39 339 8582777,,laura.marzari52@gmail.com,,3,"Jan 01 - Feb 28, Apr 01 - May 02, Jun 01 - Sep 30, Dec 01 - Dec 31",6,3
+2565,SAURIS,2,Pa' Mairlan,Plozzer Armida,Frazione SAURIS DI SOPRA,42,33020,+39 0433 86009,,+39 0433 86009,pamairlan@bbcarnia.it,www.pamairlan-sauris.it,3,"Jan 01 - Mar 01, Apr 01 - May 01, Jun 01 - Sep 30, Dec 01 - Dec 31",6,2
+2621,SAVOGNA,,Casa Luisa,Cendou Germano,Località MASSERIS,119,33040,+39 0432 709942,,+39 0432 717535,cendou@libero.it,,2,Apr 01 - Oct 30,3,1
+2561,SEDEGLIANO,,Il Mulino Sul Ledra,Vidotto Tiziana,VIA MARTIRI DELLA LIBERTA,23,33039,+39 0432 916836;+39 333 9076886,+39 333 9076886,+39 0432 916836,mulinoledra@gmail.com,,1,"Feb 01 - Apr 21, May 06 - Jul 26, Sep 02 - Oct 31, Nov 04 - Dec 19",2,1
+2388,STREGNA,3,Oasi di Pace Draha,Postregna Teresa,VIA POSTREGNA,17,33040,+39 0432 724192;+39 333 7600975,+39 333 7600975,,teresa.postregna@gmail.com,oasidipacedraha.postregna.name,3,"Jan 01 - May 25, Jun 15 - Dec 20",6,3
+2651,STREGNA,,Angelina,Chiabai Giorgio,Frazione ZAMIR,3,33040,+39 0432 723389,,,,,3,"Mar 15 - Oct 01, Nov 01 - Nov 30",6,3
+2522,STREGNA,,B&B Crisetig Franco,,Frazione VARCH,12,33040,+39 0432 724112,,,,,2,Apr 01 - Oct 15,4,1
+2620,STREGNA,,Casa Cristina,Dugaro Cristina,Frazione OBLIZZA,6,33040,+39 347 6496867,,,eterlicher@yahoo.it,,2,Apr 25 - Sep 15,4,1
+2407,STREGNA,,Casanatura,Bertoldi Diana,VIA POSTREGNA,11/B,33040,+39 0432 724215 328 4205161,,,dbertoldi@libero.it,www.bbcasanatura.it,2,"Mar 23 - Nov 04, Dec 06 - Dec 31",5,1
+2526,STREGNA,,Na Uratac,Crisetig Augusto,VIA VARCH,11/A,33040,+39 0432 724030,,,michela.crisetig@libero.it,,3,Apr 01 - Oct 31,6,2
+2384,STREGNA,,Rosa Dei Venti,Stulin Alessandro,VIA TRIBIL SUPERIORE,50,33040,+39 0432 724116,,,,,3,"Mar 15 - Apr 15, Jun 15 - Aug 30, Dec 15 - Dec 31",6,1
+48880,TAIPANA,2,Naiadi B&B,Tarnorld Simonetta,-,1,33040,+39 328 2264956,+39 328 2264956,,tarnoldsimonetta@yahoo.com,,2,Mar 15 - Dec 31,4,2
+60040,TAIPANA,,Bosco Delle Rune,Gentilini Gianni,-,89,,+39 335 7060980,+39 335 7060980,,boscodellerune@gmail.com,,3,Jan 01 - Dec 31,6,1
+2574,TAIPANA,,Casa Svetlana,Malkina Svetlana,VIA MONTEMAGGIORE,22,33040,+39 0432 788013,,,,,3,Mar 01 - Dec 31,5,3
+71704,TALMASSONS,2,"Bed & Breakast ""nikita""",Deana Gilberto,VIA ISONZO,17/1,33030,+39 338 6327844,+39 338 6327844,,,,2,Jan 01 - Dec 31,3,1
+2381,TARCENTO,3S,Li Dai Tos,Pividori Paolo,VIA NATISONE,3,33017,+39 0432 783535;+39 347 4610812,+39 347 4610812,+39 0432 783535,inesbujan@yahoo.it,www.lidaitos.it,2,"Jan 01 - Jan 07, Apr 06 - Dec 08, Dec 27 - Dec 31",6,2
+3061,TARCENTO,2,Capinera,Di Brazzà Rossella,VIA NATISONE,10,33017,+39 0432 783843;+39 393 9722412,+39 393 9722412,+39 0432 783843,capinerafvg@alice.it,www.beb-italia.it,2,Apr 01 - Sep 30,4,1
+2527,TARCENTO,2,Casa Ongjarut,Biasizzo Diego,VIA BERNADIA,18,33017,+39 0432 791850;+39 335 6861760,+39 335 6861760,+39 0432 791850,diego.biasizzo@libero.it,www.ongjarut.it,2,Apr 01 - Sep 30,5,1
+2367,TARCENTO,2,Da Lisute,Jannis Adriano,VIA BERNADIA,98,33017,+39 0432 785105;+39 328 1118359,+39 328 1118359,,,,2,Apr 01 - Dec 31,5,2
+47840,TARCENTO,2,Da Silver di Jenny Silveris,,VIA ALFIERI,11,33017,+39 333 6379638,+39 333 6379638,+39 432793068,bandbdasilver@hotmail.it,,2,Mar 15 - Nov 30,4,1
+2619,TARCENTO,2,Les Bouganvilles,Papinutti Donata,VIA DELLE VIOLE,1,33017,+39 0432 791908;+39 333 8673451,+39 333 8673451,+39 0432 791908,lesbouganvilles@libero.it,,1,Mar 15 - Nov 30,3,1
+34360,TARCENTO,2,Scaccia Pensieri di Del Medico Carla,,VIA A. ANGELI,128,33017,+39 0432 792697,,,scacciapensieri124@yahoo.it,,3,"Jan 01 - Feb 15, Mar 01 - Nov 15, Dec 15 - Dec 31",7,2
+67280,TARVISIO,3S,Al Buondi Tarvisio, De Cillia Loredana,VIA LUSSARI,18/D,33018,+39 348 2564748;+39 348 2564748,+39 348 2564748,,info@albuonditarvisio.com,www.albuonditarvisio.com,4,Jan 01 - Dec 31,8,4
+35180,TARVISIO,3S,Al Sentiero,Comelli Giulia,VIA LUSSARI,18/B,33010,+39 0428 40457;+39 3343857292,+39 3343857292,,,,3,Jan 01 - Dec 31,6,2
+2543,TARVISIO,2,B&B Molino,Paolo E Danica Pivk,VIA MOLINO,7,33018,+39 0428 63188;+39 329 1321715,+39 329 1321715,,,,1,Jan 01 - Dec 31,2,1
+2432,TARVISIO,2,Casa Corte Lara,Bortot Maria,VIA ALPI GIULIE,39,33018,+39 0428 40248;+39 333 5794844,+39 333 5794844,+39 0428 40248,laracorte@virgilio.it,,2,"Jan 01 - May 30, Jun 30 - Sep 30, Oct 30 - Dec 31",6,2
+60060,TARVISIO,3,B&B Boscoverde,Filaferro Nives,VIA CADORNA,18,33018,+39 0428 3038;+39 333 1590124,+39 333 1590124,,anfrea.tomasi67@gmail.com,,2,"Mar 15 - Apr 15, Jun 01 - Sep 30, Dec 01 - Dec 31",5,2
+67801,TARVISIO,3,B&B da Dante,Tosoni Dante,VIA ARMANDO DIAZ,18,33018,+39 331 5855856;+39 331 5855856,+39 331 5855856,,dante.tosoni@alice.it,,1,"Jan 01 - Apr 30, Jun 01 - Sep 30, Dec 01 - Dec 31",2,1
+2544,TARVISIO,,Ai Tre Confini,Pippan Giorgio,VIA SAVORGNANA,3,33018,+39 0428 40331;+39 338 8496116,+39 338 8496116,,gi.pi@teletu.it,,3,"Jan 01 - May 05, Jun 01 - Jun 16, Jul 06 - Sep 09, Nov 24 - Dec 31",8,2
+41160,TARVISIO,,Belvedere Sulle Giulie,Franchetto Angelina,VIA OLTREACQUA,10,33018,+39 340 3587512,+39 340 3587512,,belvederesullegiulie@gmail.com,,1,Jan 01 - Dec 31,4,1
+2434,TARVISIO,,Cristal,Liva Cristina,VIA FERROVIA,7,33018,+39 0428 2884;+39 338 2759537,+39 338 2759537,+39 0428 2884,cristina.liva@virgilio.it,www.babcristaltarvisio.it,2,"Jan 01 - Mar 30, Jun 01 - Sep 30, Dec 01 - Dec 31",5,1
+2435,TARVISIO,,Da Carla,Svetina Carla,VIA GORIZIA,20,33018,+39 0428 40136;+39 329 1531033,+39 329 1531033,+39 0428 2004,misscharly2002@libero.it,,2,"Jan 01 - Apr 30, Jun 01 - Dec 31",6,1
+2607,TARVISIO,,Famiglia Colloredo,Del Ross Selene,VIA FRIULI,71,33018,+39 347 0366764,+39 347 0366764,+39 0428 2364,delrossselene@googlemail.com,,3,"Jan 01 - Apr 30, Jun 01 - Oct 31, Dec 01 - Dec 31",6,3
+66402,TAVAGNACCO,2,Comini Filippo,,VIA CHIAVRIS,12,33010,+39 393 9092799,+39 393 9092799,,chevanton7@gmail.com,,2,"Jan 01 - Jan 17, Feb 01 - Feb 28, Mar 15 - Jul 31, Sep 01 - Dec 31",6,2
+66400,TAVAGNACCO,3,Q3 Home,Ferronato Claudia,VIA  MARCONI,10,33010,+39 335 7655298,+39 335 7655298,,ferronato.claudia@pec.it,,4,Jan 01 - Dec 31,8,4
+3980,TAVAGNACCO,,Casa Sonia,Londero Emilio,VIA G.PARINI,10,33010,+39 0432 571793;+39 340 4125109,+39 340 4125109,+39 0432 571793,info@casasonia.it,www.casasonia.it,2,"Jan 14 - Feb 03, Mar 02 - Apr 03, Apr 27 - May 27, Jun 22 - Aug 11, Sep 01 - Sep 30, Oct 06 - Oct 31, Nov 03 - Dec 31",4,1
+54540,TERZO DAQUILEIA,3S,B&B Al Pic De Corone,Lotti Daniele,VIA DELLA FONTANA,16,33050,+39 0431 30176;+39 349 5840450,+39 349 5840450,,info@alpicdecorone.it,www.alpicdecorone.it,3,"Mar 01 - Oct 11, Oct 14 - Nov 08, Nov 12 - Nov 15, Nov 19 - Nov 22, Nov 26 - Nov 30, Dec 03 - Dec 13",6,3
+63680,TERZO DAQUILEIA,3,Balzano da 4,Ricamo Susanna,VIA RONCHI,16,33050,+39 0431 30177;+39 339 6383641,+39 339 6383641,,balzanox4@gmail.com,https://sites.google.com/site/balzanox4,2,May 01 - Nov 30,5,2
+43881,TOLMEZZO,2,Alle Tre Colombe ,D'orlando Caterina,VIA MONTE GRAPPA,74/C,33028,+39 340 7467689,+39 340 7467689,,,,3,"Jan 01 - Feb 28, May 01 - Sep 30, Nov 01 - Dec 31",4,1
+45421,TOLMEZZO,2,Nel Verde,Marcolini Daniela,ROMANA,20,33028,+39 347 7206352,+39 347 7206352,,scriviadaniela@yahoo.it,,2,"Jan 01 - Apr 15, May 01 - Sep 15, Nov 01 - Nov 30, Dec 15 - Dec 31",4,1
+52280,TOLMEZZO,3,Da Mamma Lo,Bertuzzi Loretta,VIA MONTE SERNIO,13,33028,+39 0433 2604;+39 338 4737683,+39 338 4737683,,l.bertu@libero.it,,2,"Feb 22 - Apr 07, Apr 19 - May 05, May 10 - Sep 29, Oct 25 - Nov 03, Nov 29 - Dec 31",4,2
+67620,TOLMEZZO,3,La Mansarda di Gabri,Cosetti Gabriella,VIA DELLA VITTORIA,19,33028,+39 3498249255,+39 3498249255,,cosetti@alice.it,,1,Jan 01 - Dec 31,2,1
+65120,TOLMEZZO,3,La Stelute,D'orlando Daniela,MONTE SERNIO,3,33028,+39 043340971;+39 3349970679,+39 3349970679,,,,1,Jan 01 - Dec 31,2,1
+2580,TOLMEZZO,,Il Cardo,Straulino Elvira,VIA SOMMA,5,33028,+39 0433 43902;+39 347 3912175,+39 347 3912175,+39 0433 43902,ilcardo@bbcarnia.it,www.bbcarnia.it,6,"Jan 01 - Jan 07, Feb 02 - Feb 04, Feb 16 - Feb 18, Feb 23 - Feb 25, Mar 09 - Mar 11, Mar 16 - Mar 18, Mar 23 - Nov 02",10,2
+2538,TORREANO,,Al Cocolar,Montanino Roberto,VIA KENNEDY,17,33040,+39 339 8430076,+39 339 8430076,,aritacocolar@libero.it,,1,Apr 01 - Oct 31,3,1
+2477,TORREANO,,Da Ilva,Iacuzzi Ilva,VIA PRINCIPALE,52,33040,+39 0432 712106,,,,,2,Apr 01 - Sep 30,4,1
+2475,TORREANO,,Emma, Guerra Luigi,VIA KENNEDY,41,33040,+39 0432 715384;+39 380  4186002,+39 380  4186002,+39 0432 715248,aziendaagricola@guerraluigi.it,www.guerraluigi.it,3,Apr 01 - Dec 31,8,3
+2627,TORREANO,,Friendship ,Wangler Bernadette,VIA DEL MULINO,25/1,33040,+39 0432 712302,,+39 0432 712302,friendship25@alice.it,,2,Apr 03 - Jun 06,5,1
+2539,TORREANO,,Marie-therese,Roiatti Walter,VIA ZORUTTI,19,33040,+39 0432 715106;+39 339 4420813,+39 339 4420813,+39 0432 715106,info@marietherese.it,www.marietherese.it,3,Mar 15 - Oct 30,6,2
+68460,TRASAGHIS,2,Palar,Latino Adele,VIA NAPOLEONICA,7,33010,+39 3401001009;+39 348 5524028,+39 348 5524028,,bebpalar@gmail.com,,3,Mar 01 - Oct 31,5,1
+60681,TRICESIMO,2,B&B Cuei,Baret,VIA COL BARET,9,33019,+39 0432 854533;+39 333 6421817,+39 333 6421817,,tubetti@gmail.com,,2,Apr 01 - Oct 15,4,2
+70860,TRICESIMO,3,B&B Le Querce, Caselli Federica,VIA MONTE GRAPPA,15,33019,+39 348 4480742,+39 348 4480742,,fede_caselli@yahoo.it,,2,Jan 01 - Dec 31,6,2
+72160,TRICESIMO,3,La Casa Blu di Monasteto,Agosto Francesca,[VIA BELVEDERE,17,33019,+39 0432 854788,,,info@francesca-agosto.it,,3,Mar 15 - Nov 15,6,3
+35321,TRICESIMO,,Colline Moreniche,Tami Moreno,VIA SAN GIOVANNI,29,33019,+39 0432 853930;+39 340 6289730,+39 340 6289730,,,,2,"Mar 15 - Apr 30, May 15 - May 31, Jun 15 - Jun 30, Jul 05 - Aug 15, Sep 01 - Sep 15, Oct 01 - Oct 31",5,2
+59700,TRICESIMO,,Villa  Miotti De Braida,Miotti Giovanni,VIA BORGOBELLO,4,,+39 0432 883590,,,miotti@villamiotti.it,,3,Jun 06 - Oct 30,6,3
+60080,TRIVIGNANO UDINESE,3S,Alla Piazzetta,Cleri Laura,VIA AQUILEIA,1,33050,+39 0432 999262;+39 333 7864412,+39 333 7864412,,laura.paviotti@gmail.com,,3,"Jan 01 - Jan 31, Mar 01 - Dec 31",5,3
+3480,TRIVIGNANO UDINESE,3S,Casa Barnaba - Manin,Komauli Valentina,VIA STRETTA,1,33050,+39 0432 999528;+39 339 6273057,+39 339 6273057,+39 0432 999528,valentina.komauli@alice.it,www.casabarnaba-manin.it,2,"Jan 01 - Jan 08, Mar 01 - Nov 30, Dec 16 - Dec 31",6,2
+51240,UDINE,3S,B&B Al Meriggio,Pitis Giovanni,VIA LATISANA,41,33100,+39 392 8812742;+39 392 8812742,+39 392 8812742,,bbmeriggio@gmail.com,www.bbmeriggio.com,3,"Jan 15 - Jul 20, Sep 01 - Dec 15",6,3
+45841,UDINE,3S,B&B Erica,Pessotto Erica,VIA PAOLO FISTULARIO,42,33100,+39 0432 234077,,,maxbighammers@libero.it,,2,"Mar 01 - Jul 31, Sep 16 - Dec 31",5,2
+51680,UDINE,3S,C'era Una Volta,Vidoni Ludovica,VIA VENETO,177/11,33100,+39 346 3748706;+39 349 4440480,+39 349 4440480,,ceraunavolta_bb@libero.it,,2,"Jan 01 - Oct 31, Nov 12 - Dec 31",4,2
+2649,UDINE,3S,Casa Renata,Beltramini Renata,VIA TISSANO,8,33100,+39 0432 600232;+39 333 2834928,+39 333 2834928,+39 0432 600232,casarenata@libero.it,www.bbcasarenata.it,3,"Feb 10 - Oct 30, Dec 05 - Dec 31",5,3
+61080,UDINE,3S,Friul,Venuti Riccardo,VIA SAN ROCCO,368,33100,+39 338 9992725;+39 0432 232355,+39 0432 232355,+39 0432 232355,rickonline@tin.it,,1,Jan 01 - Dec 31,3,1
+54240,UDINE,3S,La Luna E Le Stelle,Rizzi Amalfia,VIA BRESCIA,11/1,33100,+39 0432 403428;+39 340 8360851,+39 340 8360851,+39 0432 403428,amalfia@virgilio.it,www.lunastelle.it,1,"Jan 01 - Mar 24, Apr 07 - Jul 15, Aug 16 - Sep 04, Sep 15 - Dec 10",2,1
+61120,UDINE,3S,Piano.Bb,Costantini Scala Carlo,VIA MONTE HERMADA,1,33100,+39 335 7559957;+39 393 9303643,+39 393 9303643,,info.pianobb@gmail.com,,2,Jan 01 - Dec 31,6,3
+35341,UDINE,3S,Scenarium,Bielcikova Slava,VIALE VENEZIA,184,33100,+39 329 4946124;+39 329 4946124,+39 329 4946124,,scenarium@alice.it,www.scenariumudine.com,3,Jan 01 - Dec 31,8,3
+62620,UDINE,3S,Trinity,Mendoza Gutierrez Ana Mercedes,VIA ADIGE,45,33100,+39 340 3930870;+39 0432 1744343,+39 0432 1744343,,,,1,Jan 01 - Dec 31,2,1
+33180,UDINE,2,Al Gatto Rosso,Contardo Fabio,VIA BALDASSERIA MEDIA,129,33100,+39 328 2660808,+39 328 2660808,,info@algattorosso.com,www.algattorosso.com,4,"Jan 01 - Jan 06, Jan 18 - Feb 17, Mar 01 - Dec 31",8,3
+46240,UDINE,2,Al Giglio Bianco,Levi Gigliola,VIA CAMPAGNOLA,60,33100,+39 349 2228475,,+39 0432 480725,gigliobiancoud@yahoo.it,,2,"Jan 01 - Jan 14, Feb 15 - Mar 14, Apr 15 - Sep 30, Nov 01 - Dec 31",4,1
+61860,UDINE,2,Cinqueminutidacentroestazione,Lunazzi Melania,VIA TEOBALDO CICONI,18,33100,+39 349 5208243,,,l_melania@hotmail.com,,1,Jan 01 - Dec 31,2,1
+56960,UDINE,2,Il Posto di Zaffira,Secchi Maria,VIA MONZAMBANO,138,33100,+39 338 3000414;+39 0432 582254,+39 0432 582254,,mzaffira@gmail.com,,2,Jan 01 - Dec 31,4,2
+54840,UDINE,2,La 12° Notte,Linda Alessandra,VIA CORMONS,25,33100,+39 0432 482562;+39 393 1474922,+39 393 1474922,,alessandralinda@aruba.it,,2,Apr 15 - Dec 31,3,1
+55560,UDINE,2,Madonnetta,Mazzucchelli Andrea,VIA DELLA MADONNETTA,51,33100,+39 0432 524201;+39 338 2165433,+39 338 2165433,,andmazud@hotmail.it,,4,Jan 01 - Dec 31,7,4
+56440,UDINE,2,Marameo,Carnevali Mauro,VIA TAVAGNACCO,64/12,33100,+39 335 6399172;+39 340 6161708,+39 340 6161708,+39 0432 644007,bedbreakfastmarameo@gmail.com,,3,Apr 16 - Dec 31,5,3
+68242,UDINE,3,Accanto Al Focolare 2,Lazzati Fabrizio,VIA BALDASSERIA BASSA,237,33100,+39 348 7210734,,,lazzatifabrizio@gmail.com,,1,May 01 - Dec 31,2,1
+65201,UDINE,3,Civico 51,Merlo Angela,GORIZIA,51,33100,+39 347 7770474,,,info@civico51.it,,3,Jan 01 - Dec 31,7,3
+62220,UDINE,3,Plume,Fattori Daniela,VIA PINEROLO,9,33100,+39 329 7447225,,,fattoridaniela@gmail.com,,2,Jan 01 - Dec 31,6,2
+44700,UDINE,,A Casa di Mercedes,De Mezzo Maria Mercedes,VIA MAZZINI GIUSEPPE,9,33100,+39 0432 504893;+39 338 5672135,+39 338 5672135,+39 0432 504893,casamercedes@libero.it,,3,Feb 01 - Dec 31,6,3
+37720,UDINE,,Agli Schnauzer,Cappelletti Fiammetta,VIA CAPODISTRIA,57,33100,+39 0432 481211;+39 339 7687112,+39 339 7687112,,fiammettacap@yahoo.it,,2,"Jan 01 - Jan 20, Feb 01 - Nov 17, Nov 29 - Dec 31",5,2
+37000,UDINE,,Ai Tigli,Stefini Emanuela,VIA MONZAMBANO,54/2,33100,+39 0432 283198;+39 330 714853,+39 330 714853,,emanuela.stefini@gmail.com,www.dormireaudine.it,3,"Jan 15 - Aug 04, Aug 19 - Nov 03, Nov 18 - Dec 31",6,2
+2645,UDINE,,Al Borgo Vecchio,Pigani Sandra,VIA CUSSIGNACCO,48/4,33100,+39 0432 25091;+39 339 6242164,+39 339 6242164,,sandra.pigani@gmail.com,,3,"Jan 01 - Aug 10, Aug 26 - Dec 31",5,1
+33344,UDINE,,Al Teatro,Zottig Pintor Andrea,VIALE TRIESTE,18,33100,+39 0432 510468;+39 335 5455330,+39 335 5455330,+39 0432 510468,linozp@gmail.com,,2,"Jan 01 - Jul 28, Aug 26 - Dec 31",5,2
+2566,UDINE,,Al Vecchio Noce,Pigani Maria-giustina,VIA DEL BON,548,33100,+39 0432 581172;+39 329 9827582,+39 329 9827582,,alvecchionoce@libero.it,www.alvecchionoce.com,3,Jan 05 - Dec 24,6,2
+33342,UDINE,,Alla Gledizia,Lestani Lorenzo,VIALE CADORE,2/A,33100,+39 334 3653046,+39 334 3653046,,allagledizia@alice.it,,3,"Jan 02 - Aug 01, Aug 16 - Dec 23",6,2
+42080,UDINE,,B&B Dei Musicanti,Biondi Roberto,VIA GORIZIA,18,33100,+39 0432 470421;+39 320 0439320,+39 320 0439320,,bbdeimusicanti@email.it,www.bbmusicanti.it,1,"Jan 10 - Jul 31, Aug 10 - Dec 20",2,1
+43680,UDINE,,Borgo Nuvola,Calligaris Pamela,VIA RISANO,19/4,33100,+39 338 6045489;+39 338 6045489,+39 338 6045489,,bb.borgonuvola@gmail.com,www.borgonuvola.it,2,"Jan 06 - Feb 10, Mar 20 - May 30, Jun 10 - Jun 30, Jul 15 - Aug 20, Sep 01 - Dec 31",3,1
+2392,UDINE,,Camera Con Vista,Asquini Fabiola,VIA DANIELE MANIN,16,33100,+39 0432 501174;+39 338 5675241,+39 338 5675241,+39 0432 501174,fabiola.asquini@libero.it,www.manin16.it,1,"Jan 01 - Jan 15, Feb 01 - Dec 31",3,1
+2551,UDINE,,Casa Adele,Chiavatti Anna-maria,VIA DELLA MADONETTA,44,33100,+39 0432 602723,,,annabo.chi@libero.it,,3,"Jan 15 - Aug 15, Sep 01 - Dec 15",6,2
+2501,UDINE,,Casa Daniela,Zoratti Franco,VIA PRADAMANO,88,33100,+39 0432 522992;+39 338 1032219,+39 338 1032219,,info@casadaniela.com,www.casadaniela.com,2,"Jan 01 - May 30, Jun 16 - Dec 31",4,2
+37721,UDINE,,Casa Meridiana,Del Gobbo Franca,VIA FRUCH,37,33100,+39 0432 281028;+39 339 5037566,+39 339 5037566,+39 0432 281028,,,3,"Jan 01 - Jan 31, Mar 16 - Dec 31",6,1
+32379,UDINE,,Da Cathy,Galliussi Gabriella,VIA FRANCESCO DI TOPPO,19/3,33100,+39 0432 1790713;+39 347 5146435,+39 347 5146435,,cathybb07@yahoo.it,,2,"Jan 02 - Aug 14, Aug 17 - Dec 22",3,1
+2646,UDINE,,Dimora Montegnacco,Trombetta Vittorio,VIA CUSSIGNACCO,48/3,33100,+39 0432 204698;+39 333 3357540,+39 333 3357540,+39 0432 204698,info@dimoramontegnacco.it,www.dimoramontegnacco.it,3,"Jan 01 - Jan 05, Mar 02 - Jul 05, Jul 20 - Jul 31, Aug 10 - Nov 09, Nov 13 - Nov 23, Nov 27 - Dec 09, Dec 21 - Dec 31",6,3
+2625,UDINE,,Famiglia Mccoy Moreale,Mccoy Mary Ann,VIA CIVIDALE,290,33100,+39 0432 281863;+39 349 2640481  327 7471874,+39 349 2640481  327 7471874,,maryann.mccoy@gmail.com,www.bbjennysgarden.com,3,"Jan 01 - Aug 01, Aug 15 - Aug 20",5,1
+35340,UDINE,,Jenny's Garden,Moreale Jennifer,VIA CIVIDALE,290/1,33100,+39 0432 281863;+39 327 7471874,+39 327 7471874,,bbjennysgarden@gmail.com,www.bbjennysgarden.com,2,"Jan 01 - Aug 01, Aug 15 - Dec 20",4,2
+2533,UDINE,,La Calesita,Cozzolino Elisa,VIA ERMES DI COLLOREDO,11/6,33100,+39 339 4356095;+39 0432 204108,+39 0432 204108,,siame@libero.it,,3,"Jan 15 - Mar 29, Apr 02 - Jun 30, Sep 15 - Oct 15, Nov 01 - Dec 15",5,2
+2643,UDINE,,Maria Teresa,Nicoletti Maria Teresa,VIA ERMES DI COLLOREDO,11/6,33100,+39 0432 45138 347 8357639;+39 347 8357639,+39 347 8357639,+39 0432 45138,bbmariateresa@libero.it,,2,"Jan 01 - May 15, Jun 15 - Dec 31",5,1
+35481,UDINE,,Tre Cuori,Ardoino Cristiana,VIA CAPODISTRIA,43/1,33100,+39 0432 481211;+39 347 4946141,+39 347 4946141,,3cuori@gmail.com,,2,"Jan 01 - Feb 01, Feb 15 - Jun 15, Jul 05 - Dec 31",5,2
+65160,VARMO,3S,Villa Bartolini,Tammaro Massimo,VIA DUE PLATANI,15,33030,+39 392 8268213,+39 392 8268213,,,,3,Mar 01 - Nov 15,8,3
+62562,VARMO,3,Ai Prati,Guatelli Dante,VIA DEI PRATI,17,33030,+39 338 2048548,+39 338 2048548,,,,4,"Jan 01 - Jan 08, Jan 28 - Oct 13, Oct 23 - Dec 31",8,4
+41600,VENZONE,2,Capelli D'angelo,Cancellieri Elisa,VIA ALBERTON DEL COLLE,1,33010,+39 3493661292,+39 3493661292,,elisacancellieri81@gmail.com,,2,"Jan 01 - Feb 15, Apr 15 - Oct 31, Dec 15 - Dec 31",5,1
+65360,VENZONE,2,Casa di Carnia,Grillo Giovanni,VIA AI VALENTS,17,33010,+39 3471526909,+39 3471526909,,giovanni_grillo@libero.it,,2,May 01 - Oct 31,4,2
+71140,VENZONE,2,Jasmina Venzone B&B,,VIA DEGLI ALPINI,21,33010,+39 346 7333960;+39 346 7333960,+39 346 7333960,,info@jasminavenzone.it,www.jasminavenzone.it,3,Jan 01 - Dec 31,6,2
+54367,VERZEGNIS,3S,La Gerla Blu,Paschini Pietro,VIA VITTORIO CELLA,7,,+39 0433 44646;+39 333 3375166,+39 333 3375166,,lagerlablu@virgilio.it,,4,"Jan 01 - Jan 15, Mar 16 - Oct 31, Dec 01 - Dec 31",8,4
+58600,VILLA SANTINA,2,Ai Pellegrini,Verzin Serena,VIA G. VERDI,24,33029,+39 347 5251177,+39 347 5251177,,serena.verzin@virgilio.it,,2,"Jan 01 - Jan 09, Feb 01 - Mar 14, Apr 01 - Jun 09, Jul 01 - Oct 24, Dec 01 - Dec 31",5,1
+46161,VILLA VICENTINA,2,B&B Casa Perini,Perini Ludovica,VIA GIUSEPPE GARIBALDI,52/A,33059,+39 335 5919471,+39 335 5919471,,info@casaperini.it,www.casaperini.it/,3,"Mar 15 - Oct 31, Nov 20 - Dec 31",6,2
+43480,VISCO,,Rustico Ketty,Bearzot Daniele E Bearzot Giovanni Battista,PIAZZA quattro NOVEMBRE,3,33040,+39 392 1668371,+39 392 1668371,,bed-breakfastketty@libero.it,,3,"Jan 01 - Jan 07, Apr 01 - Sep 30, Dec 06 - Dec 31",6,2

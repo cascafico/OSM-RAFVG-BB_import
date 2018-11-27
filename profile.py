@@ -35,12 +35,14 @@ bbox = True
 #bbox = [35.28,6.62,47.1,18.79]
 
 # tags to replace on matched OSM objects
-master_tags = ('operator')
+master_tags = ('name','phone','operator')
 
 delete_unmatched = False
 #tag_unmatched = { 'fixme':'questo albero può essere abbattuto/declassificato' }
 
 
 # max distance to search for a match in meters
+#max_distance = 30 matched 0
+#max_distance = 130 matched 15 (error suggesting merge different POIs)
 max_distance = 30
 

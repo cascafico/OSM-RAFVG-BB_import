@@ -1,0 +1,9 @@
+csvgeocode Bed_and_Breakfast-csv.csv Bed_and_Breakfast-csv-nominatim.csv 
+  --handler osm --delay 1000 --verbose 
+  --url "http://nominatim.openstreetmap.org/search?street={{INDIRIZZO 2}} {{INDIRIZZO 1}}&city={{city}}&postalcode={{CAP}}&limit=1&format=json"
+
+
+Rows geocoded: 575
+Rows failed: 109
+Time elapsed: 1101.6 seconds
+
